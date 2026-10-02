@@ -1,40 +1,30 @@
 {% extends "base.html" %}
 
-{% block title %}Index{% endblock %}
+{% block title %}Arsen Mamikonyan{% endblock %}
+
+{% block header %}{% endblock %}
 
 {% block content %}
-    <p class="important">
-      Welcome to my awesome homepage.
+    <h1>Arsen Mamikonyan</h1>
+    <p>
+      arsen@mamikonyan.am<br>
+      <a href="https://www.linkedin.com/in/mamikonyana">LinkedIn</a> ·
+      <a href="https://github.com/mamikonyana">GitHub</a>
     </p>
 
-    <!---
-    <h2>My Interests</h2>
-    {% for interest in interests %}
-      <div class="interest">
-        {% if 'url' in interest %}
-          <a href="{{interest.url}}">{{interest.name}}</a>
-        {% else %}
-          {{interest.name}}
-        {% endif %}
-      </div>
-    {% endfor %}
-    -->
-
-    <h2>Projects</h2>
-    {% for project in projects %}
-      <div class="project">
-        <a href="{{project.url}}">
-          <h3>{{project.title}}</h3>
-          <p>{{project.description}}</p>
-        </a>
-      </div>
-    {% endfor %}
-
-    <h2>Social Profiles</h2>
-    {% for profile in profiles %}
-      <div class="social">
-        <a href="{{profile.url}}">{{profile.service}}</a>
-      </div>
-    {% endfor %}
-
+    <ul>
+      <li>Grew up in Armenia.</li>
+      <li>Studied Physics &amp; EECS at MIT.</li>
+      <li>I like teaching:
+        <ul>
+          <li>Co-author of <a href="https://www.amazon.com/OpenCV-Python-Blueprints-creative-computer/dp/1789801818"><i>OpenCV 4 with Python Blueprints</i></a></li>
+          <li>Taught Discrete Math; Machine Learning at the <a href="https://aua.am/">American University of Armenia</a></li>
+          <li>Organized and taught machine learning bootcamps in Armenia (2017–2019)</li>
+        </ul>
+      </li>
+      <li>Founded and worked at <a href="https://hilearn.io">HiLearn</a> (2017–2023), building ML applications.</li>
+      <li>Co-founded <a href="https://fillmyforms.com/">Rescape Inc.</a> (2024–now).</li>
+      <li>Hobby project: <a href="http://hygir.com">hygir.com</a>, which helps people write in Armenian.</li>
+      <li>I like reading Sci-Fi.</li>
+    </ul>
 {% endblock %}

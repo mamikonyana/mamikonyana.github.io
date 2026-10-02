@@ -1,8 +1,8 @@
 *.pyc
 *.sw[op]
-build
 .python3/
 
 .DS_Store
 
 static/reveal.js/
+.venv/

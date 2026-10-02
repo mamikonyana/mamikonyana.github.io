@@ -10,23 +10,19 @@
       <div class="book">
 
         {% if 'url' in book %}
-          <li><a href="{{book.url}}">{{book.title}}</a>{% if 'authors' in book %} by {{', '.join(book['authors'])}} {% endif %}</li>
+          <li><a href="{{book.url}}">{{book.title}}</a>{% if 'authors' in book %} by {{', '.join(book['authors'])}}{% endif %}{% if year_only and 'date' in book %} (read {{(book.date|string)[:4]}}){% endif %}</li>
         {% else %}
-          <li>{{book.title}}{% if 'authors' in book %} by {{', '.join(book['authors'])}} {% endif %}</li>
+          <li>{{book.title}}{% if 'authors' in book %} by {{', '.join(book['authors'])}}{% endif %}{% if year_only and 'date' in book %} (read {{(book.date|string)[:4]}}){% endif %}</li>
         {% endif %}
 
         <ul>
-          {% if 'date' in book %}
+          {% if 'date' in book and not year_only %}
             <li>Date Read: {{book.date}}</li>
           {% endif %}
 
           {% for comment in book.get('comments', []) %}
             <li>{{comment}}</li>
           {% endfor %}
-
-          {% if 'isbn-13' in book %}
-            <li>ISBN-13: {{book['isbn-13']}}</li>
-          {% endif %}
         </ul>
 
       </div>

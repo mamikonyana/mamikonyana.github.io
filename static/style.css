@@ -1,0 +1,15 @@
+body {
+  max-width: 640px;
+  margin: 40px auto;
+  padding: 0 16px;
+  background: #fff;
+  color: #222;
+  font: 16px/1.5 Georgia, "Times New Roman", serif;
+}
+
+a { color: inherit; }
+
+h1 { font-size: 1.6em; margin: 0 0 8px; }
+h2 { font-size: 1.15em; margin: 32px 0 8px; }
+
+.site-header { margin-bottom: 24px; }

@@ -2,17 +2,17 @@
 <html lang="en">
 <head>
     {% block head %}
-    <link rel="icon" href="static/favicon.ico" />
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="icon" href="/static/favicon.ico" />
+    <link rel="stylesheet" href="/static/style.css" />
     <title>{% block title %}{% endblock %}</title>
     {% endblock %}
 </head>
 <body>
-    <div id="content">{% block content %}{% endblock %}</div>
-    <hr>
-    <div id="footer">
-        {% block footer %}
-        &copy; Copyright 2017 by <a href="http://arsen.mamikonyan.am">Arsen Mamikonyan</a>.
-        {% endblock %}
-    </div>
+    {% block header %}
+    <header class="site-header"><a href="/">Arsen Mamikonyan</a></header>
+    {% endblock %}
+    <main id="content">{% block content %}{% endblock %}</main>
 </body>
 </html>

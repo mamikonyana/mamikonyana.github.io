@@ -1,0 +1,2877 @@
+district,price,building_type,street,region,area,ceiling_height
+Center,140000.0,other,Sayat Nova Ave,Yerevan,92.0,2.8
+Center,175000.0,stone,Tumanyan St,Yerevan,65.0,2.8
+Center,76000.0,stone,Kajaznuni St,Yerevan,70.0,2.8
+Center,300000.0,stone,Tamanyan St,Yerevan,112.0,3.2
+Center,230000.0,stone,Tumanyan St,Yerevan,147.0,3.2
+Center,25000.0,stone,G.Lusavorich St,Yerevan,32.0,2.6
+Center,290000.0,monolit,Aram St,Yerevan,137.0,3.0
+Center,110000.0,stone,Vardanants St,Yerevan,75.0,3.2
+Center,29000.0,panel,M.Khorenatsi St,Yerevan,42.0,2.8
+Center,158000.0,monolit,Vardanants St,Yerevan,91.0,3.0
+Center,57000.0,stone,Tigran Mets Ave,Yerevan,65.0,2.8
+Center,57000.0,stone,Abovyan St,Yerevan,50.0,3.2
+Center,69000.0,stone,Tumanyan St,Yerevan,50.0,3.2
+Center,62000.0,panel,E. Qochar St,Yerevan,90.0,2.8
+Center,140000.0,stone,Nalbandyan St,Yerevan,124.0,3.2
+Center,75000.0,stone,Heratsi St,Yerevan,113.0,3.0
+Center,115000.0,stone,Nalbandyan St,Yerevan,92.0,2.8
+Center,62000.0,stone,Charents St,Yerevan,52.0,3.2
+Center,70000.0,panel,Paronyan St,Yerevan,84.0,3.0
+Center,100000.0,panel,Sayat Nova Ave,Yerevan,82.0,2.8
+Center,55000.0,panel,Saryan St,Yerevan,43.0,2.8
+Center,110000.0,stone,Abovyan St,Yerevan,108.0,3.2
+Center,120000.0,stone,Paronyan St,Yerevan,102.0,3.0
+Center,71000.0,stone,Buzand St,Yerevan,100.0,3.2
+Center,88000.0,stone,Sayat Nova Ave,Yerevan,90.0,2.8
+Center,55000.0,panel,Bryusov St,Yerevan,96.0,2.8
+Center,75000.0,monolit,Tsitsernakaberd Highway,Yerevan,137.0,3.0
+Center,78000.0,stone,Vardanants St,Yerevan,105.0,3.2
+Center,295000.0,other,Nalbandyan St,Yerevan,135.0,3.0
+Center,300000.0,monolit,Northern Ave,Yerevan,120.0,3.0
+Center,300000.0,monolit,Northern Ave,Yerevan,120.0,3.0
+Center,300000.0,monolit,Pushkin St,Yerevan,120.0,3.0
+Center,300000.0,stone,Teryan St,Yerevan,92.0,2.8
+Center,300000.0,monolit,Mashtots Ave,Yerevan,118.0,3.2
+Center,300000.0,monolit,Northern Ave,Yerevan,120.0,3.0
+Center,300000.0,monolit,Northern Ave,Yerevan,104.0,3.0
+Center,300000.0,monolit,Amiryan St,Yerevan,120.0,3.0
+Center,300000.0,monolit,Aram St,Yerevan,141.0,3.0
+Center,370000.0,monolit,Aram St,Yerevan,147.0,3.2
+Center,370000.0,stone,Khanjyan St,Yerevan,120.0,2.8
+Center,380000.0,monolit,Aram St,Yerevan,115.0,3.2
+Center,380000.0,monolit,Northern Ave,Yerevan,140.0,3.2
+Center,390000.0,other,Northern Ave,Yerevan,115.0,3.2
+Center,389000.0,monolit,Northern Ave,Yerevan,127.0,3.0
+Center,390000.0,monolit,Vazgen Sargsyan St,Yerevan,135.0,2.8
+Center,399000.0,monolit,Northern Ave,Yerevan,130.0,3.0
+Center,550000.0,other,Northern Ave,Yerevan,140.0,3.0
+Center,550000.0,monolit,Northern Ave,Yerevan,140.0,3.0
+Center,550000.0,monolit,Northern Ave,Yerevan,140.0,3.0
+Center,400000.0,monolit,Northern Ave,Yerevan,127.0,3.0
+Center,75000.0,panel,E. Qochar St,Yerevan,96.0,2.8
+Center,125000.0,stone,Baghramyan Ave (Kentron),Yerevan,104.0,3.2
+Center,135000.0,monolit,Amiryan St,Yerevan,108.0,3.0
+Center,140000.0,monolit,Amiryan St,Yerevan,78.0,3.0
+Center,72000.0,stone,Tigran Mets Ave,Yerevan,80.0,2.8
+Center,92000.0,stone,Baghramyan Ave (Kentron),Yerevan,63.0,2.8
+Center,51000.0,stone,Nalbandyan St,Yerevan,48.0,3.0
+Center,150000.0,stone,Mashtots Ave,Yerevan,148.0,3.2
+Center,150000.0,stone,D. Demirchyan St,Yerevan,97.0,3.2
+Center,120000.0,stone,Mashtots Ave,Yerevan,54.0,3.2
+Center,57000.0,panel,Aygestan 9 St,Yerevan,84.0,2.8
+Center,57000.0,panel,NarDos St,Yerevan,80.0,2.8
+Center,40000.0,panel,Saryan St,Yerevan,39.0,2.8
+Center,90000.0,stone,Zakyan St,Yerevan,55.0,2.8
+Center,70000.0,stone,D. Demirchyan St,Yerevan,89.0,2.8
+Center,45000.0,panel,Zavaryan St,Yerevan,69.0,2.8
+Center,139000.0,stone,Isahakyan St,Yerevan,75.0,3.2
+Center,97500.0,panel,Saryan St,Yerevan,106.0,2.8
+Center,100000.0,other,Israelyan St,Yerevan,93.0,3.2
+Center,85000.0,panel,Aghayan St,Yerevan,50.0,2.8
+Center,82000.0,stone,Nalbandyan St,Yerevan,87.0,2.8
+Center,125000.0,stone,Moskovyan St,Yerevan,61.0,3.0
+Center,170000.0,stone,Koghbatsi St,Yerevan,130.0,3.0
+Center,55000.0,panel,Koghbatsi St,Yerevan,48.0,2.8
+Center,72000.0,panel,Zavaryan St,Yerevan,91.0,2.8
+Center,105000.0,panel,Kajaznuni St,Yerevan,93.0,3.0
+Center,97000.0,panel,NarDos St,Yerevan,93.0,2.8
+Center,63000.0,other,Zavaryan St,Yerevan,93.0,2.8
+Center,35000.0,panel,Kajaznuni St,Yerevan,38.0,2.8
+Center,125560.0,monolit,Nalbandyan St,Yerevan,65.0,3.0
+Center,155000.0,stone,Sayat Nova Ave,Yerevan,90.0,3.2
+Center,109000.0,monolit,Ler. Kamsar St,Yerevan,92.0,3.0
+Center,81600.0,monolit,Ler. Kamsar St,Yerevan,107.0,3.0
+Center,65000.0,panel,E. Qochar St,Yerevan,97.0,2.8
+Center,220000.0,monolit,Amiryan St,Yerevan,96.0,3.0
+Center,408000.0,monolit,Buzand St,Yerevan,130.0,3.0
+Center,133000.0,other,Vardanants St,Yerevan,101.0,2.8
+Center,72000.0,stone,Vardanants St,Yerevan,62.0,3.2
+Center,240000.0,monolit,Vardanants St,Yerevan,128.0,3.0
+Center,55000.0,panel,Vardanants St,Yerevan,35.0,3.2
+Center,85000.0,stone,Vardanants St,Yerevan,96.0,3.2
+Center,45000.0,other,Tigran Mets Ave,Yerevan,52.0,2.8
+Center,118000.0,monolit,Aram St,Yerevan,62.0,3.0
+Center,225000.0,monolit,Yekmalyan St,Yerevan,147.0,3.0
+Center,115000.0,stone,Mashtots Ave,Yerevan,85.0,3.2
+Center,135000.0,other,Mashtots Ave,Yerevan,84.0,2.8
+Center,200000.0,stone,Baghramyan Ave (Kentron),Yerevan,114.0,3.2
+Center,39000.0,other,M.Khorenatsi St,Yerevan,41.0,2.8
+Center,240000.0,monolit,Aram St,Yerevan,119.0,3.0
+Center,74000.0,panel,M.Khorenatsi St,Yerevan,91.0,2.8
+Center,325000.0,monolit,Northern Ave,Yerevan,123.0,3.0
+Center,330000.0,other,Hin yerevantsi St,Yerevan,124.0,3.0
+Center,330000.0,monolit,Aram St,Yerevan,135.0,3.2
+Center,344000.0,monolit,Buzand St,Yerevan,137.0,2.8
+Center,340000.0,monolit,Northern Ave,Yerevan,121.0,3.0
+Center,340000.0,monolit,Northern Ave,Yerevan,128.0,3.0
+Center,340000.0,monolit,Northern Ave,Yerevan,121.0,3.0
+Center,340000.0,monolit,Northern Ave,Yerevan,128.0,3.0
+Center,340000.0,monolit,Pushkin St,Yerevan,121.0,3.0
+Center,340000.0,other,Northern Ave,Yerevan,130.0,3.0
+Center,340000.0,monolit,Northern Ave,Yerevan,128.0,2.8
+Center,340000.0,monolit,Northern Ave,Yerevan,128.0,3.0
+Center,75000.0,stone,Baghramyan Ave (Kentron),Yerevan,66.0,2.8
+Center,170000.0,panel,Saryan St,Yerevan,123.0,2.8
+Center,220000.0,stone,Hanrapetutyan St,Yerevan,120.0,3.2
+Center,100000.0,stone,Tpagrichner St,Yerevan,80.0,2.8
+Center,92000.0,stone,Baghramyan Ave (Kentron),Yerevan,63.0,3.2
+Center,82000.0,stone,Charents St,Yerevan,85.0,3.0
+Center,125000.0,stone,Hanrapetutyan St,Yerevan,93.0,2.8
+Center,83000.0,other,Saryan St,Yerevan,71.0,2.8
+Center,98000.0,panel,Aygestan 9 St,Yerevan,111.0,2.8
+Center,150000.0,stone,Sayat Nova Ave,Yerevan,109.0,2.8
+Center,178200.0,monolit,Nalbandyan St,Yerevan,132.0,3.0
+Center,87000.0,stone,G.Lusavorich St,Yerevan,78.0,2.6
+Center,125000.0,stone,Sayat Nova Ave,Yerevan,105.0,3.2
+Center,160000.0,monolit,Aram St,Yerevan,102.0,3.0
+Center,85000.0,panel,Nar Dos 1 alley,Yerevan,105.0,2.8
+Center,51000.0,panel,E. Qochar St,Yerevan,64.0,2.8
+Center,280000.0,stone,Mashtots Ave,Yerevan,140.0,3.2
+Center,280000.0,monolit,Aram St,Yerevan,130.0,3.0
+Center,280000.0,other,Charents St,Yerevan,135.0,3.0
+Center,280000.0,monolit,Aram St,Yerevan,130.0,3.2
+Center,280000.0,monolit,Yekmalyan St,Yerevan,120.0,3.2
+Center,280000.0,monolit,Northern Ave,Yerevan,120.0,3.0
+Center,280000.0,monolit,Aram St,Yerevan,145.0,3.0
+Center,280000.0,stone,Abovyan St,Yerevan,110.0,3.2
+Center,280000.0,monolit,Yekmalyan St,Yerevan,119.0,3.0
+Center,280000.0,stone,Mashtots Ave,Yerevan,111.0,2.8
+Center,280000.0,monolit,Northern Ave,Yerevan,121.0,3.0
+Center,280000.0,stone,Moskovyan St,Yerevan,130.0,3.2
+Center,285000.0,other,Pushkin St,Yerevan,121.0,2.8
+Center,285000.0,monolit,Buzand St,Yerevan,135.0,3.2
+Center,285000.0,other,Sayat Nova Ave,Yerevan,140.0,3.0
+Center,285000.0,other,Buzand St,Yerevan,135.0,2.8
+Center,288000.0,monolit,Amiryan St,Yerevan,144.0,3.0
+Center,285000.0,monolit,Pushkin St,Yerevan,121.0,3.0
+Center,290000.0,stone,Teryan St,Yerevan,130.0,3.2
+Center,290000.0,other,Vardanants St,Yerevan,130.0,2.8
+Center,290000.0,monolit,Aram St,Yerevan,141.0,2.8
+Center,105000.0,stone,Moskovyan St,Yerevan,70.0,3.2
+Center,45000.0,panel,Bryusov St,Yerevan,91.0,2.8
+Center,120000.0,monolit,M.Khorenatsi St,Yerevan,137.0,3.0
+Center,82000.0,panel,Zavaryan St,Yerevan,92.0,2.8
+Center,100000.0,stone,Tamanyan St,Yerevan,33.0,3.2
+Center,73000.0,monolit,Tsitsernakaberd Highway,Yerevan,84.0,3.0
+Center,120000.0,monolit,A.Manukyan St,Yerevan,107.0,3.0
+Center,110000.0,stone,Sayat Nova Ave,Yerevan,95.0,3.2
+Center,53000.0,stone,M.Khorenatsi St,Yerevan,78.0,3.2
+Center,40000.0,panel,Kajaznuni St,Yerevan,38.0,2.8
+Center,210000.0,monolit,Aram St,Yerevan,76.0,3.0
+Center,75000.0,panel,Koghbatsi St,Yerevan,88.0,2.8
+Center,330000.0,stone,Moskovyan St,Yerevan,110.0,3.2
+Center,52000.0,stone,Tigran Mets Ave,Yerevan,78.0,2.8
+Center,94000.0,monolit,Argishti St,Yerevan,95.0,3.0
+Center,185000.0,monolit,Aram St,Yerevan,94.0,3.0
+Center,85000.0,panel,M.Khorenatsi St,Yerevan,92.0,2.8
+Center,130000.0,stone,Baghramyan Ave (Kentron),Yerevan,56.0,3.2
+Center,54000.0,stone,NarDos St,Yerevan,68.0,2.8
+Center,100000.0,panel,Bryusov St,Yerevan,98.0,2.8
+Center,120000.0,other,Moskovyan St,Yerevan,51.0,2.8
+Center,130000.0,stone,Sayat Nova Ave,Yerevan,96.0,3.2
+Center,54000.0,stone,NarDos St,Yerevan,74.0,2.8
+Center,50000.0,stone,Zakyan St,Yerevan,36.0,2.8
+Center,91800.0,panel,Saryan St,Yerevan,85.0,2.6
+Center,350000.0,other,Northern Ave,Yerevan,125.0,3.0
+Center,350000.0,monolit,Abovyan St,Yerevan,104.0,3.2
+Center,350000.0,monolit,Aram St,Yerevan,143.0,3.0
+Center,350000.0,other,Northern Ave,Yerevan,104.0,3.0
+Center,360000.0,stone,Northern Ave,Yerevan,139.0,3.0
+Center,360000.0,other,Northern Ave,Yerevan,146.0,3.0
+Center,360000.0,other,Northern Ave,Yerevan,146.0,3.0
+Center,370000.0,monolit,Amiryan St,Yerevan,130.0,3.0
+Center,57000.0,panel,Koghbatsi St,Yerevan,41.0,2.8
+Center,85000.0,stone,Hanrapetutyan St,Yerevan,51.0,3.2
+Center,93000.0,stone,Saryan St,Yerevan,54.0,3.0
+Center,59000.0,stone,Aygestan 9 St,Yerevan,52.0,3.0
+Center,180000.0,other,Teryan St,Yerevan,120.0,2.8
+Center,131000.0,stone,Tumanyan St,Yerevan,107.0,3.2
+Center,180000.0,stone,Abovyan St,Yerevan,117.0,3.2
+Center,80000.0,stone,Hanrapetutyan St,Yerevan,48.0,2.8
+Center,55000.0,stone,Tigran Mets Ave,Yerevan,66.0,2.8
+Center,150000.0,other,Rostom St,Yerevan,130.0,2.8
+Center,150000.0,stone,Mashtots Ave,Yerevan,116.0,3.0
+Center,53000.0,panel,Koghbatsi St,Yerevan,55.0,2.8
+Center,135000.0,stone,Saxarov St,Yerevan,96.0,3.0
+Center,56000.0,stone,Tigran Mets Ave,Yerevan,66.0,2.8
+Center,70000.0,stone,A.Manukyan St,Yerevan,72.0,2.8
+Center,95000.0,monolit,Verin Antarayin,Yerevan,60.0,3.0
+Center,175000.0,other,Sayat Nova Ave,Yerevan,115.0,3.2
+Center,190000.0,stone,Tamanyan St,Yerevan,110.0,2.8
+Center,178000.0,stone,Tumanyan St,Yerevan,141.0,2.8
+Center,180000.0,other,Mashtots Ave,Yerevan,115.0,2.8
+Center,185000.0,stone,Abovyan St,Yerevan,98.0,3.2
+Center,150000.0,panel,Hin yerevantsi St,Yerevan,62.0,2.8
+Center,192000.0,monolit,Sayat Nova Ave,Yerevan,120.0,3.2
+Center,58000.0,stone,Vardanants St,Yerevan,34.0,2.8
+Center,58000.0,panel,Vardanants St,Yerevan,66.0,2.8
+Center,230000.0,stone,Teryan St,Yerevan,98.0,3.0
+Center,150000.0,monolit,Saryan St,Yerevan,80.0,3.0
+Center,90000.0,stone,Baghramyan Ave (Kentron),Yerevan,72.0,2.8
+Center,95000.0,stone,Tumanyan St,Yerevan,74.0,3.0
+Center,72000.0,panel,E. Qochar St,Yerevan,94.0,2.8
+Center,120000.0,panel,Tumanyan St,Yerevan,80.0,2.8
+Center,42000.0,panel,Vardanants St,Yerevan,38.0,2.8
+Center,80000.0,other,Paronyan St,Yerevan,78.0,2.8
+Center,135000.0,stone,Koryun St,Yerevan,100.0,3.2
+Center,75000.0,panel,E. Qochar St,Yerevan,70.0,2.8
+Center,135000.0,monolit,Ler. Kamsar St,Yerevan,92.0,3.2
+Center,130000.0,panel,Pushkin St,Yerevan,110.0,3.0
+Center,130000.0,panel,Saryan St,Yerevan,72.0,2.8
+Center,130000.0,panel,Pushkin St,Yerevan,110.0,2.8
+Center,130000.0,stone,Charents St,Yerevan,123.0,3.2
+Center,130000.0,panel,Saryan St,Yerevan,90.0,2.8
+Center,127000.0,monolit,Yekmalyan St,Yerevan,73.0,3.0
+Center,127000.0,monolit,Pushkin St,Yerevan,72.0,3.0
+Center,120000.0,monolit,Moskovyan St,Yerevan,96.0,2.8
+Center,117000.0,panel,Pushkin St,Yerevan,96.0,2.8
+Center,120000.0,panel,D. Demirchyan St,Yerevan,85.0,2.8
+Center,120000.0,monolit,Moskovyan St,Yerevan,96.0,3.0
+Center,127000.0,stone,Teryan St,Yerevan,58.0,3.0
+Center,120000.0,other,Mashtots Ave,Yerevan,63.0,2.8
+Center,120000.0,stone,Nalbandyan St,Yerevan,120.0,2.8
+Center,120000.0,monolit,Argishti St,Yerevan,103.0,3.0
+Center,120000.0,monolit,Argishti St,Yerevan,103.0,3.0
+Center,120000.0,monolit,Moskovyan St,Yerevan,95.0,3.0
+Center,120000.0,stone,Nalbandyan St,Yerevan,117.0,2.8
+Center,120000.0,stone,D. Demirchyan St,Yerevan,82.0,3.0
+Center,120000.0,monolit,Verin Antarayin,Yerevan,90.0,3.0
+Center,120000.0,stone,Baghramyan Ave (Kentron),Yerevan,100.0,2.8
+Center,120000.0,monolit,Buzand St,Yerevan,60.0,3.2
+Center,120000.0,stone,Paronyan St,Yerevan,91.0,2.8
+Center,110000.0,panel,Koghbatsi St,Yerevan,86.0,2.8
+Center,120000.0,stone,Tumanyan St,Yerevan,80.0,3.0
+Center,120000.0,panel,Sayat Nova Ave,Yerevan,110.0,2.8
+Center,109000.0,monolit,Aram St,Yerevan,78.0,3.2
+Center,110000.0,monolit,Koghbatsi St,Yerevan,97.0,2.8
+Center,110000.0,monolit,Verin Antarayin,Yerevan,86.0,3.0
+Center,110000.0,monolit,Argishti St,Yerevan,104.0,2.8
+Center,110000.0,stone,Leo St,Yerevan,100.0,2.8
+Center,110000.0,other,Amiryan St,Yerevan,90.0,2.8
+Center,105000.0,stone,Tumanyan St,Yerevan,72.0,2.8
+Center,105000.0,stone,Abovyan St,Yerevan,70.0,2.8
+Center,105000.0,stone,Tumanyan St,Yerevan,72.0,3.0
+Center,100000.0,stone,Nar Dos 1 alley,Yerevan,92.0,3.0
+Center,49000.0,stone,Tigran Mets Ave,Yerevan,48.0,2.8
+Center,51000.0,other,Argishti St,Yerevan,53.0,3.0
+Center,50000.0,stone,Nalbandyan St,Yerevan,49.0,2.8
+Center,41000.0,stone,A.Manukyan St,Yerevan,38.0,3.2
+Center,60000.0,stone,Sayat Nova Ave,Yerevan,50.0,2.8
+Center,68500.0,stone,A.Manukyan St,Yerevan,72.0,2.8
+Center,57000.0,stone,Heratsi St,Yerevan,67.0,3.0
+Center,85000.0,panel,Zavaryan St,Yerevan,70.0,2.8
+Center,85000.0,panel,Paronyan St,Yerevan,84.0,3.0
+Center,70000.0,stone,Paronyan St,Yerevan,82.0,3.2
+Center,60000.0,monolit,Argishti St,Yerevan,53.0,3.0
+Center,60000.0,other,Argishti St,Yerevan,56.0,2.8
+Center,60000.0,stone,Mashtots Ave,Yerevan,71.0,2.8
+Center,225000.0,monolit,Aram St,Yerevan,120.0,3.0
+Center,85000.0,panel,Pushkin St,Yerevan,82.0,2.8
+Center,60000.0,panel,Kajaznuni St,Yerevan,98.0,2.8
+Center,60000.0,panel,Saryan St,Yerevan,71.0,2.8
+Center,130000.0,stone,Tumanyan St,Yerevan,42.0,3.2
+Center,80000.0,stone,Amiryan St,Yerevan,36.0,3.2
+Center,62000.0,stone,Paronyan St,Yerevan,45.0,3.0
+Center,47000.0,other,M.Khorenatsi St,Yerevan,47.0,2.8
+Center,40000.0,panel,M.Khorenatsi St,Yerevan,40.0,2.8
+Center,65000.0,stone,Mashtots Ave,Yerevan,71.0,3.2
+Center,65000.0,stone,Mashtots Ave,Yerevan,71.0,3.2
+Center,64000.0,stone,Mashtots Ave,Yerevan,54.0,3.2
+Center,111000.0,other,Rostom St,Yerevan,84.0,2.8
+Center,74900.0,stone,Vardanants St,Yerevan,90.0,2.8
+Center,74800.0,monolit,Verin Antarayin,Yerevan,68.0,3.0
+Center,70000.0,panel,Tigran Mets Ave,Yerevan,100.0,2.8
+Center,115000.0,stone,Paronyan St,Yerevan,102.0,3.0
+Center,70000.0,stone,Khanjyan St,Yerevan,81.0,3.2
+Center,70000.0,panel,Vardanants St,Yerevan,78.0,3.0
+Center,73000.0,other,Paronyan St,Yerevan,85.0,3.2
+Center,74000.0,panel,Bryusov St,Yerevan,108.0,3.0
+Center,73000.0,other,Argishti St,Yerevan,92.0,2.8
+Center,74000.0,other,Tigran Mets Ave,Yerevan,72.0,2.8
+Center,80000.0,stone,Zakyan St,Yerevan,100.0,2.8
+Center,63000.0,panel,Israelyan St,Yerevan,59.0,3.0
+Center,78000.0,other,Tsitsernakaberd Highway,Yerevan,98.0,2.8
+Center,60000.0,panel,NarDos St,Yerevan,64.0,2.8
+Center,60000.0,monolit,Argishti St,Yerevan,54.0,3.0
+Center,89000.0,stone,Vardanants St,Yerevan,70.0,3.0
+Center,60000.0,panel,Baghramyan Ave (Kentron),Yerevan,42.0,2.8
+Center,60000.0,stone,Tigran Mets Ave,Yerevan,75.0,3.0
+Center,58000.0,stone,Mashtots Ave,Yerevan,40.0,2.8
+Center,87000.0,stone,Vardanants St,Yerevan,105.0,2.8
+Center,88000.0,monolit,Amiryan St,Yerevan,75.0,3.0
+Center,88000.0,stone,Baghramyan Ave (Kentron),Yerevan,83.0,2.8
+Center,170000.0,stone,Abovyan St,Yerevan,104.0,2.8
+Center,320000.0,stone,Tamanyan St,Yerevan,112.0,3.2
+Center,135000.0,monolit,Paronyan St,Yerevan,101.0,2.8
+Center,237600.0,other,Aram St,Yerevan,132.0,3.0
+Center,155000.0,monolit,Sayat Nova Ave,Yerevan,80.0,3.0
+Center,35000.0,panel,Bryusov St,Yerevan,45.0,2.8
+Center,72000.0,monolit,Antarayin St,Yerevan,60.0,2.8
+Center,165000.0,monolit,Northern Ave,Yerevan,67.0,3.0
+Center,45000.0,panel,Agatangeghos St,Yerevan,42.0,2.8
+Center,85000.0,monolit,Tsitsernakaberd Highway,Yerevan,105.0,3.0
+Center,155000.0,stone,Abovyan St,Yerevan,65.0,3.0
+Center,85000.0,panel,E. Qochar St,Yerevan,75.0,2.8
+Center,160000.0,stone,Nalbandyan St,Yerevan,112.0,2.8
+Center,90000.0,stone,Nalbandyan St,Yerevan,73.0,2.8
+Center,85000.0,stone,Nalbandyan St,Yerevan,47.0,3.2
+Center,39900.0,monolit,Argishti St,Yerevan,38.0,3.0
+Center,72000.0,stone,Charents St,Yerevan,38.0,3.0
+Center,110000.0,stone,M.Khorenatsi St,Yerevan,101.0,3.0
+Center,120000.0,stone,Abovyan St,Yerevan,60.0,2.8
+Center,140000.0,monolit,Amiryan St,Yerevan,78.0,3.0
+Center,46000.0,monolit,Aygestan 9 St,Yerevan,51.0,3.0
+Center,41000.0,stone,Nalbandyan St,Yerevan,37.0,2.8
+Center,39000.0,stone,D. Demirchyan St,Yerevan,35.0,2.8
+Center,72000.0,stone,Khanjyan St,Yerevan,75.0,3.2
+Center,130000.0,panel,Sayat Nova Ave,Yerevan,101.0,2.8
+Center,300000.0,monolit,Aram St,Yerevan,125.0,3.0
+Center,110000.0,monolit,Sayat Nova Ave,Yerevan,82.0,3.0
+Center,110000.0,stone,Tpagrichner St,Yerevan,98.0,3.2
+Center,50000.0,stone,Sayat Nova Ave,Yerevan,36.0,3.2
+Center,50000.0,panel,Tsovakal Isakov Ave,Yerevan,125.0,2.8
+Center,80000.0,panel,NarDos St,Yerevan,90.0,2.8
+Center,120000.0,stone,Nalbandyan St,Yerevan,100.0,2.8
+Center,50000.0,monolit,Argishti St,Yerevan,53.0,3.0
+Center,157600.0,monolit,Antarayin St,Yerevan,137.0,3.2
+Center,170000.0,panel,Pushkin St,Yerevan,109.0,3.0
+Center,46000.0,panel,Tigran Mets Ave,Yerevan,41.0,2.8
+Center,135000.0,panel,Vardanants St,Yerevan,113.0,2.8
+Center,140000.0,other,Pushkin St,Yerevan,91.0,2.8
+Center,153000.0,stone,Saryan St,Yerevan,143.0,2.8
+Center,110000.0,monolit,Sayat Nova Ave,Yerevan,82.0,3.0
+Center,130000.0,stone,Sayat Nova Ave,Yerevan,95.0,3.0
+Center,130000.0,monolit,Mashtots Ave,Yerevan,90.0,3.0
+Center,160000.0,monolit,D. Demirchyan St,Yerevan,84.0,3.0
+Center,122000.0,stone,Sayat Nova Ave,Yerevan,80.0,2.8
+Center,200000.0,monolit,Mher Mkrtchyan St,Yerevan,110.0,3.0
+Center,39500.0,monolit,Argishti St,Yerevan,38.0,3.0
+Center,68000.0,stone,Charents St,Yerevan,52.0,3.2
+Center,35000.0,stone,Koryun St,Yerevan,44.0,3.0
+Center,33000.0,panel,E. Qochar St,Yerevan,52.0,2.8
+Center,33000.0,panel,M.Khorenatsi St,Yerevan,42.0,2.8
+Center,200000.0,monolit,Teryan St,Yerevan,107.0,2.8
+Center,200000.0,stone,Pushkin St,Yerevan,135.0,3.2
+Center,68000.0,other,Koghbatsi St,Yerevan,43.0,2.8
+Center,221000.0,monolit,Verin Antarayin,Yerevan,130.0,3.2
+Center,230000.0,stone,Pushkin St,Yerevan,135.0,3.0
+Center,230000.0,stone,Teryan St,Yerevan,98.0,3.0
+Center,230000.0,stone,Mashtots Ave,Yerevan,100.0,3.2
+Center,226000.0,monolit,Aram St,Yerevan,126.0,2.8
+Center,230000.0,stone,Mashtots Ave,Yerevan,100.0,3.0
+Center,225000.0,monolit,Aram St,Yerevan,142.0,3.0
+Center,225000.0,monolit,Yekmalyan St,Yerevan,147.0,2.8
+Center,225000.0,monolit,Northern Ave,Yerevan,115.0,3.0
+Center,224000.0,monolit,Aram St,Yerevan,126.0,3.0
+Center,225000.0,monolit,Aram St,Yerevan,149.0,3.2
+Center,27500.0,stone,G.Lusavorich St,Yerevan,32.0,2.6
+Center,225000.0,monolit,Aram St,Yerevan,119.0,3.0
+Center,28000.0,panel,NarDos St,Yerevan,38.0,2.8
+Center,220000.0,monolit,Abovyan St,Yerevan,120.0,3.0
+Center,220000.0,stone,Baghramyan Ave (Kentron),Yerevan,130.0,3.2
+Center,220000.0,other,Aram St,Yerevan,119.0,2.8
+Center,220000.0,monolit,Verin Antarayin,Yerevan,120.0,3.0
+Center,220000.0,monolit,Abovyan St,Yerevan,106.0,3.0
+Center,220000.0,stone,Mashtots Ave,Yerevan,113.0,3.2
+Center,220000.0,monolit,Aram St,Yerevan,128.0,3.0
+Center,220000.0,stone,Amiryan St,Yerevan,120.0,3.2
+Center,220000.0,stone,Hanrapetutyan dead end,Yerevan,110.0,3.0
+Center,80000.0,stone,Khanjyan St,Yerevan,81.0,3.2
+Center,220000.0,stone,Mashtots Ave,Yerevan,124.0,3.2
+Center,125000.0,stone,Hanrapetutyan St,Yerevan,130.0,3.0
+Center,68000.0,stone,Heratsi St,Yerevan,70.0,3.0
+Center,32000.0,stone,Hanrapetutyan str  2 alley,Yerevan,64.0,3.2
+Center,80000.0,stone,Teryan St,Yerevan,42.0,3.2
+Center,220000.0,stone,Nalbandyan St,Yerevan,145.0,3.2
+Center,240000.0,monolit,Baghramyan Ave (Kentron),Yerevan,135.0,2.8
+Center,240000.0,stone,Teryan St,Yerevan,140.0,2.8
+Center,240000.0,monolit,Teryan St,Yerevan,137.0,2.8
+Center,240000.0,stone,Pushkin St,Yerevan,120.0,3.2
+Center,240000.0,stone,Pushkin St,Yerevan,120.0,3.2
+Center,240000.0,other,Teryan St,Yerevan,137.0,3.0
+Center,240000.0,monolit,Vardanants St,Yerevan,131.0,3.0
+Center,240000.0,monolit,Buzand St,Yerevan,132.0,3.0
+Center,315000.0,stone,Tamanyan St,Yerevan,112.0,3.2
+Center,270000.0,stone,Tumanyan St,Yerevan,135.0,3.2
+Center,270000.0,monolit,Pushkin St,Yerevan,120.0,3.0
+Center,270000.0,monolit,Buzand St,Yerevan,135.0,3.2
+Center,270000.0,panel,Amiryan St,Yerevan,95.0,2.8
+Center,275000.0,other,Vardanants St,Yerevan,135.0,2.8
+Center,270000.0,monolit,Aram St,Yerevan,142.0,3.0
+Center,270000.0,other,Mashtots Ave,Yerevan,140.0,2.8
+Center,270000.0,monolit,Mashtots Ave,Yerevan,130.0,3.0
+Center,269000.0,monolit,Amiryan St,Yerevan,149.0,3.0
+Center,270000.0,monolit,Buzand St,Yerevan,135.0,3.0
+Center,260000.0,monolit,Verin Antarayin,Yerevan,121.0,3.0
+Center,260000.0,other,Sayat Nova Ave,Yerevan,140.0,2.8
+Center,260000.0,stone,Moskovyan St,Yerevan,90.0,3.2
+Center,260000.0,monolit,Sayat Nova Ave,Yerevan,140.0,3.0
+Center,260000.0,stone,Frik St,Yerevan,125.0,3.0
+Center,320000.0,monolit,Aram St,Yerevan,142.0,3.0
+Center,320000.0,monolit,Buzand St,Yerevan,121.0,3.0
+Center,310000.0,stone,Isahakyan St,Yerevan,140.0,3.0
+Center,235000.0,stone,Yekmalyan St,Yerevan,120.0,3.0
+Center,320000.0,monolit,Northern Ave,Yerevan,104.0,3.2
+Center,230000.0,other,Antarayin St,Yerevan,125.0,2.8
+Center,235000.0,stone,Mashtots Ave,Yerevan,124.0,3.2
+Center,230000.0,stone,Mashtots Ave,Yerevan,110.0,3.0
+Center,230000.0,stone,Abovyan St,Yerevan,110.0,3.2
+Center,230000.0,stone,Pushkin St,Yerevan,120.0,3.0
+Center,230000.0,monolit,Sayat Nova Ave,Yerevan,100.0,3.2
+Center,30500.0,stone,Tigran Mets Ave,Yerevan,37.0,2.8
+Center,29000.0,panel,NarDos St,Yerevan,42.0,2.8
+Center,29000.0,stone,Tigran Mets Ave,Yerevan,34.0,2.8
+Center,26700.0,panel,Isakov Ave,Yerevan,44.0,2.8
+Center,200000.0,monolit,Verin Antarayin,Yerevan,126.0,3.0
+Center,200000.0,monolit,Nalbandyan St,Yerevan,110.0,3.0
+Center,200000.0,other,Nalbandyan St,Yerevan,108.0,2.8
+Center,200000.0,monolit,Nalbandyan St,Yerevan,110.0,2.8
+Center,200000.0,stone,Nalbandyan St,Yerevan,135.0,3.2
+Center,200000.0,monolit,Antarayin St,Yerevan,116.0,3.2
+Center,200000.0,monolit,Dzorap St,Yerevan,130.0,3.0
+Center,200000.0,panel,Sayat Nova Ave,Yerevan,100.0,2.8
+Center,200000.0,monolit,Yekmalyan St,Yerevan,135.0,3.2
+Center,200000.0,other,Charents St,Yerevan,124.0,3.0
+Center,200000.0,monolit,Dzorap St,Yerevan,130.0,3.0
+Center,200000.0,stone,Pushkin St,Yerevan,145.0,3.2
+Center,200000.0,other,Teryan St,Yerevan,107.0,2.8
+Center,32000.0,stone,Arshakunyats Ave,Yerevan,57.0,2.8
+Center,210000.0,stone,Mashtots Ave,Yerevan,89.0,3.0
+Center,60000.0,stone,Mashtots Ave,Yerevan,48.0,3.2
+Center,250000.0,stone,Amiryan St,Yerevan,80.0,3.2
+Center,259000.0,monolit,Amiryan St,Yerevan,144.0,3.0
+Center,260000.0,monolit,Aram St,Yerevan,140.0,3.0
+Center,255000.0,monolit,Aram St,Yerevan,110.0,3.0
+Center,255000.0,other,Aram St,Yerevan,149.0,3.0
+Center,255000.0,stone,Mashtots Ave,Yerevan,110.0,3.0
+Center,250000.0,monolit,Yekmalyan St,Yerevan,119.0,3.0
+Center,250000.0,monolit,Aram St,Yerevan,145.0,2.8
+Center,250000.0,monolit,Aram St,Yerevan,135.0,3.2
+Center,255000.0,stone,Mashtots Ave,Yerevan,110.0,3.2
+Center,250000.0,monolit,Vardanants St,Yerevan,103.0,3.2
+Center,250000.0,stone,Abovyan St,Yerevan,130.0,3.2
+Center,250000.0,monolit,Aram St,Yerevan,144.0,3.0
+Center,75000.0,panel,Hin yerevantsi St,Yerevan,67.0,2.8
+Center,80000.0,monolit,Tsitsernakaberd Highway,Yerevan,100.0,3.0
+Center,41000.0,stone,Heratsi St,Yerevan,45.0,3.0
+Center,98000.0,panel,Saryan St,Yerevan,71.0,2.8
+Center,250000.0,monolit,Antarayin St,Yerevan,148.0,2.8
+Center,250000.0,monolit,Verin Antarayin,Yerevan,148.0,3.0
+Center,75000.0,monolit,Yekmalyan St,Yerevan,60.0,3.2
+Center,28000.0,other,Kajaznuni St,Yerevan,40.0,2.8
+Center,95000.0,stone,Nalbandyan St,Yerevan,78.0,3.2
+Center,82000.0,stone,Mashtots Ave,Yerevan,67.0,3.2
+Center,72000.0,other,D. Demirchyan St,Yerevan,70.0,3.0
+Center,29000.0,stone,Koryun St,Yerevan,33.0,2.8
+Center,250000.0,monolit,Pushkin St,Yerevan,125.0,2.8
+Center,250000.0,monolit,Vardanants St,Yerevan,130.0,3.0
+Center,250000.0,monolit,Vardanants St,Yerevan,130.0,2.8
+Center,250000.0,stone,Tumanyan St,Yerevan,135.0,3.0
+Center,250000.0,monolit,Antarayin St,Yerevan,148.0,3.0
+Center,246000.0,monolit,Buzand St,Yerevan,80.0,2.8
+Center,245000.0,other,Aram St,Yerevan,144.0,2.8
+Center,245000.0,stone,Nalbandyan St,Yerevan,145.0,3.0
+Center,245000.0,stone,Nalbandyan St,Yerevan,145.0,3.0
+Center,240000.0,monolit,Yekmalyan St,Yerevan,130.0,3.2
+Center,240000.0,monolit,Teryan St,Yerevan,137.0,3.0
+Center,240000.0,panel,Teryan St,Yerevan,137.0,3.0
+Center,159000.0,other,Mashtots Ave,Yerevan,82.0,2.8
+Center,250000.0,stone,Antarayin St,Yerevan,117.0,3.2
+Center,170000.0,stone,Isahakyan St,Yerevan,80.0,3.0
+Center,72000.0,other,Bryusov St,Yerevan,85.0,2.8
+Center,145000.0,stone,Abovyan St,Yerevan,60.0,2.8
+Center,98000.0,other,Amiryan St,Yerevan,34.0,3.2
+Center,72000.0,panel,Teryan St,Yerevan,42.0,2.8
+Center,68000.0,stone,Mashtots Ave,Yerevan,31.0,3.2
+Center,172500.0,monolit,Aram St,Yerevan,115.0,2.8
+Center,117500.0,monolit,Buzand St,Yerevan,47.0,3.0
+Center,61000.0,monolit,Argishti St,Yerevan,55.0,3.0
+Center,145000.0,stone,Nalbandyan St,Yerevan,120.0,3.2
+Center,81000.0,monolit,Antarayin St,Yerevan,90.0,3.0
+Center,75000.0,monolit,Argishti St,Yerevan,89.0,3.0
+Center,38000.0,stone,Arshakunyats Ave,Yerevan,54.0,3.0
+Center,170000.0,stone,D. Demirchyan St,Yerevan,132.0,2.8
+Center,82000.0,stone,Vardanants St,Yerevan,80.0,3.2
+Center,175000.0,monolit,Rostom St,Yerevan,138.0,3.2
+Center,200000.0,monolit,Northern Ave,Yerevan,65.0,3.0
+Center,80000.0,stone,Mashtots Ave,Yerevan,70.0,3.2
+Center,160000.0,monolit,Amiryan St,Yerevan,82.0,3.2
+Center,82000.0,monolit,Saryan St,Yerevan,81.0,2.8
+Center,98000.0,monolit,Argishti St,Yerevan,104.0,2.8
+Center,90000.0,stone,Mashtots Ave,Yerevan,67.0,3.2
+Center,115000.0,stone,Saryan St,Yerevan,90.0,3.0
+Center,125000.0,stone,Nalbandyan St,Yerevan,91.0,2.8
+Center,210000.0,stone,Tamanyan St,Yerevan,70.0,2.8
+Center,67000.0,stone,D. Demirchyan St,Yerevan,90.0,2.8
+Center,210000.0,monolit,Vardanants St,Yerevan,91.0,2.8
+Center,33000.0,stone,Tigran Mets Ave 2 alley,Yerevan,60.0,3.2
+Center,33000.0,stone,Tigran Mets Ave,Yerevan,34.0,2.8
+Center,220000.0,stone,Sayat Nova Ave,Yerevan,88.0,3.2
+Center,210000.0,monolit,Aram St,Yerevan,80.0,3.2
+Center,205000.0,stone,Abovyan St,Yerevan,100.0,3.0
+Center,205000.0,monolit,Buzand St,Yerevan,105.0,3.0
+Center,210000.0,stone,Abovyan St,Yerevan,144.0,3.2
+Center,205000.0,other,Tumanyan St,Yerevan,141.0,2.8
+Center,205000.0,monolit,Buzand St,Yerevan,130.0,3.2
+Center,215000.0,monolit,Hanrapetutyan St,Yerevan,107.0,2.8
+Center,215000.0,monolit,Sayat Nova Ave,Yerevan,120.0,3.0
+Center,211000.0,monolit,Leo St,Yerevan,136.0,3.2
+Center,212000.0,monolit,Abovyan St,Yerevan,106.0,2.8
+Center,33000.0,other,Kajaznuni St,Yerevan,40.0,2.8
+Center,210000.0,stone,Tigran Mets Ave,Yerevan,97.0,2.8
+Center,33000.0,panel,M.Khorenatsi St,Yerevan,41.0,2.8
+Center,34000.0,stone,Tigran Mets Ave,Yerevan,46.0,3.0
+Center,69000.0,stone,Charents St,Yerevan,72.0,3.2
+Center,31500.0,panel,M.Khorenatsi St,Yerevan,40.0,2.8
+Center,31600.0,panel,M.Khorenatsi St,Yerevan,40.0,2.8
+Center,27000.0,panel,Tigran Mets Ave,Yerevan,39.0,2.8
+Center,70000.0,stone,Saryan St,Yerevan,56.0,2.8
+Center,90000.0,stone,Paronyan St,Yerevan,115.0,2.8
+Center,220000.0,stone,Nalbandyan St,Yerevan,136.0,3.2
+Center,175000.0,monolit,Aram St,Yerevan,105.0,3.0
+Center,69000.0,other,Teryan St,Yerevan,42.0,2.8
+Center,220000.0,stone,Nalbandyan St,Yerevan,145.0,2.8
+Center,95000.0,other,Nalbandyan St,Yerevan,62.0,2.8
+Center,35000.0,stone,Glinka St,Yerevan,65.0,2.8
+Center,35000.0,other,M.Khorenatsi St,Yerevan,42.0,2.8
+Center,35500.0,panel,Arshakunyats Ave,Yerevan,40.0,2.8
+Center,145000.0,other,Amiryan St,Yerevan,89.0,2.8
+Center,80000.0,stone,Paronyan St,Yerevan,78.0,2.8
+Center,33500.0,other,Tigran Mets Ave,Yerevan,44.0,2.8
+Center,62000.0,panel,E. Qochar St,Yerevan,69.0,2.8
+Center,70000.0,stone,Mashtots Ave,Yerevan,60.0,3.2
+Center,60000.0,panel,Vardanants St,Yerevan,41.0,2.8
+Center,130000.0,stone,Tpagrichner St,Yerevan,98.0,2.8
+Center,127000.0,monolit,Aram St,Yerevan,57.0,2.8
+Center,69000.0,panel,Bryusov St,Yerevan,67.0,2.8
+Center,160000.0,other,Buzand St,Yerevan,75.0,2.8
+Center,115000.0,stone,Saryan St,Yerevan,110.0,2.8
+Center,77000.0,monolit,Tsitsernakaberd Highway,Yerevan,86.0,3.2
+Center,205000.0,monolit,Tumanyan St,Yerevan,141.0,2.8
+Center,75000.0,stone,Tumanyan St,Yerevan,40.0,2.8
+Center,115000.0,stone,Sayat Nova Ave,Yerevan,72.0,2.8
+Center,200000.0,monolit,Aram St,Yerevan,126.0,3.2
+Center,200000.0,monolit,M.Khorenatsi St,Yerevan,130.0,2.8
+Center,200000.0,stone,Abovyan St,Yerevan,130.0,2.8
+Center,90000.0,monolit,Yekmalyan St,Yerevan,65.0,3.2
+Center,200000.0,monolit,A.Manukyan St,Yerevan,110.0,3.2
+Center,83000.0,stone,Charents St,Yerevan,85.0,3.2
+Center,170000.0,stone,Mashtots Ave,Yerevan,145.0,3.2
+Center,200000.0,stone,Sayat Nova Ave,Yerevan,120.0,2.8
+Center,165000.0,stone,D. Demirchyan St,Yerevan,132.0,3.0
+Center,200000.0,monolit,Mashtots Ave,Yerevan,86.0,3.0
+Center,98000.0,stone,Sayat Nova Ave,Yerevan,58.0,3.0
+Center,95000.0,panel,Vardanants St,Yerevan,62.0,2.8
+Center,70000.0,monolit,Tsitsernakaberd Highway,Yerevan,84.0,3.0
+Center,85000.0,stone,Ghazar Parpetsi St,Yerevan,60.0,3.2
+Center,90000.0,panel,Paronyan St,Yerevan,85.0,2.8
+Center,115000.0,monolit,Paronyan St,Yerevan,80.0,2.8
+Center,90000.0,panel,M.Khorenatsi St,Yerevan,74.0,2.8
+Center,77000.0,panel,E. Qochar St,Yerevan,78.0,2.8
+Center,60000.0,panel,Kajaznuni St,Yerevan,71.0,2.8
+Center,62000.0,panel,Tigran Mets Ave,Yerevan,78.0,2.8
+Center,60000.0,panel,NarDos St,Yerevan,65.0,2.8
+Center,80000.0,stone,Leo St,Yerevan,97.0,3.2
+Center,40000.0,panel,Agatangeghos St,Yerevan,40.0,2.8
+Center,75000.0,monolit,Tsitsernakaberd Highway,Yerevan,79.0,3.0
+Center,75000.0,other,Tumanyan St,Yerevan,58.0,2.8
+Center,82500.0,stone,D. Demirchyan St,Yerevan,100.0,2.8
+Center,98000.0,panel,Saryan St,Yerevan,71.0,2.8
+Center,169000.0,stone,Sayat Nova Ave,Yerevan,120.0,2.8
+Center,96000.0,other,Saryan St,Yerevan,56.0,2.8
+Center,125000.0,stone,Saryan St,Yerevan,100.0,2.8
+Center,155000.0,monolit,Tsitsernakaberd Highway,Yerevan,110.0,3.0
+Center,118000.0,stone,Sayat Nova Ave,Yerevan,72.0,2.8
+Center,80000.0,stone,Paronyan St,Yerevan,78.0,2.8
+Center,95000.0,monolit,Argishti St,Yerevan,118.0,2.8
+Center,40000.0,monolit,Argishti St,Yerevan,41.0,2.8
+Center,40000.0,panel,Tigran Mets Ave,Yerevan,45.0,3.0
+Center,40000.0,panel,Isakov Ave,Yerevan,72.0,3.0
+Center,40000.0,panel,Zavaryan St,Yerevan,42.0,2.8
+Center,37000.0,other,Arshakunyats Ave,Yerevan,40.0,2.8
+Center,39000.0,stone,Kajaznuni St,Yerevan,37.0,2.8
+Center,39000.0,stone,Arshakunyats Ave,Yerevan,60.0,2.8
+Center,39000.0,other,M.Khorenatsi St,Yerevan,40.0,2.8
+Center,85000.0,monolit,Ler. Kamsar St,Yerevan,80.0,2.8
+Center,76000.0,other,Mashtots Ave,Yerevan,46.0,2.8
+Center,68000.0,other,Mashtots Ave,Yerevan,42.0,2.8
+Center,75000.0,stone,Mashtots Ave,Yerevan,50.0,2.8
+Center,75000.0,stone,Mashtots Ave,Yerevan,36.0,2.8
+Center,160000.0,monolit,Mashtots Ave,Yerevan,70.0,2.8
+Center,160000.0,monolit,Aram St,Yerevan,102.0,2.8
+Center,170000.0,stone,Hanrapetutyan St,Yerevan,127.0,3.2
+Center,175000.0,stone,Mashtots Ave,Yerevan,114.0,3.2
+Center,155000.0,stone,Tumanyan St,Yerevan,100.0,3.0
+Center,47000.0,panel,E. Qochar St,Yerevan,75.0,2.8
+Center,95000.0,other,Verin Antarayin,Yerevan,103.0,3.0
+Center,230000.0,monolit,Aram St,Yerevan,138.0,2.8
+Center,160000.0,other,Aghayan St,Yerevan,110.0,2.8
+Center,170000.0,panel,Saryan St,Yerevan,123.0,2.8
+Center,240000.0,monolit,Aram St,Yerevan,121.0,3.0
+Center,40000.0,other,Zavaryan St,Yerevan,69.0,2.8
+Center,70000.0,stone,Paronyan St,Yerevan,83.0,2.8
+Center,40000.0,other,Agatangeghos St,Yerevan,100.0,2.8
+Center,34000.0,other,Zavaryan St,Yerevan,44.0,2.8
+Center,48000.0,other,E. Qochar St,Yerevan,75.0,2.8
+Center,77000.0,panel,E. Qochar St,Yerevan,78.0,2.8
+Center,50000.0,panel,Zavaryan St,Yerevan,70.0,2.8
+Center,62000.0,monolit,Tsitsernakaberd Highway,Yerevan,76.0,2.8
+Center,165000.0,monolit,Vardanants St,Yerevan,90.0,2.8
+Center,48000.0,stone,Vardanants St,Yerevan,43.0,3.2
+Center,37000.0,panel,Tigran Mets Ave,Yerevan,42.0,2.8
+Center,37000.0,stone,Arshakunyats Ave,Yerevan,40.0,2.8
+Center,37000.0,panel,Tigran Mets Ave,Yerevan,68.0,2.8
+Center,175000.0,monolit,Vardanants St,Yerevan,90.0,3.0
+Center,175000.0,monolit,Hin yerevantsi St,Yerevan,67.0,3.0
+Center,155000.0,stone,Tamanyan St,Yerevan,57.0,3.2
+Center,70000.0,other,Paronyan St,Yerevan,100.0,2.8
+Center,80000.0,stone,Charents St,Yerevan,73.0,3.0
+Center,50000.0,other,Nalbandyan St,Yerevan,48.0,3.0
+Center,55000.0,stone,Ayas St,Yerevan,57.0,2.8
+Center,67000.0,monolit,Dzorap St,Yerevan,58.0,3.2
+Center,95000.0,monolit,Baghramyan Ave (Kentron),Yerevan,97.0,2.8
+Center,160000.0,monolit,Buzand St,Yerevan,134.0,3.0
+Center,55000.0,panel,Amiryan St,Yerevan,40.0,3.0
+Center,175000.0,stone,Abovyan St,Yerevan,128.0,2.8
+Center,68000.0,stone,Mashtots Ave,Yerevan,31.0,3.2
+Center,145000.0,monolit,Sayat Nova Ave,Yerevan,90.0,3.0
+Center,90000.0,stone,Moskovyan St,Yerevan,70.0,2.8
+Center,48000.0,other,Amiryan St,Yerevan,41.0,2.8
+Center,40000.0,stone,Mashtots Ave,Yerevan,38.0,2.8
+Center,50000.0,panel,M.Khorenatsi St,Yerevan,85.0,2.8
+Center,50000.0,panel,M.Khorenatsi St,Yerevan,85.0,2.8
+Center,125000.0,stone,Paronyan St,Yerevan,91.0,2.8
+Center,160000.0,stone,M.Khorenatsi St,Yerevan,98.0,2.8
+Center,155000.0,stone,Sayat Nova Ave,Yerevan,109.0,3.0
+Center,76000.0,panel,Abovyan St,Yerevan,78.0,2.8
+Center,225000.0,monolit,Charents St,Yerevan,124.0,3.0
+Center,150000.0,stone,Baghramyan Ave (Kentron),Yerevan,130.0,3.0
+Center,95000.0,panel,Teryan St,Yerevan,75.0,2.8
+Center,75000.0,panel,Lalayants st,Yerevan,53.0,2.8
+Center,160000.0,monolit,Sayat Nova Ave,Yerevan,90.0,3.0
+Center,160000.0,monolit,Buzand St,Yerevan,80.0,3.0
+Center,170000.0,other,Abovyan St,Yerevan,128.0,2.8
+Center,55000.0,panel,Arshakunyats Ave,Yerevan,86.0,2.8
+Center,170000.0,panel,Tumanyan St,Yerevan,141.0,3.0
+Center,48000.0,stone,Tigran Mets Ave,Yerevan,41.0,2.8
+Center,110000.0,monolit,Tsitsernakaberd Highway,Yerevan,115.0,3.0
+Center,69000.0,panel,Hin yerevantsi St,Yerevan,50.0,2.8
+Center,125000.0,panel,Koghbatsi St,Yerevan,111.0,2.8
+Center,80000.0,panel,Vardanants St,Yerevan,90.0,2.8
+Center,220000.0,stone,Mashtots Ave,Yerevan,120.0,3.0
+Center,97000.0,panel,Saryan St,Yerevan,71.0,2.8
+Center,255000.0,stone,Mashtots Ave,Yerevan,110.0,3.2
+Center,80000.0,panel,Koghbatsi St,Yerevan,42.0,2.8
+Center,82000.0,stone,Koghbatsi St,Yerevan,65.0,2.8
+Center,175000.0,monolit,Vardanants St,Yerevan,88.0,3.2
+Center,130000.0,monolit,Sayat Nova Ave,Yerevan,90.0,3.2
+Center,130000.0,monolit,Sayat Nova Ave,Yerevan,86.0,2.8
+Center,130000.0,stone,Sayat Nova Ave,Yerevan,98.0,3.2
+Center,130000.0,monolit,Aram St,Yerevan,82.0,3.0
+Center,130000.0,stone,Mashtots Ave,Yerevan,116.0,3.0
+Center,130000.0,monolit,Amiryan St,Yerevan,108.0,3.0
+Center,130000.0,panel,Koghbatsi St,Yerevan,87.0,2.8
+Center,130000.0,monolit,Amiryan St,Yerevan,90.0,3.0
+Center,130000.0,monolit,Aram St,Yerevan,82.0,2.8
+Center,165000.0,stone,M.Khorenatsi St,Yerevan,110.0,3.0
+Center,130000.0,monolit,Aram St,Yerevan,100.0,3.0
+Center,42000.0,panel,Kajaznuni St,Yerevan,65.0,2.8
+Center,83000.0,panel,Tumanyan St,Yerevan,66.0,3.0
+Center,228000.0,monolit,Antarayin St,Yerevan,140.0,3.0
+Center,85000.0,panel,Saryan St,Yerevan,70.0,2.8
+Center,71000.0,stone,A.Manukyan St,Yerevan,69.0,3.2
+Center,95000.0,stone,Nalbandyan St,Yerevan,80.0,3.2
+Center,90000.0,monolit,Antarayin St,Yerevan,55.0,3.2
+Center,212500.0,monolit,Verin Antarayin,Yerevan,125.0,3.2
+Center,122000.0,stone,Nalbandyan St,Yerevan,96.0,2.8
+Center,115000.0,monolit,Argishti St,Yerevan,96.0,3.0
+Center,140000.0,monolit,D. Demirchyan St,Yerevan,100.0,3.0
+Center,125000.0,monolit,Israelyan St,Yerevan,130.0,2.8
+Center,126000.0,panel,Koghbatsi St,Yerevan,100.0,2.8
+Center,175000.0,monolit,Aram St,Yerevan,140.0,3.2
+Center,115000.0,stone,Sayat Nova Ave,Yerevan,72.0,3.0
+Center,80000.0,panel,Baghramyan Ave (Kentron),Yerevan,90.0,2.8
+Center,150000.0,stone,Isahakyan St,Yerevan,75.0,3.0
+Center,150000.0,stone,Pushkin St,Yerevan,70.0,3.0
+Center,150000.0,stone,Mashtots Ave,Yerevan,133.0,3.0
+Center,150000.0,monolit,Buzand St,Yerevan,60.0,3.2
+Center,150000.0,stone,Antarayin St,Yerevan,110.0,3.2
+Center,150000.0,panel,Saryan St,Yerevan,128.0,2.8
+Center,150000.0,stone,Tumanyan St,Yerevan,65.0,3.2
+Center,150000.0,monolit,Paronyan St,Yerevan,101.0,3.0
+Center,150000.0,monolit,Vardanants St,Yerevan,113.0,3.0
+Center,150000.0,stone,Abovyan St,Yerevan,119.0,2.8
+Center,42000.0,panel,Kajaznuni St,Yerevan,53.0,2.8
+Center,150000.0,stone,Vardanants St,Yerevan,69.0,3.2
+Center,75000.0,stone,Moskovyan St,Yerevan,37.0,3.0
+Center,39000.0,stone,Arshakunyats Ave,Yerevan,42.0,3.0
+Center,110000.0,monolit,Argishti St,Yerevan,106.0,2.8
+Center,60000.0,stone,Tigran Mets Ave,Yerevan,75.0,2.8
+Center,150000.0,monolit,Baghramyan Ave  1 blind end,Yerevan,62.0,3.0
+Center,152000.0,stone,Abovyan St,Yerevan,71.0,3.0
+Center,150000.0,monolit,Amiryan St,Yerevan,110.0,3.0
+Center,150000.0,stone,D. Demirchyan St,Yerevan,133.0,3.0
+Center,150000.0,monolit,Saryan St,Yerevan,80.0,3.0
+Center,150000.0,monolit,Tsitsernakaberd Highway,Yerevan,114.0,3.0
+Center,150000.0,stone,Nalbandyan St,Yerevan,135.0,2.8
+Center,150000.0,panel,Lalayants st,Yerevan,83.0,2.8
+Center,150000.0,monolit,D. Demirchyan St,Yerevan,75.0,3.0
+Center,150000.0,stone,Tumanyan St,Yerevan,105.0,3.2
+Center,150000.0,stone,Tumanyan St,Yerevan,101.0,3.2
+Center,150000.0,other,Amiryan St,Yerevan,81.0,2.8
+Center,150000.0,stone,Tumanyan St,Yerevan,90.0,3.0
+Center,38000.0,panel,D. Demirchyan St,Yerevan,45.0,3.0
+Center,155000.0,stone,Sayat Nova Ave,Yerevan,106.0,2.8
+Center,155000.0,stone,Abovyan St,Yerevan,100.0,2.8
+Center,155000.0,stone,Sayat Nova Ave,Yerevan,110.0,2.8
+Center,155000.0,other,D. Demirchyan St,Yerevan,84.0,3.0
+Center,175000.0,monolit,Teryan St,Yerevan,120.0,2.8
+Center,170000.0,stone,Sayat Nova Ave,Yerevan,92.0,2.8
+Center,155000.0,stone,Mashtots Ave,Yerevan,74.0,3.0
+Center,175000.0,stone,Mashtots Ave,Yerevan,102.0,3.0
+Center,170000.0,monolit,Abovyan St,Yerevan,136.0,3.2
+Center,170000.0,stone,Mashtots Ave,Yerevan,100.0,2.8
+Center,175000.0,stone,Tumanyan St,Yerevan,100.0,3.0
+Center,165000.0,monolit,Nalbandyan St,Yerevan,91.0,3.0
+Center,165000.0,stone,Baghramyan Ave (Kentron),Yerevan,110.0,2.8
+Center,160000.0,other,Vardanants St,Yerevan,88.0,3.0
+Center,160000.0,stone,Mashtots Ave,Yerevan,100.0,2.8
+Center,160000.0,stone,Mashtots Ave,Yerevan,120.0,3.2
+Center,160000.0,stone,Teryan St,Yerevan,123.0,3.2
+Center,160000.0,monolit,D. Demirchyan St,Yerevan,84.0,3.0
+Center,160000.0,stone,Abovyan St,Yerevan,110.0,3.2
+Center,160000.0,monolit,Tsitsernakaberd Highway,Yerevan,114.0,3.0
+Center,160000.0,stone,Nalbandyan St,Yerevan,108.0,3.0
+Center,165000.0,panel,Pushkin St,Yerevan,108.0,2.8
+Center,163000.0,stone,Mashtots Ave,Yerevan,100.0,2.8
+Center,160000.0,monolit,Paronyan St,Yerevan,101.0,2.8
+Center,162000.0,monolit,Paronyan St,Yerevan,101.0,3.0
+Center,164000.0,stone,Nalbandyan St,Yerevan,125.0,3.0
+Center,162000.0,monolit,Aram St,Yerevan,86.0,3.0
+Center,160000.0,stone,Mashtots Ave,Yerevan,100.0,3.2
+Center,160000.0,stone,Mashtots Ave,Yerevan,100.0,3.2
+Center,160000.0,other,Aram St,Yerevan,133.0,2.8
+Center,160000.0,monolit,Vardanants St,Yerevan,90.0,3.0
+Center,160000.0,stone,Hanrapetutyan St,Yerevan,94.0,3.2
+Center,82000.0,panel,Tumanyan St,Yerevan,53.0,2.8
+Center,160000.0,stone,Hanrapetutyan St,Yerevan,91.0,3.0
+Center,160000.0,monolit,Vardanants St,Yerevan,88.0,3.0
+Center,93000.0,stone,Saryan St,Yerevan,56.0,3.2
+Center,167000.0,monolit,Koghbatsi St,Yerevan,60.0,2.8
+Center,169000.0,stone,Charents St,Yerevan,110.0,3.2
+Center,165000.0,monolit,Vardanants St,Yerevan,90.0,2.8
+Center,160000.0,other,Vardanants St,Yerevan,88.0,2.8
+Center,165000.0,monolit,Tsitsernakaberd Highway,Yerevan,107.0,2.8
+Center,168000.0,monolit,Mashtots Ave,Yerevan,147.0,3.0
+Center,165000.0,stone,Mashtots Ave,Yerevan,114.0,3.0
+Center,165000.0,stone,Mashtots Ave,Yerevan,98.0,3.2
+Center,165000.0,monolit,Antarayin St,Yerevan,145.0,3.2
+Center,165000.0,monolit,Aram St,Yerevan,115.0,3.0
+Center,165000.0,monolit,Tsitsernakaberd Highway,Yerevan,115.0,3.0
+Center,165000.0,stone,Nalbandyan St,Yerevan,92.0,3.0
+Center,165000.0,monolit,Sayat Nova Ave,Yerevan,89.0,3.0
+Center,165000.0,stone,Tamanyan St,Yerevan,71.0,3.0
+Center,175000.0,monolit,Tsitsernakaberd Highway,Yerevan,109.0,3.2
+Center,175000.0,monolit,Ler. Kamsar St,Yerevan,125.0,3.0
+Center,175000.0,panel,Saryan St,Yerevan,80.0,2.8
+Center,175000.0,other,Aram St,Yerevan,93.0,3.0
+Center,175000.0,monolit,Ler. Kamsar St,Yerevan,125.0,3.0
+Center,175000.0,stone,Charents St,Yerevan,98.0,3.2
+Center,174000.0,monolit,Vardanants St,Yerevan,90.0,3.2
+Center,172000.0,stone,Tumanyan St,Yerevan,95.0,3.2
+Center,173000.0,stone,Teryan St,Yerevan,120.0,3.2
+Center,175000.0,stone,Hanrapetutyan St,Yerevan,94.0,3.2
+Center,170000.0,monolit,Teryan St,Yerevan,120.0,3.0
+Center,170000.0,stone,Teryan St,Yerevan,85.0,3.2
+Center,170000.0,panel,Pushkin St,Yerevan,108.0,2.8
+Center,172000.0,stone,Moskovyan St,Yerevan,100.0,2.8
+Center,170000.0,monolit,Aram St,Yerevan,120.0,2.8
+Center,170000.0,stone,Sayat Nova Ave,Yerevan,85.0,3.0
+Center,170000.0,stone,Sayat Nova Ave,Yerevan,85.0,3.2
+Center,170000.0,stone,Sayat Nova Ave,Yerevan,88.0,3.2
+Center,170000.0,stone,Tamanyan St,Yerevan,67.0,3.2
+Center,170000.0,stone,Hanrapetutyan St,Yerevan,100.0,2.8
+Center,170000.0,monolit,A.Manukyan St,Yerevan,110.0,3.0
+Center,170000.0,panel,Saryan St,Yerevan,128.0,2.8
+Center,170000.0,other,Vardanants St,Yerevan,90.0,3.0
+Center,175000.0,other,A.Manukyan St,Yerevan,140.0,2.8
+Center,175000.0,other,Ler. Kamsar St,Yerevan,125.0,2.8
+Center,175000.0,stone,Tumanyan St,Yerevan,141.0,2.8
+Center,175000.0,monolit,Mashtots Ave,Yerevan,85.0,3.0
+Center,155000.0,other,Sayat Nova Ave,Yerevan,106.0,2.8
+Center,155000.0,stone,Abovyan St,Yerevan,65.0,3.0
+Center,155000.0,monolit,Argishti St,Yerevan,112.0,2.8
+Center,155000.0,stone,Sayat Nova Ave,Yerevan,110.0,3.2
+Center,155000.0,stone,Teryan St,Yerevan,65.0,3.2
+Center,155000.0,stone,Sayat Nova Ave,Yerevan,106.0,3.0
+Center,153000.0,panel,Sayat Nova Ave,Yerevan,98.0,2.8
+Center,155000.0,monolit,Argishti St,Yerevan,112.0,3.0
+Center,155000.0,other,Mashtots Ave,Yerevan,74.0,2.8
+Center,250000.0,stone,Mashtots Ave,Yerevan,115.0,3.2
+Center,175000.0,monolit,Tsitsernakaberd Highway,Yerevan,115.0,2.8
+Center,72000.0,monolit,Tsitsernakaberd Highway,Yerevan,70.0,2.8
+Center,70000.0,stone,Baghramyan Ave (Kentron),Yerevan,67.0,3.0
+Center,115000.0,panel,Saryan St,Yerevan,72.0,2.8
+Center,125000.0,stone,Abovyan St,Yerevan,90.0,3.2
+Center,70000.0,monolit,Tsitsernakaberd Highway,Yerevan,68.0,3.0
+Center,110000.0,stone,Mashtots Ave,Yerevan,102.0,3.0
+Center,70000.0,panel,E. Qochar St,Yerevan,81.0,2.8
+Center,98000.0,monolit,Ler. Kamsar St,Yerevan,122.0,3.0
+Center,93000.0,stone,Arshakunyats Ave,Yerevan,110.0,2.8
+Center,60000.0,other,Argishti St,Yerevan,54.0,3.0
+Center,140000.0,other,Pushkin St,Yerevan,91.0,2.8
+Center,140000.0,stone,Sayat Nova Ave,Yerevan,100.0,2.8
+Center,140000.0,stone,Sayat Nova Ave,Yerevan,110.0,3.2
+Center,140000.0,stone,Sayat Nova Ave,Yerevan,100.0,3.0
+Center,140000.0,monolit,Mashtots Ave,Yerevan,90.0,3.0
+Center,140000.0,stone,Mashtots Ave,Yerevan,95.0,3.2
+Center,94000.0,stone,Sayat Nova Ave,Yerevan,56.0,3.2
+Center,80000.0,stone,Baghramyan Ave (Kentron),Yerevan,66.0,3.0
+Center,115000.0,monolit,Pushkin St,Yerevan,92.0,2.8
+Center,85000.0,stone,Mashtots Ave,Yerevan,68.0,2.8
+Center,160000.0,other,D. Demirchyan St,Yerevan,84.0,3.0
+Center,160000.0,stone,Tumanyan St,Yerevan,85.0,3.2
+Center,40000.0,panel,Arshakunyats Ave,Yerevan,67.0,2.8
+Center,160000.0,monolit,Amiryan St,Yerevan,82.0,2.8
+Center,158000.0,stone,Mashtots Ave,Yerevan,125.0,3.2
+Center,156000.0,monolit,Verin Antarayin,Yerevan,137.0,3.0
+Center,155000.0,stone,Tumanyan St,Yerevan,60.0,3.2
+Center,155000.0,stone,Hanrapetutyan St,Yerevan,112.0,3.0
+Center,155000.0,stone,Sayat Nova Ave,Yerevan,105.0,3.2
+Center,155000.0,monolit,Teryan St,Yerevan,70.0,3.0
+Center,155000.0,stone,Tumanyan St,Yerevan,60.0,3.2
+Center,155000.0,stone,Tamanyan St,Yerevan,57.0,3.2
+Center,155000.0,stone,Sayat Nova Ave,Yerevan,110.0,3.2
+Center,45000.0,stone,M.Khorenatsi St,Yerevan,46.0,2.8
+Center,45000.0,other,Zavaryan St,Yerevan,43.0,2.8
+Center,155000.0,stone,Sayat Nova Ave,Yerevan,106.0,3.2
+Center,155000.0,monolit,D. Demirchyan St,Yerevan,105.0,2.8
+Center,135000.0,monolit,Verin Antarayin,Yerevan,93.0,2.8
+Center,135000.0,stone,Abovyan St,Yerevan,80.0,2.8
+Center,135000.0,monolit,Mashtots Ave,Yerevan,90.0,3.0
+Center,135000.0,stone,Vardanants St,Yerevan,96.0,3.0
+Center,42000.0,stone,Tigran Mets Ave,Yerevan,75.0,3.0
+Center,42000.0,monolit,E. Qochar St,Yerevan,45.0,2.8
+Center,42000.0,panel,Kajaznuni St,Yerevan,67.0,2.8
+Center,41000.0,stone,Heratsi St,Yerevan,45.0,3.2
+Center,42000.0,panel,Saryan St,Yerevan,40.0,2.8
+Center,42000.0,panel,Kajaznuni St,Yerevan,48.0,2.8
+Center,42000.0,stone,Heratsi St,Yerevan,45.0,2.8
+Center,135000.0,stone,Aghayan St,Yerevan,85.0,3.2
+Center,133000.0,stone,Abovyan St,Yerevan,70.0,2.8
+Center,42000.0,panel,E. Qochar St,Yerevan,75.0,2.8
+Center,133000.0,monolit,Verin Antarayin,Yerevan,78.0,3.2
+Center,135000.0,panel,Sayat Nova Ave,Yerevan,77.0,2.8
+Center,133000.0,panel,Moskovyan St,Yerevan,72.0,2.8
+Center,135000.0,monolit,Mashtots Ave,Yerevan,90.0,3.2
+Center,135000.0,stone,Tigran Mets Ave,Yerevan,86.0,3.2
+Center,135000.0,panel,Tumanyan St,Yerevan,80.0,2.8
+Center,135000.0,panel,Sayat Nova Ave,Yerevan,70.0,2.8
+Center,140000.0,stone,Tumanyan St,Yerevan,96.0,3.2
+Center,135000.0,monolit,Aram St,Yerevan,90.0,2.8
+Center,95000.0,monolit,Aram St,Yerevan,73.0,3.2
+Center,80000.0,stone,Mashtots Ave,Yerevan,65.0,3.0
+Center,90000.0,monolit,Argishti St,Yerevan,76.0,3.0
+Center,145000.0,monolit,Aram St,Yerevan,86.0,3.0
+Center,145000.0,stone,Sayat Nova Ave,Yerevan,67.0,2.8
+Center,150000.0,panel,Saryan St,Yerevan,97.0,2.8
+Center,145000.0,stone,Tumanyan St,Yerevan,60.0,2.8
+Center,145000.0,monolit,Argishti St,Yerevan,112.0,2.8
+Center,145000.0,stone,Mashtots Ave,Yerevan,110.0,3.2
+Center,127000.0,monolit,Aram St,Yerevan,112.0,3.2
+Center,142000.0,other,Sayat Nova Ave,Yerevan,90.0,2.8
+Center,145000.0,panel,Sayat Nova Ave,Yerevan,100.0,2.8
+Center,40000.0,panel,M.Khorenatsi St,Yerevan,40.0,2.8
+Center,140000.0,panel,Zakyan St,Yerevan,90.0,2.8
+Center,140000.0,stone,Tumanyan St,Yerevan,105.0,3.2
+Center,40800.0,other,D. Demirchyan St,Yerevan,39.0,3.2
+Center,140000.0,panel,Moskovyan St,Yerevan,90.0,3.0
+Center,85000.0,monolit,Tsitsernakaberd Highway,Yerevan,75.0,3.0
+Center,95000.0,monolit,Proshyan 1 alley,Yerevan,72.0,2.8
+Center,150000.0,panel,Saryan St,Yerevan,97.0,2.8
+Center,150000.0,other,Charents St,Yerevan,70.0,3.0
+Center,150000.0,stone,Bayron St,Yerevan,85.0,3.0
+Center,150000.0,stone,Baghramyan Ave (Kentron),Yerevan,130.0,3.0
+Center,150000.0,stone,Sayat Nova Ave,Yerevan,95.0,3.2
+Center,150000.0,stone,Hanrapetutyan St,Yerevan,135.0,3.2
+Center,150000.0,stone,Baghramyan Ave (Kentron),Yerevan,130.0,3.2
+Center,145000.0,monolit,Mashtots Ave,Yerevan,133.0,3.0
+Center,145000.0,monolit,Aram St,Yerevan,108.0,3.2
+Center,145000.0,stone,Nalbandyan St,Yerevan,112.0,3.2
+Center,145000.0,monolit,Pushkin St,Yerevan,93.0,3.0
+Center,145000.0,stone,Abovyan St,Yerevan,60.0,2.8
+Center,145000.0,stone,Moskovyan St,Yerevan,96.0,3.2
+Center,90000.0,monolit,Tsitsernakaberd Highway,Yerevan,120.0,3.0
+Center,140000.0,stone,Isahakyan St,Yerevan,93.0,3.2
+Center,140000.0,stone,Isahakyan St,Yerevan,93.0,3.2
+Center,140000.0,stone,Isahakyan St,Yerevan,93.0,3.2
+Center,140000.0,stone,Sayat Nova Ave,Yerevan,63.0,3.0
+Center,140000.0,stone,Nalbandyan St,Yerevan,95.0,2.8
+Center,140000.0,monolit,Sayat Nova Ave,Yerevan,80.0,3.0
+Center,140000.0,stone,Mashtots Ave,Yerevan,97.0,3.2
+Center,140000.0,monolit,Tsitsernakaberd Highway,Yerevan,115.0,3.0
+Center,140000.0,stone,Sayat Nova Ave,Yerevan,63.0,2.8
+Center,140000.0,monolit,Ler. Kamsar St,Yerevan,102.0,3.0
+Center,140000.0,panel,Mashtots Ave,Yerevan,92.0,2.8
+Center,140000.0,stone,D. Demirchyan St,Yerevan,132.0,2.8
+Center,83000.0,stone,Khanjyan St,Yerevan,75.0,3.2
+Center,85000.0,panel,Sayat Nova Ave,Yerevan,75.0,2.8
+Center,95000.0,stone,Mashtots Ave,Yerevan,85.0,3.0
+Center,113000.0,panel,Buzand St,Yerevan,59.0,2.8
+Center,46000.0,panel,E. Qochar St,Yerevan,53.0,2.8
+Center,46000.0,stone,Mashtots Ave,Yerevan,40.0,3.0
+Center,46000.0,other,E. Qochar St,Yerevan,75.0,2.8
+Center,46000.0,panel,NarDos St,Yerevan,40.0,3.0
+Center,81400.0,monolit,Antarayin St,Yerevan,74.0,3.2
+Center,81400.0,monolit,Antarayin St,Yerevan,74.0,3.2
+Center,76000.0,stone,Charents St,Yerevan,84.0,3.2
+Center,70000.0,panel,Vardanants St,Yerevan,93.0,2.8
+Center,130000.0,stone,Sayat Nova Ave,Yerevan,96.0,3.2
+Center,95000.0,panel,Khanjyan St,Yerevan,64.0,2.8
+Center,130000.0,stone,Argishti St,Yerevan,104.0,3.0
+Center,55000.0,panel,M.Khorenatsi St,Yerevan,107.0,3.0
+Center,95000.0,panel,D. Demirchyan St,Yerevan,85.0,2.8
+Center,126000.0,panel,Koghbatsi St,Yerevan,100.0,2.8
+Center,130000.0,stone,Sayat Nova Ave,Yerevan,97.0,3.2
+Center,130000.0,monolit,Aram St,Yerevan,100.0,3.2
+Center,130000.0,stone,Hanrapetutyan St,Yerevan,99.0,2.8
+Center,130000.0,stone,Sayat Nova Ave,Yerevan,106.0,3.0
+Center,60000.0,stone,D. Demirchyan St,Yerevan,70.0,3.0
+Center,130000.0,stone,Vardanants St,Yerevan,138.0,3.0
+Center,130000.0,panel,Koghbatsi St,Yerevan,80.0,3.0
+Center,130000.0,stone,Teryan St,Yerevan,60.0,3.0
+Center,52000.0,other,Argishti St,Yerevan,53.0,2.8
+Center,45000.0,stone,Charents St,Yerevan,45.0,2.8
+Center,50000.0,monolit,Argishti St,Yerevan,44.0,2.8
+Center,50000.0,other,Mashtots Ave,Yerevan,47.0,2.6
+Center,50000.0,stone,Vardanants St,Yerevan,36.0,2.8
+Center,50000.0,other,M.Khorenatsi St,Yerevan,72.0,2.8
+Center,50000.0,stone,Mashtots Ave,Yerevan,47.0,2.6
+Center,50000.0,monolit,Tsitsernakaberd Highway,Yerevan,60.0,3.2
+Center,50000.0,stone,Mashtots Ave,Yerevan,37.0,3.2
+Center,50000.0,panel,E. Qochar St,Yerevan,55.0,2.8
+Center,175000.0,other,Tsitsernakaberd Highway,Yerevan,115.0,2.8
+Center,90000.0,monolit,M.Khorenatsi St,Yerevan,90.0,2.8
+Center,160000.0,stone,Hanrapetutyan St,Yerevan,91.0,3.0
+Center,90000.0,stone,Tigran Mets Ave,Yerevan,78.0,2.8
+Center,120000.0,stone,Arshakunyats Ave,Yerevan,90.0,2.8
+Center,120000.0,stone,Tpagrichner St,Yerevan,80.0,2.8
+Center,120000.0,stone,Mashtots Ave,Yerevan,98.0,3.2
+Center,120000.0,stone,Arshakunyats Ave,Yerevan,100.0,2.8
+Center,120000.0,monolit,Argishti St,Yerevan,96.0,2.8
+Center,120000.0,monolit,E. Qochar St,Yerevan,75.0,3.0
+Center,120000.0,stone,Saryan St,Yerevan,71.0,2.8
+Center,120000.0,stone,Tumanyan St,Yerevan,70.0,3.0
+Center,120000.0,stone,Teryan St,Yerevan,90.0,3.0
+Center,120000.0,monolit,Argishti St,Yerevan,117.0,3.0
+Center,45000.0,panel,NarDos St,Yerevan,72.0,2.8
+Center,120000.0,stone,Amiryan St,Yerevan,94.0,3.0
+Center,120000.0,other,Baghramyan Ave (Kentron),Yerevan,67.0,2.8
+Center,120000.0,monolit,Paronyan St,Yerevan,80.0,2.8
+Center,120000.0,other,Khanjyan St,Yerevan,80.0,3.0
+Center,119000.0,monolit,M.Khorenatsi St,Yerevan,80.0,3.0
+Center,120000.0,stone,Buzand St,Yerevan,93.0,3.2
+Center,49000.0,stone,Saryan St,Yerevan,45.0,2.8
+Center,49500.0,other,NarDos St,Yerevan,76.0,2.8
+Center,49500.0,stone,Arshakunyats Ave,Yerevan,62.0,2.8
+Center,46000.0,monolit,Antarayin St,Yerevan,45.0,3.2
+Center,46000.0,panel,Pushkin St,Yerevan,42.0,2.8
+Center,47000.0,panel,Tsovakal Isakov Ave,Yerevan,68.0,2.8
+Center,126000.0,panel,Koghbatsi St,Yerevan,100.0,2.8
+Center,125000.0,stone,Sayat Nova Ave,Yerevan,110.0,3.2
+Center,125000.0,stone,Hanrapetutyan St,Yerevan,90.0,3.0
+Center,127000.0,stone,Charents St,Yerevan,123.0,3.0
+Center,124000.0,stone,Sayat Nova Ave,Yerevan,105.0,3.2
+Center,127000.0,monolit,Aram St,Yerevan,98.0,2.8
+Center,125000.0,stone,Abovyan St,Yerevan,90.0,2.6
+Center,125000.0,stone,Saryan St,Yerevan,90.0,3.2
+Center,125000.0,stone,Charents St,Yerevan,110.0,2.8
+Center,125000.0,stone,Abovyan St,Yerevan,90.0,2.8
+Center,125000.0,stone,Tumanyan St,Yerevan,65.0,3.0
+Center,125000.0,monolit,Antarayin St,Yerevan,108.0,3.2
+Center,125000.0,panel,Israelyan St,Yerevan,130.0,2.8
+Center,125000.0,stone,Isahakyan St,Yerevan,80.0,2.8
+Center,124000.0,other,Buzand St,Yerevan,60.0,2.8
+Center,125000.0,monolit,Argishti St,Yerevan,104.0,3.0
+Center,125000.0,panel,Koghbatsi St,Yerevan,73.0,2.8
+Center,48000.0,stone,Abovyan St,Yerevan,40.0,2.8
+Center,124000.0,monolit,Pushkin St,Yerevan,140.0,2.8
+Center,47000.0,panel,E. Qochar St,Yerevan,42.0,3.0
+Center,47000.0,panel,NarDos St,Yerevan,40.0,2.8
+Center,47000.0,other,M.Khorenatsi St,Yerevan,42.0,2.8
+Center,46000.0,panel,Kajaznuni St,Yerevan,62.0,2.8
+Center,46500.0,other,D. Demirchyan St,Yerevan,43.0,2.8
+Center,47000.0,stone,Koryun St,Yerevan,35.0,3.2
+Center,230000.0,stone,Mashtots Ave,Yerevan,100.0,3.0
+Center,120000.0,panel,Mashtots Ave,Yerevan,90.0,2.8
+Center,85000.0,monolit,Tsitsernakaberd Highway,Yerevan,65.0,3.0
+Center,80000.0,stone,Hanrapetutyan St,Yerevan,48.0,3.0
+Center,160000.0,monolit,Argishti St,Yerevan,112.0,3.0
+Center,61000.0,stone,Hanrapetutyan St,Yerevan,61.0,3.0
+Center,98300.0,other,Charents St,Yerevan,105.0,3.2
+Center,93000.0,stone,Saryan St,Yerevan,54.0,2.8
+Center,80000.0,stone,Mayisyan St,Yerevan,67.0,3.2
+Center,115000.0,panel,Agatangeghos St,Yerevan,93.0,3.0
+Center,83000.0,panel,Saryan St,Yerevan,71.0,2.8
+Center,110000.0,monolit,Verin Antarayin,Yerevan,85.0,3.0
+Center,115000.0,monolit,Baghramyan Ave (Kentron),Yerevan,116.0,3.2
+Center,55000.0,stone,Mashtots Ave,Yerevan,58.0,3.2
+Center,68000.0,panel,E. Qochar St,Yerevan,80.0,2.8
+Center,115000.0,stone,Leo St,Yerevan,100.0,3.2
+Center,76000.0,stone,Pushkin St,Yerevan,105.0,3.8
+Center,90000.0,panel,Amiryan St,Yerevan,70.0,2.8
+Center,72000.0,panel,Nalbandyan St,Yerevan,78.0,2.8
+Center,68000.0,monolit,Tumanyan St,Yerevan,40.0,2.8
+Center,90000.0,stone,Abovyan St,Yerevan,113.0,3.2
+Center,67000.0,panel,Amiryan St,Yerevan,45.0,3.0
+Center,45000.0,stone,Vardanants St,Yerevan,51.0,2.8
+Center,45000.0,stone,Mashtots Ave,Yerevan,40.0,2.8
+Center,123300.0,monolit,M.Khorenatsi St,Yerevan,137.0,3.0
+Center,123000.0,stone,D. Demirchyan St,Yerevan,82.0,3.0
+Center,122000.0,stone,Sayat Nova Ave,Yerevan,80.0,2.8
+Center,123000.0,stone,Nalbandyan St,Yerevan,64.0,3.0
+Center,122000.0,monolit,Nalbandyan St,Yerevan,65.0,2.8
+Center,121000.0,monolit,Verin Antarayin,Yerevan,110.0,3.0
+Center,121000.0,stone,Isahakyan St,Yerevan,60.0,3.2
+Center,122000.0,monolit,Antarayin St,Yerevan,86.0,3.0
+Center,121000.0,stone,Saryan St,Yerevan,92.0,3.0
+Center,122000.0,monolit,Paronyan St,Yerevan,101.0,3.0
+Center,120000.0,panel,Tumanyan St,Yerevan,63.0,2.8
+Center,120000.0,panel,Tumanyan St,Yerevan,64.0,2.8
+Center,120000.0,panel,Tumanyan St,Yerevan,63.0,2.8
+Center,170000.0,stone,Sayat Nova Ave,Yerevan,93.0,3.2
+Center,158000.0,stone,Sayat Nova Ave,Yerevan,120.0,3.2
+Center,175000.0,monolit,Aram St,Yerevan,93.0,2.8
+Center,140000.0,monolit,Rostom St,Yerevan,128.0,2.8
+Center,112000.0,stone,Charents St,Yerevan,112.0,3.0
+Center,145000.0,stone,Saryan St,Yerevan,122.0,2.8
+Center,140000.0,monolit,Tamanyan St,Yerevan,75.0,3.2
+Center,150000.0,stone,Tumanyan St,Yerevan,87.0,3.8
+Center,120000.0,monolit,Buzand St,Yerevan,60.0,3.0
+Center,76000.0,monolit,Tsitsernakaberd Highway,Yerevan,84.0,3.0
+Center,80000.0,panel,Frik St,Yerevan,84.0,2.8
+Center,70000.0,stone,Tigran Mets Ave,Yerevan,64.0,2.8
+Center,150000.0,stone,Nalbandyan St,Yerevan,114.0,2.8
+Center,110000.0,stone,Tumanyan St,Yerevan,45.0,2.8
+Center,110000.0,stone,Mashtots Ave,Yerevan,72.0,2.8
+Center,110000.0,monolit,Aram St,Yerevan,55.0,3.0
+Center,110000.0,stone,Charents St,Yerevan,70.0,2.8
+Center,110000.0,stone,Hanrapetutyan St,Yerevan,136.0,3.2
+Center,110000.0,monolit,D. Demirchyan St,Yerevan,89.0,2.8
+Center,110000.0,stone,Hanrapetutyan St,Yerevan,136.0,3.0
+Center,82000.0,stone,Nalbandyan St,Yerevan,88.0,3.2
+Center,80000.0,stone,Abovyan St,Yerevan,40.0,3.0
+Center,72000.0,panel,Pushkin St,Yerevan,65.0,2.8
+Center,110000.0,stone,Mashtots Ave,Yerevan,102.0,3.2
+Center,110000.0,other,Amiryan St,Yerevan,87.0,2.8
+Center,110000.0,stone,Abovyan St,Yerevan,70.0,3.0
+Center,98000.0,stone,Mashtots Ave,Yerevan,92.0,3.2
+Center,110000.0,other,Tpagrichner St,Yerevan,92.0,3.2
+Center,110000.0,stone,G.Lusavorich St,Yerevan,82.0,2.6
+Center,110000.0,stone,Heratsi St,Yerevan,78.0,3.0
+Center,110000.0,stone,Sayat Nova Ave,Yerevan,55.0,3.0
+Center,110000.0,stone,Koghbatsi St,Yerevan,77.0,2.8
+Center,110000.0,stone,Abovyan St,Yerevan,82.0,3.0
+Center,110000.0,monolit,Argishti St,Yerevan,117.0,3.0
+Center,110000.0,panel,Sayat Nova Ave,Yerevan,75.0,2.8
+Center,50000.0,other,Kajaznuni St,Yerevan,40.0,2.8
+Center,110000.0,stone,Saryan St,Yerevan,90.0,3.0
+Center,51000.0,monolit,Tigran Mets Ave,Yerevan,42.0,2.8
+Center,51000.0,stone,Tigran Mets Ave,Yerevan,80.0,2.8
+Center,110000.0,stone,Yekmalyan St,Yerevan,50.0,3.0
+Center,110000.0,stone,D. Demirchyan St,Yerevan,67.0,3.2
+Center,110000.0,monolit,Argishti St,Yerevan,106.0,2.8
+Center,110000.0,stone,Zakyan St,Yerevan,105.0,3.0
+Center,110000.0,monolit,Mashtots Ave,Yerevan,74.0,3.0
+Center,110000.0,other,Tsitsernakaberd Highway,Yerevan,104.0,3.0
+Center,110000.0,panel,NarDos St,Yerevan,92.0,2.8
+Center,90000.0,panel,M.Khorenatsi St,Yerevan,90.0,3.0
+Center,98000.0,panel,Aghayan St,Yerevan,75.0,3.0
+Center,67000.0,panel,Saryan St,Yerevan,80.0,3.0
+Center,72000.0,monolit,Tsitsernakaberd Highway,Yerevan,67.0,3.2
+Center,98000.0,stone,Pushkin St,Yerevan,95.0,3.2
+Center,48000.0,stone,Tigran Mets Ave,Yerevan,42.0,2.8
+Center,48000.0,panel,Koghbatsi St,Yerevan,43.0,2.8
+Center,115000.0,other,Paronyan St,Yerevan,80.0,2.8
+Center,70000.0,stone,Tigran Mets Ave,Yerevan,64.0,2.8
+Center,68000.0,monolit,Argishti St,Yerevan,52.0,2.8
+Center,68000.0,monolit,Antarayin St,Yerevan,65.0,2.8
+Center,74000.0,other,Hin yerevantsi St,Yerevan,47.0,2.8
+Center,115000.0,stone,Leo St,Yerevan,100.0,2.8
+Center,160000.0,monolit,Mashtots Ave,Yerevan,70.0,3.0
+Center,90000.0,stone,Nalbandyan St,Yerevan,71.0,3.2
+Center,82000.0,stone,Abovyan St,Yerevan,54.0,3.0
+Center,96000.0,monolit,Sayat Nova Ave,Yerevan,80.0,2.8
+Center,85000.0,stone,Mashtots Ave,Yerevan,53.0,2.8
+Center,82000.0,stone,Mashtots Ave,Yerevan,50.0,3.2
+Center,70000.0,panel,Amiryan St,Yerevan,67.0,2.8
+Center,75000.0,monolit,E. Qochar St,Yerevan,80.0,2.8
+Center,48000.0,stone,Tigran Mets Ave,Yerevan,51.0,3.2
+Center,85000.0,stone,H. Shahinyan St,Yerevan,80.0,3.0
+Center,90000.0,monolit,Sayat Nova Ave,Yerevan,75.0,3.0
+Center,71000.0,stone,D. Demirchyan St,Yerevan,54.0,2.8
+Center,94000.0,monolit,Argishti St,Yerevan,94.0,3.0
+Center,77000.0,panel,D. Demirchyan St,Yerevan,49.0,2.8
+Center,81000.0,stone,Charents St,Yerevan,67.0,3.0
+Center,150000.0,monolit,Amiryan St,Yerevan,70.0,3.2
+Center,95000.0,monolit,Sayat Nova Ave,Yerevan,56.0,3.0
+Center,114000.0,monolit,Amiryan St,Yerevan,60.0,2.8
+Center,110000.0,panel,Saryan St,Yerevan,75.0,2.6
+Center,110000.0,panel,M.Khorenatsi St,Yerevan,100.0,3.2
+Center,110000.0,other,Tigran Mets Ave,Yerevan,116.0,2.8
+Center,110000.0,panel,Saryan St,Yerevan,75.0,2.6
+Center,110000.0,other,Mashtots Ave,Yerevan,90.0,2.8
+Center,110000.0,other,Verin Antarayin,Yerevan,85.0,3.2
+Center,110000.0,stone,Baghramyan Ave (Kentron),Yerevan,50.0,2.8
+Center,50000.0,panel,D. Demirchyan St,Yerevan,46.0,2.8
+Center,110000.0,panel,Sayat Nova Ave,Yerevan,95.0,2.8
+Center,112000.0,stone,Koryun St,Yerevan,100.0,3.0
+Center,115000.0,panel,Mashtots Ave,Yerevan,81.0,2.8
+Center,115000.0,stone,Khanjyan St,Yerevan,100.0,2.8
+Center,48000.0,monolit,Argishti St,Yerevan,52.0,3.0
+Center,48000.0,panel,Saryan St,Yerevan,48.0,2.8
+Center,48000.0,panel,Mashtots Ave,Yerevan,42.0,2.8
+Center,69000.0,stone,Tumanyan St,Yerevan,51.0,3.2
+Center,83000.0,panel,Mashtots Ave,Yerevan,73.0,2.8
+Center,71000.0,panel,Hin yerevantsi St,Yerevan,46.0,3.0
+Center,85000.0,stone,Charents St,Yerevan,81.0,3.2
+Center,115000.0,other,Rostom St,Yerevan,130.0,2.8
+Center,48000.0,panel,M.Khorenatsi St,Yerevan,51.0,2.8
+Center,112500.0,monolit,Dzorap St,Yerevan,75.0,3.0
+Center,48000.0,panel,M.Khorenatsi St,Yerevan,65.0,2.8
+Center,114000.0,panel,Saryan St,Yerevan,71.0,2.8
+Center,115000.0,other,Pushkin St,Yerevan,107.0,2.8
+Center,118000.0,monolit,M.Khorenatsi St,Yerevan,100.0,3.0
+Center,118000.0,panel,Tumanyan St,Yerevan,63.0,2.8
+Center,118000.0,panel,Hanrapetutyan St,Yerevan,94.0,2.8
+Center,118000.0,stone,Tigran Mets Ave,Yerevan,95.0,3.0
+Center,111900.0,stone,Tumanyan St,Yerevan,100.0,3.2
+Center,115000.0,stone,Charents St,Yerevan,94.0,3.2
+Center,111000.0,stone,Moskovyan St,Yerevan,61.0,2.8
+Center,110000.0,monolit,Aygestan St,Yerevan,123.0,3.0
+Center,110000.0,monolit,NarDos St,Yerevan,92.0,2.8
+Center,110000.0,stone,Mashtots Ave,Yerevan,117.0,2.8
+Center,112000.0,stone,Tpagrichner St,Yerevan,94.0,3.0
+Center,115000.0,stone,Hanrapetutyan St,Yerevan,80.0,3.0
+Center,110000.0,stone,Leo St,Yerevan,100.0,2.8
+Center,115000.0,stone,Abovyan St,Yerevan,103.0,2.6
+Center,110000.0,stone,Koryun St,Yerevan,105.0,2.8
+Center,115000.0,stone,Tamanyan St,Yerevan,40.0,3.2
+Center,115000.0,stone,D. Demirchyan St,Yerevan,113.0,2.8
+Center,115000.0,monolit,Aram St,Yerevan,54.0,2.8
+Center,115000.0,stone,Amiryan St,Yerevan,88.0,3.2
+Center,115000.0,panel,Pushkin St,Yerevan,93.0,2.8
+Center,115000.0,panel,Nalbandyan St,Yerevan,82.0,2.8
+Center,115000.0,monolit,Argishti St,Yerevan,96.0,3.0
+Center,50000.0,stone,Mashtots Ave,Yerevan,37.0,3.2
+Center,50000.0,monolit,Israelyan St,Yerevan,52.0,2.8
+Center,50000.0,stone,Leo St,Yerevan,55.0,3.2
+Center,50000.0,stone,Mashtots Ave,Yerevan,47.0,2.6
+Center,50000.0,panel,M.Khorenatsi St,Yerevan,85.0,2.8
+Center,115000.0,panel,Amiryan St,Yerevan,110.0,2.8
+Center,115000.0,stone,Sayat Nova Ave,Yerevan,72.0,3.0
+Center,115000.0,stone,Sayat Nova Ave,Yerevan,105.0,3.0
+Center,115000.0,monolit,Argishti St,Yerevan,112.0,3.2
+Center,115000.0,stone,Mashtots Ave,Yerevan,110.0,3.0
+Center,115000.0,stone,Zakyan St,Yerevan,80.0,2.8
+Center,115000.0,stone,Arshakunyats Ave,Yerevan,105.0,3.2
+Center,115000.0,stone,Sayat Nova Ave,Yerevan,105.0,3.2
+Center,115000.0,monolit,Paronyan St,Yerevan,101.0,3.0
+Center,115000.0,panel,Mashtots Ave,Yerevan,90.0,2.8
+Center,115000.0,stone,Sayat Nova Ave,Yerevan,97.0,3.0
+Center,110000.0,stone,Khanjyan St,Yerevan,80.0,3.0
+Center,110000.0,panel,Agatangeghos St,Yerevan,90.0,3.0
+Center,110000.0,panel,Saryan St,Yerevan,72.0,2.8
+Center,145000.0,stone,Abovyan St,Yerevan,107.0,3.0
+Center,80000.0,stone,Tigran Mets Ave,Yerevan,80.0,2.8
+Center,77000.0,panel,Charents St,Yerevan,86.0,2.8
+Center,42000.0,other,Kajaznuni St,Yerevan,48.0,2.8
+Center,95000.0,panel,Tumanyan St,Yerevan,94.0,2.8
+Center,95000.0,panel,Amiryan St,Yerevan,69.0,2.8
+Center,95000.0,panel,Vardanants St,Yerevan,60.0,2.8
+Center,95000.0,stone,Tumanyan 1 passage,Yerevan,68.0,2.8
+Center,95000.0,stone,D. Demirchyan St,Yerevan,100.0,2.8
+Center,95000.0,other,Sayat Nova Ave,Yerevan,60.0,3.2
+Center,95000.0,stone,Tumanyan St,Yerevan,72.0,3.2
+Center,95000.0,panel,Hanrapetutyan St,Yerevan,92.0,2.8
+Center,90000.0,stone,Vardanants St,Yerevan,55.0,2.8
+Center,97000.0,panel,Frik St,Yerevan,98.0,2.8
+Center,99000.0,panel,Khanjyan St,Yerevan,88.0,2.8
+Center,98000.0,stone,D. Demirchyan St,Yerevan,86.0,2.8
+Center,99000.0,monolit,Argishti St,Yerevan,103.0,2.8
+Center,99000.0,stone,Mashtots Ave,Yerevan,104.0,3.0
+Center,95000.0,panel,Sayat Nova Ave,Yerevan,81.0,2.8
+Center,95000.0,panel,Mashtots Ave,Yerevan,80.0,2.8
+Center,95000.0,other,Sayat Nova Ave,Yerevan,60.0,3.2
+Center,95000.0,monolit,Baghramyan Ave (Kentron),Yerevan,84.0,2.8
+Center,95000.0,other,Vratsyan St,Yerevan,88.0,2.8
+Center,95000.0,stone,Vardanants St,Yerevan,67.0,3.2
+Center,98000.0,stone,D. Demirchyan St,Yerevan,96.0,2.8
+Center,98000.0,stone,Teryan St,Yerevan,41.0,3.2
+Center,98000.0,panel,Sayat Nova Ave,Yerevan,50.0,2.8
+Center,98000.0,monolit,Tsitsernakaberd Highway,Yerevan,110.0,3.0
+Center,97000.0,stone,Abovyan St,Yerevan,36.0,3.0
+Center,97000.0,stone,Abovyan St,Yerevan,37.0,3.2
+Center,97000.0,other,Abovyan St,Yerevan,97.0,2.8
+Center,95000.0,stone,Tumanyan St,Yerevan,68.0,3.0
+Center,97000.0,other,Teryan St,Yerevan,72.0,2.8
+Center,97000.0,panel,Teryan St,Yerevan,72.0,2.8
+Center,98000.0,stone,D. Demirchyan St,Yerevan,86.0,2.8
+Center,97000.0,panel,Saryan St,Yerevan,71.0,2.8
+Center,96500.0,panel,Pushkin St,Yerevan,88.0,2.8
+Center,96000.0,stone,Tpagrichner St,Yerevan,80.0,3.0
+Center,96000.0,monolit,Tsitsernakaberd Highway,Yerevan,80.0,3.0
+Center,95000.0,monolit,Tsitsernakaberd Highway,Yerevan,119.0,2.8
+Center,95000.0,panel,Hanrapetutyan St,Yerevan,97.0,2.8
+Center,95000.0,panel,Hanrapetutyan St,Yerevan,92.0,2.8
+Center,95000.0,panel,Hanrapetutyan St,Yerevan,92.0,2.8
+Center,95000.0,stone,Nalbandyan St,Yerevan,86.0,2.8
+Center,95000.0,monolit,Argishti St,Yerevan,105.0,2.8
+Center,95000.0,panel,Koghbatsi St,Yerevan,87.0,2.8
+Center,95000.0,stone,Vardanants St,Yerevan,102.0,3.2
+Center,68000.0,monolit,Antarayin St,Yerevan,68.0,3.0
+Center,75000.0,panel,E. Qochar St,Yerevan,81.0,2.8
+Center,95000.0,monolit,Tsitsernakaberd Highway,Yerevan,101.0,3.0
+Center,75000.0,panel,Zakyan St,Yerevan,72.0,3.0
+Center,70000.0,stone,Tigran Mets Ave,Yerevan,78.0,2.8
+Center,115000.0,stone,Zakyan St,Yerevan,105.0,2.8
+Center,110000.0,stone,Buzand St,Yerevan,93.0,3.2
+Center,110000.0,monolit,Argishti St,Yerevan,105.0,3.0
+Center,80000.0,stone,Khanjyan St,Yerevan,81.0,3.2
+Center,70000.0,stone,Sarmen St,Yerevan,54.0,3.2
+Center,70000.0,panel,E. Qochar St,Yerevan,78.0,2.8
+Center,85000.0,monolit,Amiryan St,Yerevan,50.0,3.0
+Center,82000.0,stone,Vardanants St,Yerevan,80.0,3.2
+Center,80000.0,stone,Sayat Nova Ave,Yerevan,58.0,3.2
+Center,85000.0,other,M.Khorenatsi St,Yerevan,93.0,2.8
+Center,90000.0,panel,Saryan St,Yerevan,77.0,2.8
+Center,67000.0,stone,Abovyan St,Yerevan,65.0,2.8
+Center,83000.0,stone,Tigran Mets Ave,Yerevan,100.0,2.8
+Center,85000.0,stone,Nalbandyan St,Yerevan,71.0,2.8
+Center,68000.0,stone,Mashtots Ave,Yerevan,30.0,3.0
+Center,90000.0,stone,Sayat Nova Ave,Yerevan,60.0,3.2
+Center,90000.0,stone,Heratsi St,Yerevan,100.0,3.2
+Center,160000.0,stone,Hanrapetutyan St,Yerevan,94.0,3.2
+Center,67000.0,stone,Abovyan St,Yerevan,98.0,3.2
+Center,150000.0,stone,Nalbandyan St,Yerevan,103.0,3.0
+Center,140000.0,monolit,Yekmalyan St,Yerevan,100.0,3.2
+Center,150000.0,stone,Tigran Mets Ave,Yerevan,88.0,3.0
+Center,270000.0,monolit,Buzand St,Yerevan,135.0,3.2
+Center,56000.0,panel,M.Khorenatsi St,Yerevan,71.0,2.8
+Center,56000.0,stone,Tigran Mets Ave,Yerevan,56.0,2.8
+Center,88000.0,stone,Nalbandyan St,Yerevan,71.0,3.0
+Center,88000.0,monolit,Argishti St,Yerevan,86.0,3.0
+Center,87000.0,panel,Sayat Nova Ave,Yerevan,75.0,3.0
+Center,87000.0,monolit,A.Manukyan St,Yerevan,134.0,3.2
+Center,88000.0,other,Tumanyan St,Yerevan,80.0,2.8
+Center,87000.0,stone,Vardanants St,Yerevan,69.0,3.2
+Center,87000.0,panel,Saryan St,Yerevan,67.0,2.8
+Center,87000.0,stone,Zakyan St,Yerevan,72.0,2.8
+Center,87000.0,panel,M.Khorenatsi St,Yerevan,93.0,3.0
+Center,87000.0,stone,Mashtots Ave,Yerevan,97.0,3.2
+Center,87000.0,other,E. Qochar St,Yerevan,120.0,2.8
+Center,87000.0,stone,Tumanyan St,Yerevan,78.0,2.8
+Center,87000.0,panel,Baghramyan Ave (Kentron),Yerevan,97.0,3.0
+Center,86000.0,monolit,Aram St,Yerevan,72.0,3.0
+Center,86000.0,monolit,Verin Antarayin,Yerevan,74.0,3.0
+Center,85000.0,panel,Mashtots Ave,Yerevan,86.0,2.8
+Center,86000.0,stone,Mashtots Ave,Yerevan,63.0,3.0
+Center,86900.0,panel,Amiryan St,Yerevan,88.0,2.8
+Center,85500.0,monolit,Amiryan St,Yerevan,38.0,2.8
+Center,86000.0,other,Nalbandyan St,Yerevan,40.0,3.0
+Center,58000.0,panel,E. Qochar St,Yerevan,81.0,2.8
+Center,58000.0,stone,Tigran Mets Ave,Yerevan,58.0,2.8
+Center,58000.0,stone,M.Khorenatsi St,Yerevan,63.0,2.8
+Center,58000.0,monolit,Kajaznuni St,Yerevan,77.0,2.8
+Center,58000.0,panel,E. Qochar St,Yerevan,80.0,2.8
+Center,58000.0,stone,Tigran Mets Ave,Yerevan,62.0,3.2
+Center,58000.0,stone,Tigran Mets Ave,Yerevan,63.0,2.8
+Center,58000.0,other,M.Khorenatsi St,Yerevan,72.0,2.8
+Center,58000.0,stone,Teryan St,Yerevan,43.0,3.0
+Center,58000.0,stone,M.Khorenatsi St,Yerevan,67.0,2.8
+Center,58000.0,stone,Koryun alley,Yerevan,46.0,3.0
+Center,57500.0,panel,Vardanants St,Yerevan,83.0,2.8
+Center,58000.0,stone,M.Khorenatsi St,Yerevan,67.0,2.8
+Center,58000.0,stone,M.Khorenatsi St,Yerevan,63.0,2.8
+Center,58000.0,stone,Kajaznuni St,Yerevan,68.0,2.8
+Center,74000.0,other,Hin yerevantsi St,Yerevan,46.0,2.8
+Center,80000.0,panel,Amiryan St,Yerevan,73.0,2.8
+Center,57000.0,panel,Koghbatsi St,Yerevan,40.0,3.0
+Center,55000.0,panel,Hin yerevantsi St,Yerevan,49.0,2.8
+Center,57000.0,panel,Saryan St,Yerevan,64.0,2.8
+Center,55000.0,panel,Pushkin St,Yerevan,40.0,2.8
+Center,57000.0,stone,Saryan St,Yerevan,40.0,2.8
+Center,55000.0,stone,Mashtots Ave,Yerevan,35.0,3.0
+Center,55000.0,panel,Amiryan St,Yerevan,50.0,2.8
+Center,55000.0,other,M.Khorenatsi St,Yerevan,60.0,2.8
+Center,61000.0,stone,Aygestan 9 St,Yerevan,53.0,2.8
+Center,70000.0,stone,M.Khorenatsi St,Yerevan,84.0,2.8
+Center,67000.0,stone,Mashtots Ave,Yerevan,32.0,2.8
+Center,75000.0,panel,M.Khorenatsi St,Yerevan,75.0,2.8
+Center,56000.0,stone,Baghramyan Ave (Kentron),Yerevan,48.0,2.8
+Center,56000.0,stone,Koryun St,Yerevan,46.0,2.8
+Center,56000.0,panel,Saryan St,Yerevan,64.0,2.8
+Center,55000.0,stone,Tigran Mets Ave,Yerevan,75.0,2.8
+Center,55000.0,panel,Tigran Mets Ave,Yerevan,78.0,2.8
+Center,57000.0,panel,M.Khorenatsi St,Yerevan,72.0,2.8
+Center,89000.0,stone,E. Qochar St,Yerevan,65.0,2.8
+Center,89000.0,stone,Charents St,Yerevan,65.0,3.2
+Center,88200.0,monolit,Amiryan St,Yerevan,40.0,3.0
+Center,88000.0,stone,D. Demirchyan St,Yerevan,90.0,3.0
+Center,91000.0,panel,Amiryan St,Yerevan,80.0,2.8
+Center,90000.0,panel,Nalbandyan St,Yerevan,48.0,2.8
+Center,95000.0,stone,Charents St,Yerevan,70.0,3.0
+Center,90000.0,stone,M.Khorenatsi St,Yerevan,101.0,2.8
+Center,95000.0,monolit,Tsitsernakaberd Highway,Yerevan,112.0,3.0
+Center,95000.0,stone,Mashtots Ave,Yerevan,85.0,3.2
+Center,95000.0,stone,M.Khorenatsi St,Yerevan,100.0,3.0
+Center,93000.0,stone,Saryan St,Yerevan,54.0,3.0
+Center,93000.0,stone,Saryan St,Yerevan,54.0,3.0
+Center,93000.0,stone,Saryan St,Yerevan,56.0,3.0
+Center,95000.0,monolit,Tsitsernakaberd Highway,Yerevan,119.0,3.0
+Center,95000.0,other,Verin Antarayin,Yerevan,103.0,3.0
+Center,95000.0,other,Tsitsernakaberd Highway,Yerevan,119.0,3.0
+Center,93000.0,stone,Mashtots Ave,Yerevan,56.0,3.0
+Center,95000.0,panel,D. Demirchyan St,Yerevan,85.0,2.8
+Center,93000.0,stone,Saryan St,Yerevan,54.0,2.8
+Center,90000.0,monolit,Verin Antarayin,Yerevan,76.0,3.2
+Center,90000.0,stone,Paronyan St,Yerevan,76.0,3.2
+Center,90000.0,stone,Heratsi St,Yerevan,114.0,3.0
+Center,93000.0,monolit,Tumanyan St,Yerevan,67.0,2.8
+Center,90000.0,other,Arshakunyats Ave,Yerevan,103.0,3.2
+Center,90000.0,other,Baghramyan Ave  1 blind end,Yerevan,90.0,2.8
+Center,90000.0,stone,Abovyan St,Yerevan,87.0,2.6
+Center,90000.0,stone,Zakyan St,Yerevan,54.0,2.8
+Center,90000.0,stone,Sarmen St,Yerevan,84.0,2.8
+Center,90000.0,stone,Nalbandyan St,Yerevan,70.0,3.0
+Center,90000.0,panel,M.Khorenatsi St,Yerevan,98.0,2.8
+Center,90000.0,stone,Heratsi St,Yerevan,72.0,3.0
+Center,90000.0,stone,Nalbandyan St,Yerevan,87.0,2.8
+Center,90000.0,monolit,Saryan St,Yerevan,60.0,3.0
+Center,90000.0,monolit,Argishti St,Yerevan,86.0,2.8
+Center,90000.0,other,Argishti St,Yerevan,86.0,2.8
+Center,90000.0,stone,Abovyan St,Yerevan,85.0,2.6
+Center,90000.0,stone,Vardanants St,Yerevan,71.0,3.2
+Center,90000.0,stone,Khanjyan St,Yerevan,67.0,3.2
+Center,90000.0,panel,Pushkin St,Yerevan,90.0,2.8
+Center,90000.0,monolit,Tsitsernakaberd Highway,Yerevan,105.0,3.0
+Center,90000.0,stone,Zakyan St,Yerevan,54.0,3.2
+Center,90000.0,other,Verin Antarayin,Yerevan,70.0,2.8
+Center,90000.0,stone,Kristapor 3 alley,Yerevan,78.0,2.8
+Center,90000.0,stone,Tigran Mets Ave,Yerevan,78.0,2.8
+Center,90000.0,monolit,Verin Antarayin,Yerevan,84.0,2.8
+Center,90000.0,stone,Tumanyan St,Yerevan,70.0,3.2
+Center,90000.0,stone,Mashtots Ave,Yerevan,67.0,2.8
+Center,90000.0,stone,D. Demirchyan St,Yerevan,90.0,3.2
+Center,88000.0,stone,Tigran Mets Ave,Yerevan,86.0,2.8
+Center,90000.0,panel,E. Qochar St,Yerevan,70.0,2.8
+Center,88000.0,panel,Tumanyan 1 passage,Yerevan,67.0,2.8
+Center,88000.0,panel,E. Qochar St,Yerevan,90.0,2.8
+Center,60000.0,stone,Sarmen St,Yerevan,53.0,3.0
+Center,60000.0,panel,Teryan St,Yerevan,45.0,2.8
+Center,60000.0,panel,Aghayan St,Yerevan,49.0,2.8
+Center,60000.0,stone,Tigran Mets Ave,Yerevan,68.0,3.2
+Center,60000.0,panel,Mashtots Ave,Yerevan,42.0,2.8
+Center,60000.0,panel,D. Demirchyan St,Yerevan,75.0,2.8
+Center,60000.0,panel,Amiryan St,Yerevan,50.0,2.8
+Center,85000.0,stone,Mashtots Ave,Yerevan,67.0,2.8
+Center,85000.0,other,Saryan St,Yerevan,71.0,3.0
+Center,85000.0,stone,Sayat Nova Ave,Yerevan,100.0,3.0
+Center,85000.0,panel,Saryan St,Yerevan,71.0,2.8
+Center,85000.0,monolit,Amiryan St,Yerevan,75.0,3.0
+Center,85000.0,stone,Tigran Mets Ave,Yerevan,80.0,2.8
+Center,85000.0,panel,Saryan St,Yerevan,70.0,2.8
+Center,85000.0,panel,M.Khorenatsi St,Yerevan,90.0,2.8
+Center,85000.0,stone,Sayat Nova Ave,Yerevan,40.0,2.8
+Center,85000.0,monolit,Argishti St,Yerevan,77.0,2.8
+Center,85000.0,panel,M.Khorenatsi St,Yerevan,93.0,2.8
+Center,85000.0,stone,Vardanants St,Yerevan,84.0,3.0
+Center,85000.0,stone,Tigran Mets Ave,Yerevan,100.0,2.8
+Center,85000.0,stone,D. Demirchyan St,Yerevan,95.0,3.2
+Center,85000.0,stone,Vardanants St,Yerevan,83.0,2.8
+Center,85000.0,stone,Mashtots Ave,Yerevan,67.0,3.2
+Center,85000.0,monolit,Tsitsernakaberd Highway,Yerevan,115.0,2.8
+Center,85000.0,panel,Paronyan St,Yerevan,107.0,2.8
+Center,85000.0,monolit,Argishti St,Yerevan,89.0,3.0
+Center,85000.0,stone,Nalbandyan St,Yerevan,35.0,3.2
+Center,84000.0,stone,Vardanants St,Yerevan,69.0,3.2
+Center,85000.0,stone,Tigran Mets Ave,Yerevan,100.0,3.0
+Center,84000.0,other,Tsitsernakaberd Highway,Yerevan,104.0,2.8
+Center,84000.0,stone,Vardanants alley,Yerevan,83.0,2.8
+Center,84000.0,panel,Kajaznuni St,Yerevan,76.0,2.8
+Center,84000.0,stone,Vardanants St,Yerevan,80.0,3.2
+Center,84000.0,monolit,D. Demirchyan St,Yerevan,60.0,3.0
+Center,84000.0,monolit,Argishti St,Yerevan,88.0,3.0
+Center,84000.0,panel,Tumanyan St,Yerevan,83.0,2.8
+Center,84000.0,other,Abovyan St,Yerevan,64.0,2.8
+Center,78000.0,other,Paronyan St,Yerevan,85.0,3.2
+Center,78000.0,other,Saryan St,Yerevan,72.0,2.8
+Center,78000.0,other,Tsitsernakaberd Highway,Yerevan,60.0,3.0
+Center,77000.0,monolit,Yekmalyan St,Yerevan,60.0,3.0
+Center,77000.0,stone,Tumanyan St,Yerevan,40.0,2.8
+Center,77000.0,panel,M.Khorenatsi St,Yerevan,80.0,2.8
+Center,62000.0,monolit,Tsitsernakaberd Highway,Yerevan,84.0,3.0
+Center,62000.0,panel,Tigran Mets Ave,Yerevan,63.0,2.8
+Center,62000.0,stone,Tigran Mets Ave,Yerevan,80.0,2.8
+Center,62000.0,stone,Tigran Mets Ave,Yerevan,80.0,2.8
+Center,62000.0,panel,Bryusov St,Yerevan,55.0,3.0
+Center,79000.0,stone,Abovyan St,Yerevan,35.0,2.8
+Center,79000.0,other,Kajaznuni St,Yerevan,81.0,2.8
+Center,79000.0,monolit,Charents St,Yerevan,106.0,2.8
+Center,79000.0,stone,Charents St,Yerevan,87.0,3.2
+Center,79000.0,other,Amiryan St,Yerevan,65.0,2.8
+Center,79000.0,panel,Paronyan St,Yerevan,102.0,3.0
+Center,79000.0,panel,Agatangeghos St,Yerevan,86.0,2.8
+Center,79000.0,monolit,Tsitsernakaberd Highway,Yerevan,60.0,2.8
+Center,78500.0,stone,D. Demirchyan St,Yerevan,100.0,2.8
+Center,63000.0,monolit,Moskovyan St,Yerevan,42.0,2.8
+Center,79000.0,stone,Mashtots Ave,Yerevan,70.0,3.2
+Center,63000.0,stone,Tigran Mets Ave,Yerevan,75.0,3.2
+Center,62000.0,stone,Sarmen St,Yerevan,53.0,2.8
+Center,62900.0,panel,D. Demirchyan St,Yerevan,78.0,2.8
+Center,60000.0,panel,Saryan St,Yerevan,40.0,2.8
+Center,60000.0,panel,Vardanants St,Yerevan,42.0,2.8
+Center,61000.0,stone,Tigran Mets Ave,Yerevan,58.0,2.8
+Center,60000.0,panel,Kajaznuni St,Yerevan,72.0,2.8
+Center,60000.0,other,Heratsi St,Yerevan,67.0,3.0
+Center,62000.0,panel,Saryan St,Yerevan,40.0,2.8
+Center,62000.0,monolit,Tsitsernakaberd Highway,Yerevan,76.0,3.0
+Center,60000.0,panel,NarDos St,Yerevan,98.0,2.8
+Center,60000.0,panel,Saryan St,Yerevan,41.0,2.8
+Center,60000.0,stone,Koryun St,Yerevan,44.0,3.2
+Center,60000.0,stone,Hanrapetutyan St,Yerevan,47.0,3.0
+Center,78000.0,stone,Vardanants St,Yerevan,60.0,2.8
+Center,78000.0,panel,Zakyan St,Yerevan,75.0,2.8
+Center,60000.0,stone,Hanrapetutyan St,Yerevan,47.0,3.2
+Center,78000.0,stone,Vardanants St,Yerevan,105.0,2.8
+Center,78000.0,stone,Charents St,Yerevan,60.0,3.0
+Center,60000.0,panel,Tigran Mets Ave,Yerevan,80.0,2.8
+Center,78000.0,panel,Saryan St,Yerevan,70.0,3.0
+Center,78000.0,stone,Vardanants St,Yerevan,60.0,2.8
+Center,78000.0,panel,M.Khorenatsi St,Yerevan,92.0,2.8
+Center,78000.0,panel,Abovyan St,Yerevan,78.0,3.0
+Center,78000.0,stone,Khanjyan St,Yerevan,71.0,2.8
+Center,78000.0,stone,Khanjyan St,Yerevan,71.0,3.0
+Center,80000.0,stone,Heratsi St,Yerevan,70.0,2.8
+Center,80000.0,stone,Heratsi St,Yerevan,70.0,3.2
+Center,80000.0,panel,Tigran Mets Ave,Yerevan,90.0,2.8
+Center,80000.0,panel,Tigran Mets Ave,Yerevan,90.0,2.8
+Center,80000.0,monolit,Antarayin St,Yerevan,52.0,3.2
+Center,80000.0,stone,Zakyan St,Yerevan,73.0,3.0
+Center,80000.0,stone,Aygestan St,Yerevan,90.0,3.0
+Center,83000.0,stone,Paronyan St,Yerevan,96.0,3.2
+Center,82000.0,other,Tsitsernakaberd Highway,Yerevan,101.0,3.0
+Center,80000.0,panel,Mashtots Ave,Yerevan,42.0,2.8
+Center,82000.0,panel,Vardanants St,Yerevan,78.0,2.8
+Center,80000.0,stone,G.Lusavorich St,Yerevan,80.0,3.2
+Center,80000.0,stone,Vardanants St,Yerevan,80.0,3.2
+Center,80000.0,panel,Vardanants St,Yerevan,80.0,2.8
+Center,82000.0,monolit,Saryan St,Yerevan,81.0,2.8
+Center,80000.0,monolit,E. Qochar St,Yerevan,90.0,2.8
+Center,80000.0,panel,Agatangeghos St,Yerevan,83.0,2.8
+Center,80000.0,monolit,Ler. Kamsar St,Yerevan,110.0,2.8
+Center,80000.0,stone,Charents St,Yerevan,58.0,3.2
+Center,80000.0,panel,E. Qochar St,Yerevan,80.0,2.8
+Center,80000.0,stone,Mashtots Ave,Yerevan,60.0,3.0
+Center,80000.0,panel,Vardanants St,Yerevan,70.0,2.8
+Center,80000.0,monolit,Saryan St,Yerevan,76.0,2.8
+Center,82000.0,other,Tsitsernakaberd Highway,Yerevan,101.0,3.0
+Center,82000.0,panel,M.Khorenatsi St,Yerevan,73.0,2.8
+Center,81000.0,panel,M.Khorenatsi St,Yerevan,82.0,2.8
+Center,80000.0,monolit,Rostom St,Yerevan,108.0,3.0
+Center,82000.0,monolit,Mashtots Ave,Yerevan,50.0,3.2
+Center,82000.0,monolit,Tsitsernakaberd Highway,Yerevan,65.0,3.2
+Center,81000.0,panel,Baghramyan Ave (Kentron),Yerevan,82.0,2.8
+Center,82000.0,panel,E. Qochar St,Yerevan,84.0,3.0
+Center,82000.0,stone,Zakyan St,Yerevan,78.0,2.8
+Center,82000.0,stone,Mashtots Ave,Yerevan,85.0,3.2
+Center,82000.0,monolit,Tsitsernakaberd Highway,Yerevan,65.0,3.0
+Center,82000.0,stone,Khanjyan St,Yerevan,81.0,2.8
+Center,83000.0,panel,Saryan St,Yerevan,71.0,2.8
+Center,82000.0,other,Tsitsernakaberd Highway,Yerevan,65.0,2.8
+Center,83000.0,stone,Abovyan St,Yerevan,54.0,2.8
+Center,82000.0,stone,Tigran Mets Ave,Yerevan,80.0,2.6
+Center,83000.0,panel,Saryan St,Yerevan,71.0,2.8
+Center,82000.0,stone,Paronyan St,Yerevan,96.0,3.2
+Center,83000.0,panel,E. Qochar St,Yerevan,105.0,2.8
+Center,83000.0,monolit,Verin Antarayin,Yerevan,60.0,3.0
+Center,83000.0,stone,Paronyan St,Yerevan,73.0,3.2
+Center,80000.0,stone,Zakyan St,Yerevan,56.0,2.8
+Center,80000.0,stone,Mashtots Ave,Yerevan,65.0,2.8
+Center,80000.0,stone,Charents St,Yerevan,60.0,3.0
+Center,80000.0,stone,Pushkin St,Yerevan,74.0,2.8
+Center,80000.0,stone,Charents St,Yerevan,60.0,3.0
+Center,80000.0,stone,Paronyan St,Yerevan,73.0,3.2
+Center,79000.0,panel,Kajaznuni St,Yerevan,80.0,2.8
+Center,79000.0,stone,Vardanants St,Yerevan,70.0,2.8
+Center,73500.0,other,Mashtots Ave,Yerevan,70.0,2.8
+Center,73000.0,panel,Teryan St,Yerevan,43.0,2.8
+Center,73000.0,stone,Heratsi St,Yerevan,70.0,3.0
+Center,73000.0,stone,A.Petrosyan St,Yerevan,40.0,3.2
+Center,73000.0,monolit,Argishti St,Yerevan,64.0,2.8
+Center,73000.0,stone,Bayron St,Yerevan,69.0,3.0
+Center,73000.0,stone,Sarmen St,Yerevan,67.0,2.8
+Center,73000.0,panel,Saryan St,Yerevan,72.0,2.8
+Center,73000.0,panel,Vardanants St,Yerevan,78.0,3.0
+Center,73000.0,panel,Tumanyan St,Yerevan,55.0,2.8
+Center,72000.0,stone,Abovyan St,Yerevan,36.0,2.8
+Center,72000.0,stone,NarDos St,Yerevan,74.0,2.8
+Center,72000.0,panel,Pushkin St,Yerevan,80.0,2.8
+Center,72000.0,panel,Nalbandyan St,Yerevan,78.0,2.8
+Center,75000.0,panel,Kajaznuni St,Yerevan,82.0,2.8
+Center,75000.0,other,Khanjyan St,Yerevan,76.0,2.8
+Center,75000.0,panel,Zavaryan St,Yerevan,70.0,2.8
+Center,75000.0,stone,Khanjyan St,Yerevan,76.0,3.2
+Center,75000.0,panel,M.Khorenatsi St,Yerevan,47.0,2.8
+Center,75000.0,panel,Ghazar Parpetsi St,Yerevan,64.0,2.8
+Center,76500.0,stone,Moskovyan St,Yerevan,90.0,2.8
+Center,77000.0,panel,Lalayants st,Yerevan,46.0,2.8
+Center,75000.0,stone,Vardanants St,Yerevan,80.0,3.0
+Center,75000.0,panel,Aghayan St,Yerevan,70.0,2.8
+Center,75000.0,stone,Charents St,Yerevan,87.0,3.0
+Center,75000.0,stone,Vardanants St,Yerevan,96.0,3.0
+Center,75000.0,other,NarDos St,Yerevan,78.0,2.8
+Center,75000.0,panel,M.Khorenatsi St,Yerevan,78.0,2.8
+Center,74000.0,stone,Baghramyan Ave (Kentron),Yerevan,52.0,2.8
+Center,74000.0,panel,Hin yerevantsi St,Yerevan,46.0,2.8
+Center,75000.0,monolit,Charents St,Yerevan,65.0,2.8
+Center,75000.0,monolit,Argishti St,Yerevan,65.0,3.0
+Center,75000.0,stone,Nalbandyan St,Yerevan,40.0,2.8
+Center,77000.0,stone,Paronyan St,Yerevan,102.0,3.0
+Center,77000.0,stone,Mashtots Ave,Yerevan,67.0,3.0
+Center,77000.0,stone,Saryan St,Yerevan,50.0,2.8
+Center,77000.0,panel,M.Khorenatsi St,Yerevan,68.0,2.8
+Center,76000.0,stone,Charents St,Yerevan,84.0,3.2
+Center,77000.0,panel,Teryan St,Yerevan,45.0,2.8
+Center,76000.0,stone,Bayron St,Yerevan,72.0,2.8
+Center,76000.0,stone,Hanrapetutyan St,Yerevan,38.0,2.8
+Center,76000.0,stone,Koryun St,Yerevan,56.0,3.0
+Center,67000.0,stone,Khanjyan St,Yerevan,72.0,2.8
+Center,67000.0,other,E. Qochar St,Yerevan,80.0,2.8
+Center,67000.0,panel,Amiryan St,Yerevan,70.0,2.8
+Center,75000.0,stone,Abovyan St,Yerevan,40.0,2.8
+Center,90000.0,stone,A.Manukyan St,Yerevan,75.0,3.0
+Center,77000.0,panel,Aygestan 9 St,Yerevan,76.0,2.8
+Center,80000.0,stone,Tigran Mets Ave,Yerevan,80.0,2.8
+Center,220000.0,panel,Teryan St,Yerevan,100.0,2.8
+Center,145000.0,stone,Bayron St,Yerevan,80.0,3.2
+Center,130000.0,stone,Sayat Nova Ave,Yerevan,97.0,3.0
+Center,145000.0,stone,Nalbandyan St,Yerevan,80.0,3.0
+Center,150000.0,panel,Tumanyan St,Yerevan,94.0,2.8
+Center,68000.0,monolit,Verin Antarayin,Yerevan,68.0,3.0
+Center,165000.0,monolit,Aram St,Yerevan,140.0,3.2
+Center,75000.0,panel,Aygestan 10 St,Yerevan,86.0,2.8
+Center,126000.0,panel,Koghbatsi St,Yerevan,100.0,2.8
+Center,78000.0,stone,Bayron St,Yerevan,78.0,2.8
+Center,68000.0,stone,Mashtots Ave,Yerevan,32.0,3.0
+Center,80000.0,panel,Bryusov St,Yerevan,83.0,2.8
+Center,80000.0,other,Argishti St,Yerevan,54.0,3.0
+Center,80000.0,panel,Tigran Mets Ave,Yerevan,100.0,2.8
+Center,62000.0,other,Tigran Mets Ave,Yerevan,72.0,3.2
+Center,80000.0,panel,Kajaznuni St,Yerevan,90.0,2.8
+Center,80000.0,stone,Tigran Mets Ave,Yerevan,80.0,3.2
+Center,62000.0,panel,Kajaznuni St,Yerevan,80.0,2.8
+Center,62000.0,panel,Vratsyan St,Yerevan,70.0,2.8
+Center,62000.0,monolit,Argishti St,Yerevan,54.0,3.0
+Center,155000.0,stone,Sayat Nova Ave,Yerevan,106.0,2.8
+Center,80000.0,stone,Zakyan St,Yerevan,73.0,3.0
+Center,230000.0,other,Sayat Nova Ave,Yerevan,125.0,3.0
+Center,72000.0,other,Tumanyan St,Yerevan,55.0,2.8
+Center,235000.0,monolit,Baghramyan Ave  1 blind end,Yerevan,108.0,2.8
+Center,70000.0,panel,Pushkin St,Yerevan,62.0,2.8
+Center,77000.0,monolit,Argishti St,Yerevan,77.0,2.8
+Center,80000.0,panel,E. Qochar St,Yerevan,80.0,2.8
+Center,70000.0,monolit,Israelyan St,Yerevan,56.0,3.0
+Center,70000.0,other,Lalayants st,Yerevan,53.0,2.8
+Center,70000.0,other,Charents St,Yerevan,56.0,2.8
+Center,70000.0,stone,Charents St,Yerevan,67.0,3.2
+Center,70000.0,panel,Israelyan St,Yerevan,56.0,2.8
+Center,69000.0,stone,D. Demirchyan St,Yerevan,54.0,3.2
+Center,69000.0,stone,D. Demirchyan St,Yerevan,54.0,3.0
+Center,70000.0,stone,Tpagrichner St,Yerevan,40.0,2.8
+Center,70000.0,panel,E. Qochar St,Yerevan,86.0,2.8
+Center,70000.0,panel,Baghramyan Ave (Kentron),Yerevan,64.0,2.8
+Center,70000.0,stone,Abovyan St,Yerevan,58.0,3.2
+Center,70000.0,stone,Hanrapetutyan St,Yerevan,48.0,2.8
+Center,70000.0,stone,Paronyan St,Yerevan,83.0,3.2
+Center,71000.0,other,Tumanyan St,Yerevan,62.0,2.8
+Center,71000.0,stone,Khanjyan St,Yerevan,81.0,3.2
+Center,70000.0,stone,NarDos St,Yerevan,75.0,2.8
+Center,70000.0,monolit,Heratsi St,Yerevan,73.0,2.8
+Center,67000.0,panel,NarDos St,Yerevan,67.0,2.8
+Center,67000.0,other,Sarmen St,Yerevan,79.0,2.8
+Center,67000.0,stone,Abovyan St,Yerevan,94.0,2.8
+Center,67000.0,panel,Tumanyan St,Yerevan,42.0,2.8
+Center,67000.0,panel,E. Qochar St,Yerevan,76.0,2.8
+Center,67000.0,stone,Tigran Mets Ave,Yerevan,81.0,3.2
+Center,67000.0,other,Tsitsernakaberd Highway,Yerevan,78.0,3.0
+Center,68000.0,panel,Tigran Mets Ave,Yerevan,61.0,2.8
+Center,69000.0,stone,Abovyan St,Yerevan,36.0,2.8
+Center,69000.0,stone,Khorenatsi 2 alley,Yerevan,78.0,2.8
+Center,70000.0,other,Antarayin St,Yerevan,68.0,2.8
+Center,69000.0,stone,M.Khorenatsi St,Yerevan,75.0,3.0
+Center,70000.0,stone,Leo St,Yerevan,63.0,2.8
+Center,67000.0,panel,Koghbatsi St,Yerevan,40.0,2.8
+Center,67000.0,panel,Moskovyan St,Yerevan,42.0,2.8
+Center,70000.0,stone,Sarmen St,Yerevan,53.0,2.8
+Center,67000.0,stone,Vardanants St,Yerevan,64.0,2.8
+Center,70000.0,panel,Hin yerevantsi St,Yerevan,63.0,2.8
+Center,70000.0,stone,Vardanants St,Yerevan,67.0,3.0
+Center,70000.0,panel,Kajaznuni St,Yerevan,65.0,2.8
+Center,70000.0,panel,Vardanants St,Yerevan,70.0,2.8
+Center,70000.0,stone,Khanjyan St,Yerevan,80.0,3.0
+Center,70000.0,panel,Tumanyan St,Yerevan,52.0,2.8
+Center,200000.0,monolit,Nalbandyan St,Yerevan,110.0,3.0
+Center,250000.0,monolit,Northern Ave,Yerevan,120.0,3.0
+Center,125000.0,monolit,Nalbandyan St,Yerevan,77.0,3.0
+Center,35000.0,panel,E. Qochar St,Yerevan,40.0,2.8
+Center,89000.0,stone,Nalbandyan St,Yerevan,40.0,3.0
+Center,260000.0,monolit,Amiryan St,Yerevan,120.0,2.8
+Center,143000.0,panel,Sayat Nova Ave,Yerevan,98.0,2.8
+Center,72000.0,panel,Vardanants St,Yerevan,77.0,2.8
+Center,75000.0,stone,Tigran Mets Ave,Yerevan,126.0,3.2
+Center,55000.0,monolit,Argishti St,Yerevan,52.0,3.0
+Center,122000.0,stone,Sayat Nova Ave,Yerevan,80.0,3.0
+Center,95000.0,stone,Mashtots Ave,Yerevan,78.0,3.0
+Center,120000.0,panel,Tumanyan St,Yerevan,64.0,2.8
+Center,45000.0,panel,NarDos St,Yerevan,80.0,2.8
+Center,82000.0,monolit,Tsitsernakaberd Highway,Yerevan,65.0,3.0
+Center,260000.0,monolit,Tumanyan St,Yerevan,130.0,3.2
+Center,74900.0,panel,Tumanyan St,Yerevan,88.0,2.8
+Center,75000.0,stone,Charents St,Yerevan,60.0,3.0
+Center,75000.0,stone,Tigran Mets Ave,Yerevan,82.0,3.2
+Center,75000.0,stone,Frik St,Yerevan,144.0,2.8
+Center,75000.0,monolit,Vardanants St,Yerevan,78.0,2.8
+Center,75000.0,panel,Vardanants St,Yerevan,78.0,2.8
+Center,75000.0,panel,Israelyan St,Yerevan,60.0,3.0
+Center,75000.0,panel,Kajaznuni St,Yerevan,95.0,2.8
+Center,75000.0,monolit,Nalbandyan St,Yerevan,52.0,3.0
+Center,75000.0,panel,Teryan St,Yerevan,43.0,2.8
+Center,75000.0,stone,Saryan St,Yerevan,63.0,3.0
+Center,75000.0,stone,Teryan St,Yerevan,56.0,3.2
+Center,75000.0,panel,M.Khorenatsi St,Yerevan,91.0,2.8
+Center,66000.0,other,E. Qochar St,Yerevan,76.0,2.8
+Center,66000.0,stone,Heratsi St,Yerevan,72.0,3.2
+Center,66000.0,stone,Baghramyan Ave (Kentron),Yerevan,64.0,2.8
+Center,66000.0,panel,Tumanyan St,Yerevan,56.0,2.8
+Center,66000.0,panel,Mashtots Ave,Yerevan,65.0,2.8
+Center,66000.0,panel,M.Khorenatsi St,Yerevan,75.0,2.8
+Center,64000.0,monolit,Tsitsernakaberd Highway,Yerevan,72.0,3.0
+Center,63900.0,panel,Mashtots Ave,Yerevan,70.0,2.8
+Center,63500.0,stone,Abovyan St,Yerevan,39.0,2.8
+Center,63500.0,monolit,G.Lusavorich St,Yerevan,62.0,2.8
+Center,82000.0,other,Tsitsernakaberd Highway,Yerevan,70.0,3.0
+Center,153000.0,panel,Sayat Nova Ave,Yerevan,98.0,2.8
+Center,66000.0,monolit,Koghbatsi St,Yerevan,42.0,2.8
+Center,63000.0,panel,Israelyan St,Yerevan,57.0,2.8
+Center,66000.0,other,M.Khorenatsi St,Yerevan,51.0,3.0
+Center,68000.0,stone,Heratsi St,Yerevan,90.0,2.8
+Center,68000.0,panel,E. Qochar St,Yerevan,80.0,2.8
+Center,68000.0,panel,E. Qochar St,Yerevan,80.0,2.8
+Center,72000.0,monolit,Mashtots Ave,Yerevan,60.0,3.0
+Center,63000.0,monolit,Moskovyan St,Yerevan,42.0,2.8
+Center,68000.0,panel,E. Qochar St,Yerevan,80.0,2.8
+Center,72000.0,stone,Aram St,Yerevan,57.0,3.2
+Center,72000.0,stone,Mashtots Ave,Yerevan,70.0,3.0
+Center,72000.0,panel,Lalayants st,Yerevan,53.0,2.8
+Center,68000.0,panel,E. Qochar St,Yerevan,82.0,2.8
+Center,68000.0,stone,Tigran Mets Ave,Yerevan,58.0,2.8
+Center,72000.0,panel,Zavaryan St,Yerevan,80.0,2.8
+Center,68000.0,other,Argishti St,Yerevan,64.0,2.8
+Center,205000.0,stone,Tumanyan 1 passage,Yerevan,144.0,3.0
+Center,45000.0,monolit,Saryan St,Yerevan,48.0,3.0
+Center,68000.0,other,Amiryan St,Yerevan,45.0,2.8
+Center,65000.0,stone,Tigran Mets Ave,Yerevan,100.0,2.8
+Center,65000.0,stone,Tigran Mets Ave,Yerevan,80.0,2.8
+Center,65000.0,stone,Tumanyan St,Yerevan,35.0,3.2
+Center,64500.0,panel,Amiryan St,Yerevan,70.0,2.8
+Center,64000.0,panel,Bryusov St,Yerevan,55.0,2.8
+Center,64000.0,stone,Heratsi St,Yerevan,70.0,3.0
+Center,64000.0,panel,Bryusov St,Yerevan,55.0,2.8
+Center,64000.0,stone,Tigran Mets Ave,Yerevan,76.0,3.0
+Center,64000.0,stone,Nalbandyan St,Yerevan,49.0,2.8
+Center,64000.0,other,Heratsi St,Yerevan,70.0,2.8
+Center,65000.0,stone,Tigran Mets Ave,Yerevan,81.0,3.2
+Center,65000.0,other,Saryan St,Yerevan,71.0,2.8
+Center,65000.0,monolit,Israelyan St,Yerevan,64.0,2.8
+Center,65000.0,stone,Charents St,Yerevan,67.0,3.2
+Center,65000.0,stone,Charents St,Yerevan,67.0,3.0
+Center,65000.0,panel,Mashtots Ave,Yerevan,47.0,2.8
+Center,65000.0,monolit,M.Khorenatsi St,Yerevan,53.0,3.0
+Center,65000.0,stone,Vardanants St,Yerevan,36.0,3.0
+Center,65000.0,stone,Abovyan St,Yerevan,67.0,3.2
+Center,65000.0,stone,Mashtots Ave,Yerevan,59.0,3.2
+Center,65000.0,monolit,Arshakunyats Ave,Yerevan,103.0,2.8
+Center,220000.0,panel,Pushkin St,Yerevan,108.0,3.0
+Center,119000.0,stone,Tumanyan St,Yerevan,80.0,2.8
+Center,68000.0,stone,Mashtots Ave,Yerevan,31.0,3.0
+Center,68500.0,panel,E. Qochar St,Yerevan,78.0,3.0
+Center,72000.0,panel,Nalbandyan St,Yerevan,54.0,2.8
+Center,68500.0,panel,E. Qochar St,Yerevan,78.0,2.8
+Center,68500.0,monolit,Heratsi St,Yerevan,79.0,2.8
+Center,69000.0,other,M.Khorenatsi St,Yerevan,92.0,3.0
+Center,69000.0,stone,M.Khorenatsi St,Yerevan,75.0,3.0
+Center,69000.0,stone,Charents St,Yerevan,52.0,3.2
+Center,72000.0,panel,Hin yerevantsi St,Yerevan,72.0,2.8
+Center,71000.0,other,D. Demirchyan St,Yerevan,90.0,3.0
+Center,72000.0,panel,Tigran Mets Ave,Yerevan,72.0,3.0
+Center,71000.0,stone,Khanjyan St,Yerevan,80.0,3.0
+Center,150000.0,monolit,Tsitsernakaberd Highway,Yerevan,115.0,2.8
+Center,72000.0,stone,NarDos St,Yerevan,75.0,2.8
+Center,60000.0,monolit,Argishti St,Yerevan,54.0,2.8
+Center,95000.0,panel,Khanjyan St,Yerevan,88.0,2.8
+Center,85000.0,stone,Charents St,Yerevan,106.0,3.0
+Center,85000.0,stone,Nalbandyan St,Yerevan,35.0,2.8
+Center,65000.0,panel,Saryan St,Yerevan,71.0,2.8
+Center,250000.0,monolit,Northern Ave,Yerevan,100.0,2.8
+Center,65000.0,monolit,M.Khorenatsi St,Yerevan,51.0,3.2
+Center,65000.0,monolit,Argishti St,Yerevan,64.0,3.0
+Center,65000.0,monolit,Argishti St,Yerevan,54.0,3.2
+Center,65000.0,other,M.Khorenatsi St,Yerevan,51.0,2.8
+Center,65000.0,panel,Tigran Mets Ave,Yerevan,67.0,2.8
+Center,65000.0,monolit,Argishti St,Yerevan,53.0,2.8
+Center,65000.0,stone,Tigran Mets Ave,Yerevan,86.0,3.2
+Center,65000.0,stone,Khanjyan St,Yerevan,75.0,3.0
+Center,65000.0,stone,Arshakunyats Ave,Yerevan,92.0,2.8
+Center,65000.0,panel,Baghramyan Ave (Kentron),Yerevan,70.0,2.8
+Center,65000.0,panel,M.Khorenatsi St,Yerevan,80.0,2.8
+Center,65000.0,monolit,D. Demirchyan St,Yerevan,50.0,2.8
+Center,65000.0,stone,Vardanants St,Yerevan,38.0,2.8
+Center,65000.0,stone,Tigran Mets Ave,Yerevan,87.0,3.2
+Center,65000.0,monolit,M.Khorenatsi St,Yerevan,53.0,3.0
+Center,65000.0,panel,Heratsi St,Yerevan,74.0,2.8
+Center,65000.0,panel,Kajaznuni St,Yerevan,68.0,2.8
+Center,65000.0,stone,Tigran Mets Ave,Yerevan,87.0,3.2
+Center,65000.0,panel,Kajaznuni St,Yerevan,81.0,2.8
+Center,65000.0,stone,Mashtots Ave,Yerevan,50.0,2.8
+Center,65000.0,panel,Saryan St,Yerevan,72.0,2.8
+Center,65000.0,other,Kajaznuni St,Yerevan,81.0,3.0
+Center,65000.0,panel,Amiryan St,Yerevan,67.0,2.8
+Center,133000.0,monolit,Amiryan St,Yerevan,78.0,3.0
+Center,300000.0,monolit,Aram St,Yerevan,136.0,3.0
+Center,168000.0,monolit,Buzand St,Yerevan,82.0,3.0
+Center,140000.0,panel,Sayat Nova Ave,Yerevan,100.0,2.8
+Center,48000.0,stone,Tigran Mets Ave,Yerevan,48.0,2.8
+Center,47000.0,panel,M.Khorenatsi St,Yerevan,42.0,2.8
+Center,95000.0,stone,Mashtots Ave,Yerevan,142.0,3.0
+Center,220000.0,other,Aram St,Yerevan,119.0,2.8
+Center,80000.0,stone,Pushkin St,Yerevan,74.0,3.2
+Center,60000.0,panel,Israelyan St,Yerevan,54.0,2.8
+Center,143000.0,monolit,Tumanyan St,Yerevan,91.0,2.8
+Center,80000.0,stone,Pushkin St,Yerevan,74.0,3.0
+Center,41000.0,stone,Zavaryan St,Yerevan,43.0,2.8
+Center,70000.0,other,E. Qochar St,Yerevan,100.0,2.8
+Center,62000.0,other,Argishti St,Yerevan,57.0,3.0
+Center,80000.0,stone,Vardanants St,Yerevan,78.0,2.8
+Center,155000.0,stone,Abovyan St,Yerevan,90.0,3.2
+Center,67000.0,panel,Zavaryan St,Yerevan,92.0,2.8
+Center,75000.0,panel,Teryan St,Yerevan,43.0,2.8
+Center,75000.0,panel,E. Qochar St,Yerevan,80.0,2.8
+Center,75000.0,panel,M.Khorenatsi St,Yerevan,100.0,2.8
+Center,75000.0,stone,Buzand St,Yerevan,105.0,3.2
+Center,75000.0,panel,Aghayan St,Yerevan,69.0,3.0
+Center,75000.0,stone,Zakyan St,Yerevan,60.0,2.8
+Center,75000.0,panel,E. Qochar St,Yerevan,80.0,2.8
+Center,75000.0,stone,D. Demirchyan St,Yerevan,73.0,2.8
+Center,75000.0,panel,Charents St,Yerevan,110.0,3.0
+Center,65000.0,panel,Teryan St,Yerevan,42.0,3.0
+Center,75000.0,other,Lalayants st,Yerevan,53.0,2.8
+Center,65000.0,other,M.Khorenatsi St,Yerevan,53.0,2.8
+Center,65000.0,panel,Saryan St,Yerevan,71.0,2.8
+Center,65000.0,panel,E. Qochar St,Yerevan,78.0,2.8
+Center,65000.0,panel,Vardanants St,Yerevan,80.0,2.8
+Center,65000.0,panel,E. Qochar St,Yerevan,82.0,2.8
+Center,65000.0,stone,Vardanants St,Yerevan,42.0,2.8
+Center,65000.0,stone,Mashtots Ave,Yerevan,37.0,3.0
+Center,230000.0,stone,Pushkin St,Yerevan,120.0,3.0
+Center,48000.0,panel,Mashtots Ave,Yerevan,42.0,2.8
+Center,90000.0,stone,Israelyan St,Yerevan,90.0,3.2
+Center,70000.0,panel,Vardanants St,Yerevan,76.0,2.8
+Center,73000.0,monolit,Aygestan 9 St,Yerevan,95.0,2.8
+Center,160000.0,monolit,Amiryan St,Yerevan,110.0,3.0
+Center,85000.0,monolit,Tsitsernakaberd Highway,Yerevan,60.0,2.8
+Center,160000.0,stone,Hanrapetutyan St,Yerevan,94.0,3.0
+Center,67000.0,monolit,NarDos St,Yerevan,48.0,2.8
+Center,110000.0,other,Mashtots Ave,Yerevan,70.0,2.8
+Center,260000.0,other,Pushkin St,Yerevan,120.0,2.8
+Center,145000.0,other,Tsitsernakaberd Highway,Yerevan,114.0,3.0
+Center,125000.0,other,Rostom St,Yerevan,130.0,2.8
+Center,68000.0,stone,Hanrapetutyan St,Yerevan,62.0,2.8
+Center,216000.0,stone,Baghramyan Ave (Kentron),Yerevan,114.0,3.2
+Center,269000.0,monolit,Amiryan St,Yerevan,149.0,3.0
+Center,65000.0,other,Amiryan St,Yerevan,70.0,2.8
+Center,73000.0,stone,Bayron St,Yerevan,70.0,3.2
+Center,97000.0,stone,Charents St,Yerevan,70.0,2.8
+Center,111000.0,stone,Paronyan St,Yerevan,76.0,2.8
+Center,95000.0,other,Yekmalyan St,Yerevan,72.0,3.0
+Center,155000.0,other,Saryan St,Yerevan,80.0,3.0
+Center,75000.0,panel,E. Qochar St,Yerevan,78.0,2.8
+Center,98000.0,stone,Sayat Nova Ave,Yerevan,58.0,3.0
+Center,63000.0,stone,Heratsi St,Yerevan,71.0,2.8
+Center,63000.0,stone,Saryan St,Yerevan,35.0,3.2
+Center,95000.0,stone,Tumanyan St,Yerevan,72.0,3.0
+Center,63000.0,stone,Kajaznuni St,Yerevan,81.0,2.8
+Center,63000.0,monolit,Argishti St,Yerevan,52.0,3.0
+Center,63000.0,monolit,M.Khorenatsi St,Yerevan,51.0,3.0
+Center,63000.0,stone,Saryan St,Yerevan,35.0,2.8
+Center,63000.0,monolit,D. Demirchyan St,Yerevan,52.0,2.8
+Center,63000.0,other,Nalbandyan St,Yerevan,45.0,2.8
+Center,63000.0,stone,Abovyan St,Yerevan,95.0,3.2
+Center,63000.0,stone,A.Petrosyan St,Yerevan,37.0,2.8
+Center,65000.0,panel,Saryan St,Yerevan,72.0,2.8
+Center,70000.0,panel,Amiryan St,Yerevan,50.0,2.8
+Center,160000.0,monolit,Mashtots Ave,Yerevan,143.0,3.0
+Center,90000.0,monolit,M.Khorenatsi St,Yerevan,97.0,3.0
+Center,90000.0,panel,Sayat Nova Ave,Yerevan,65.0,2.8
+Center,78000.0,stone,Mashtots Ave,Yerevan,63.0,2.8
+Center,73000.0,panel,Nalbandyan St,Yerevan,53.0,3.0
+Center,65000.0,stone,Tigran Mets Ave,Yerevan,78.0,3.0
+Center,165000.0,monolit,Mashtots Ave,Yerevan,147.0,3.0
+Center,50000.0,panel,Israelyan St,Yerevan,55.0,2.8
+Center,60000.0,stone,Tigran Mets Ave,Yerevan,44.0,2.8
+Center,60000.0,other,Tigran Mets Ave,Yerevan,46.0,2.8
+Center,85000.0,stone,Mashtots Ave,Yerevan,137.0,3.0
+Center,85000.0,monolit,M.Khorenatsi St,Yerevan,97.0,3.0
+Center,85000.0,stone,Hanrapetutyan St,Yerevan,52.0,3.0
+Center,85000.0,panel,Saryan St,Yerevan,60.0,2.8
+Center,85000.0,stone,Charents St,Yerevan,100.0,3.0
+Center,85000.0,panel,Aghayan St,Yerevan,50.0,2.8
+Center,85000.0,monolit,Baghramyan Ave (Kentron),Yerevan,83.0,2.8
+Center,85000.0,stone,Tigran Mets Ave,Yerevan,101.0,3.2
+Center,85000.0,stone,A.Manukyan St,Yerevan,68.0,3.0
+Center,59000.0,other,Mashtots Ave,Yerevan,46.0,3.0
+Center,59000.0,stone,Mashtots Ave,Yerevan,56.0,2.8
+Center,59000.0,panel,Hanrapetutyan St,Yerevan,41.0,2.8
+Center,59000.0,panel,NarDos St,Yerevan,67.0,2.8
+Center,59000.0,panel,NarDos St,Yerevan,98.0,2.8
+Center,225000.0,stone,Pushkin St,Yerevan,120.0,3.2
+Center,75000.0,stone,Heratsi St,Yerevan,115.0,3.0
+Center,75000.0,monolit,Saralanj St,Yerevan,61.0,3.2
+Center,66000.0,stone,Heratsi St,Yerevan,72.0,3.2
+Center,73000.0,stone,Mashtots Ave,Yerevan,60.0,3.2
+Center,78000.0,panel,Teryan St,Yerevan,47.0,3.0
+Center,65000.0,stone,Tigran Mets Ave,Yerevan,85.0,3.2
+Center,65000.0,stone,Abovyan St,Yerevan,95.0,3.2
+Center,60000.0,panel,E. Qochar St,Yerevan,100.0,2.8
+Center,60000.0,panel,Aghayan St,Yerevan,49.0,2.8
+Center,60000.0,panel,Zavaryan St,Yerevan,92.0,2.8
+Center,59900.0,stone,Tigran Mets Ave,Yerevan,80.0,2.8
+Center,59500.0,monolit,Agatangeghos St,Yerevan,76.0,2.8
+Center,59000.0,panel,E. Qochar St,Yerevan,90.0,2.8
+Center,45000.0,other,Aygestan 11 dead end,Yerevan,44.0,2.8
+Center,150000.0,stone,Sayat Nova Ave,Yerevan,90.0,2.8
+Center,165000.0,stone,Tumanyan St,Yerevan,98.0,3.0
+Center,160000.0,stone,Isahakyan St,Yerevan,105.0,3.2
+Center,145000.0,monolit,Antarayin St,Yerevan,145.0,3.0
+Center,78000.0,stone,Sayat Nova Ave,Yerevan,72.0,3.2
+Center,50000.0,other,Argishti St,Yerevan,54.0,2.8
+Center,210000.0,stone,Tamanyan St,Yerevan,70.0,3.2
+Center,140000.0,monolit,Hin yerevantsi St,Yerevan,67.0,3.0
+Center,67500.0,monolit,Amiryan St,Yerevan,27.0,3.0
+Center,130000.0,panel,Nalbandyan St,Yerevan,81.0,2.8
+Center,78000.0,stone,Heratsi St,Yerevan,75.0,2.8
+Center,80000.0,panel,Amiryan St,Yerevan,67.0,2.8
+Center,80000.0,panel,Amiryan St,Yerevan,67.0,2.8
+Center,85000.0,monolit,Buzand St,Yerevan,50.0,3.2
+Center,80000.0,panel,Amiryan St,Yerevan,70.0,2.8
+Center,140000.0,stone,Hanrapetutyan St,Yerevan,111.0,2.8
+Center,123000.0,stone,Tumanyan St,Yerevan,80.0,2.8
+Center,85000.0,stone,Vardanants St,Yerevan,76.0,3.0
+Center,85000.0,panel,Aghayan St,Yerevan,50.0,2.8
+Center,85000.0,stone,Vardanants St,Yerevan,105.0,2.8
+Center,85000.0,panel,Abovyan St,Yerevan,75.0,2.8
+Center,85000.0,panel,Mashtots Ave,Yerevan,73.0,2.8
+Center,85000.0,stone,Mashtots Ave,Yerevan,68.0,2.8
+Center,85000.0,monolit,Mashtots Ave,Yerevan,67.0,2.8
+Center,85000.0,monolit,Amiryan St,Yerevan,75.0,3.0
+Center,85000.0,monolit,Tsitsernakaberd Highway,Yerevan,75.0,3.2
+Center,85000.0,monolit,Tsitsernakaberd Highway,Yerevan,84.0,3.0
+Center,85000.0,panel,Tigran Mets Ave,Yerevan,96.0,2.8
+Center,85000.0,panel,Moskovyan St,Yerevan,76.0,2.8
+Center,85000.0,monolit,Ler. Kamsar St,Yerevan,80.0,3.2
+Center,85000.0,monolit,Tsitsernakaberd Highway,Yerevan,101.0,3.2
+Center,85000.0,panel,Rostom St,Yerevan,74.0,3.2
+Center,85000.0,stone,Vardanants St,Yerevan,96.0,3.2
+Center,85000.0,stone,Deghatan St,Yerevan,85.0,2.8
+Center,85000.0,stone,Abovyan St,Yerevan,35.0,2.8
+Center,175000.0,stone,Charents St,Yerevan,98.0,2.8
+Center,75000.0,stone,Tigran Mets Ave,Yerevan,78.0,3.0
+Center,72000.0,stone,Heratsi St,Yerevan,120.0,2.8
+Center,57000.0,stone,Nalbandyan St,Yerevan,37.0,3.2
+Center,57000.0,panel,Tigran Mets Ave,Yerevan,79.0,2.8
+Center,57000.0,stone,Tigran Mets Ave,Yerevan,40.0,2.8
+Center,57000.0,monolit,Amiryan St,Yerevan,48.0,3.0
+Center,80000.0,monolit,Ler. Kamsar St,Yerevan,72.0,3.0
+Center,150000.0,other,Teryan St,Yerevan,120.0,2.8
+Center,120000.0,other,Tumanyan St,Yerevan,63.0,2.8
+Center,95000.0,panel,Hanrapetutyan St,Yerevan,92.0,2.8
+Center,70000.0,stone,Leo St,Yerevan,63.0,2.8
+Center,57000.0,monolit,Tsitsernakaberd Highway,Yerevan,67.0,3.0
+Center,57000.0,panel,Amiryan St,Yerevan,41.0,2.8
+Center,57000.0,panel,Lalayants st,Yerevan,49.0,2.8
+Center,57000.0,panel,NarDos St,Yerevan,78.0,2.8
+Center,56800.0,panel,Amiryan St,Yerevan,40.0,2.8
+Center,78000.0,stone,Paronyan St,Yerevan,78.0,2.8
+Center,93000.0,stone,Tigran Mets Ave,Yerevan,84.0,3.0
+Center,95000.0,panel,Koghbatsi St,Yerevan,87.0,2.8
+Center,47000.0,panel,D. Demirchyan St,Yerevan,43.0,2.8
+Center,51000.0,other,Sayat Nova Ave,Yerevan,33.0,2.8
+Center,55000.0,monolit,Argishti St,Yerevan,55.0,2.8
+Center,55000.0,panel,Saryan St,Yerevan,41.0,2.8
+Center,55000.0,stone,Aygestan St,Yerevan,61.0,3.0
+Center,55000.0,panel,E. Qochar St,Yerevan,94.0,2.8
+Center,55000.0,panel,NarDos St,Yerevan,100.0,2.8
+Center,55000.0,monolit,Argishti St,Yerevan,53.0,3.2
+Center,55000.0,monolit,Argishti St,Yerevan,56.0,2.8
+Center,55000.0,panel,Kajaznuni St,Yerevan,80.0,2.8
+Center,54000.0,panel,Tigran Mets Ave,Yerevan,42.0,2.8
+Center,54500.0,stone,Tigran Mets Ave,Yerevan,80.0,2.8
+Center,54000.0,panel,Tigran Mets Ave,Yerevan,67.0,2.8
+Center,54000.0,panel,Tigran Mets Ave,Yerevan,42.0,2.8
+Center,54000.0,monolit,Yekmalyan St,Yerevan,42.0,3.0
+Center,72000.0,panel,Vardanants St,Yerevan,77.0,2.8
+Center,26000.0,panel,NarDos St,Yerevan,42.0,2.8
+Center,55000.0,other,M.Khorenatsi St,Yerevan,60.0,2.8
+Center,68000.0,stone,Mashtots Ave,Yerevan,32.0,3.2
+Center,64000.0,panel,Bryusov St,Yerevan,55.0,2.8
+Center,115000.0,stone,Saryan St,Yerevan,93.0,2.8
+Center,250000.0,monolit,Verin Antarayin,Yerevan,148.0,3.2
+Center,155000.0,stone,Tumanyan St,Yerevan,100.0,3.2
+Center,250000.0,monolit,Vardanants St,Yerevan,130.0,3.0
+Center,140000.0,stone,Isahakyan St,Yerevan,93.0,3.2
+Center,300000.0,monolit,Aram St,Yerevan,125.0,3.0
+Center,220000.0,monolit,Aram St,Yerevan,136.0,3.0
+Center,235000.0,monolit,Yekmalyan St,Yerevan,119.0,3.0
+Center,76000.0,panel,Zavaryan St,Yerevan,92.0,2.8
+Center,54000.0,stone,Tigran Mets Ave,Yerevan,37.0,2.8
+Center,54000.0,panel,E. Qochar St,Yerevan,76.0,2.8
+Center,54000.0,monolit,Argishti St,Yerevan,54.0,2.8
+Center,53000.0,monolit,Argishti St,Yerevan,56.0,3.0
+Center,53000.0,monolit,M.Khorenatsi St,Yerevan,43.0,3.0
+Center,53000.0,monolit,Argishti St,Yerevan,56.0,3.0
+Center,53000.0,stone,Mashtots Ave,Yerevan,58.0,2.8
+Center,53000.0,panel,Lalayants st,Yerevan,44.0,3.0
+Center,53000.0,other,Sayat Nova Ave,Yerevan,32.0,2.8
+Center,53000.0,panel,Tigran Mets Ave,Yerevan,67.0,2.8
+Center,53000.0,monolit,Argishti St,Yerevan,56.0,2.8
+Center,53000.0,stone,Arshakunyats Ave,Yerevan,62.0,3.2
+Center,53000.0,stone,Heratsi St,Yerevan,55.0,2.8
+Center,53000.0,monolit,Kajaznuni St,Yerevan,77.0,2.8
+Center,53000.0,panel,Saryan St,Yerevan,41.0,2.8
+Center,53000.0,panel,Amiryan St,Yerevan,43.0,2.8
+Center,53000.0,panel,Israelyan St,Yerevan,54.0,2.8
+Center,53000.0,stone,Tigran Mets Ave,Yerevan,65.0,2.8
+Center,53000.0,panel,M.Khorenatsi St,Yerevan,50.0,2.8
+Center,53000.0,monolit,Argishti St,Yerevan,56.0,2.8
+Center,52000.0,stone,Tigran Mets Ave,Yerevan,70.0,3.0
+Center,52000.0,panel,Kajaznuni St,Yerevan,67.0,2.8
+Center,52000.0,monolit,Argishti St,Yerevan,55.0,3.2
+Center,52000.0,panel,Amiryan St,Yerevan,42.0,2.8
+Center,52000.0,stone,Nalbandyan St,Yerevan,45.0,2.8
+Center,52000.0,panel,Koghbatsi St,Yerevan,42.0,2.8
+Center,52000.0,stone,Sayat Nova Ave,Yerevan,38.0,3.2
+Center,52000.0,monolit,Argishti St,Yerevan,53.0,3.0
+Center,52000.0,panel,Kajaznuni St,Yerevan,40.0,2.8
+Center,52000.0,panel,Zakyan St,Yerevan,41.0,2.8
+Center,52000.0,panel,Pushkin St,Yerevan,46.0,2.8
+Center,75000.0,monolit,Argishti St,Yerevan,58.0,2.8
+Center,52000.0,stone,Tigran Mets Ave,Yerevan,80.0,2.8
+Center,150000.0,monolit,Amiryan St,Yerevan,78.0,3.0
+Center,114000.0,stone,Kajaznuni St,Yerevan,96.0,2.8
+Center,68000.0,other,Rostom St,Yerevan,90.0,2.8
+Center,85000.0,panel,E. Qochar St,Yerevan,100.0,2.8
+Center,53000.0,other,Tigran Mets Ave,Yerevan,68.0,2.8
+Center,40000.0,panel,M.Khorenatsi St,Yerevan,80.0,2.8
+Center,51000.0,panel,Pushkin St,Yerevan,47.0,2.8
+Center,51000.0,panel,Tigran Mets Ave,Yerevan,42.0,2.8
+Center,48000.0,monolit,Vardanants St,Yerevan,42.0,2.8
+Center,51000.0,stone,Tigran Mets Ave,Yerevan,67.0,3.2
+Center,51000.0,panel,Koghbatsi St,Yerevan,41.0,2.8
+Center,51000.0,panel,M.Khorenatsi St,Yerevan,72.0,2.8
+Center,50000.0,panel,Tigran Mets Ave,Yerevan,43.0,2.8
+Center,51000.0,panel,Koghbatsi St,Yerevan,41.0,2.8
+Center,50000.0,stone,Zakyan St,Yerevan,52.0,2.6
+Center,50000.0,panel,M.Khorenatsi St,Yerevan,73.0,2.8
+Center,50000.0,monolit,Argishti St,Yerevan,56.0,2.8
+Center,50000.0,stone,Tigran Mets Ave,Yerevan,54.0,2.6
+Center,50000.0,monolit,Argishti St,Yerevan,44.0,3.0
+Center,50000.0,panel,Kajaznuni St,Yerevan,41.0,2.8
+Center,95000.0,other,Charents St,Yerevan,106.0,2.8
+Center,65000.0,stone,Tigran Mets Ave,Yerevan,72.0,3.2
+Center,89000.0,stone,Nalbandyan St,Yerevan,40.0,3.0
+Center,270000.0,monolit,Buzand St,Yerevan,135.0,3.2
+Center,250000.0,stone,Abovyan St,Yerevan,100.0,2.8
+Center,49000.0,panel,Bryusov St,Yerevan,58.0,2.8
+Center,52000.0,stone,Tigran Mets Ave,Yerevan,65.0,2.8
+Center,70000.0,stone,Leo St,Yerevan,63.0,2.8
+Center,150000.0,stone,Sayat Nova Ave,Yerevan,70.0,2.8
+Center,80000.0,stone,Tigran Mets Ave,Yerevan,80.0,2.6
+Center,70000.0,stone,Abovyan St,Yerevan,58.0,3.2
+Center,91000.0,panel,Amiryan St,Yerevan,69.0,2.8
+Center,92000.0,stone,Nalbandyan St,Yerevan,78.0,3.2
+Center,92000.0,stone,Abovyan St,Yerevan,79.0,2.8
+Center,92000.0,stone,Charents St,Yerevan,92.0,3.2
+Center,92000.0,panel,Koghbatsi St,Yerevan,95.0,3.0
+Center,92000.0,panel,Koghbatsi St,Yerevan,95.0,3.0
+Center,92000.0,stone,Saryan St,Yerevan,96.0,2.8
+Center,92000.0,panel,Koghbatsi St,Yerevan,92.0,2.8
+Center,92000.0,monolit,Sayat Nova Ave,Yerevan,54.0,2.8
+Center,92000.0,monolit,Koghbatsi St,Yerevan,95.0,2.8
+Center,92000.0,stone,Bayron St,Yerevan,70.0,3.0
+Center,92000.0,stone,Teryan St,Yerevan,70.0,2.8
+Center,92000.0,panel,Koghbatsi St,Yerevan,94.0,2.8
+Center,100000.0,other,Tamanyan St,Yerevan,92.0,2.8
+Center,100000.0,stone,D. Demirchyan St,Yerevan,82.0,3.0
+Center,92000.0,stone,D. Demirchyan St,Yerevan,96.0,3.2
+Center,100000.0,panel,Moskovyan St,Yerevan,75.0,2.8
+Center,100000.0,stone,Saryan St,Yerevan,95.0,3.2
+Center,100000.0,panel,Moskovyan St,Yerevan,72.0,2.8
+Center,100000.0,monolit,Argishti St,Yerevan,111.0,3.0
+Center,100000.0,stone,Vardanants St,Yerevan,75.0,2.8
+Center,100000.0,monolit,Vardanants St,Yerevan,118.0,2.8
+Center,49000.0,monolit,Saryan St,Yerevan,48.0,2.8
+Center,100000.0,monolit,Buzand St,Yerevan,96.0,3.0
+Center,49000.0,panel,E. Qochar St,Yerevan,80.0,2.8
+Center,49000.0,other,Tigran Mets Ave,Yerevan,48.0,2.8
+Center,100000.0,monolit,M.Khorenatsi St,Yerevan,136.0,3.0
+Center,49000.0,panel,Kajaznuni St,Yerevan,52.0,2.8
+Center,103000.0,stone,Vardanants St,Yerevan,75.0,2.8
+Center,104000.0,monolit,Leo St,Yerevan,67.0,3.2
+Center,105000.0,stone,Charents St,Yerevan,70.0,2.8
+Center,105000.0,stone,Nalbandyan St,Yerevan,117.0,3.2
+Center,105000.0,stone,Vardanants St,Yerevan,80.0,2.8
+Center,105000.0,stone,Moskovyan St,Yerevan,62.0,2.8
+Center,105000.0,panel,M. Baghramyan av 1 passage,Yerevan,67.0,2.8
+Center,105000.0,monolit,Argishti St,Yerevan,106.0,3.0
+Center,105000.0,stone,Leo St,Yerevan,105.0,3.2
+Center,105000.0,stone,Koryun St,Yerevan,106.0,2.8
+Center,105000.0,stone,Charents St,Yerevan,67.0,3.0
+Center,105000.0,panel,Tumanyan St,Yerevan,45.0,2.8
+Center,105000.0,stone,Nar Dos 1 alley,Yerevan,92.0,2.8
+Center,105000.0,stone,Khanjyan St,Yerevan,80.0,3.0
+Center,105000.0,monolit,Amiryan St,Yerevan,65.0,3.0
+Center,105000.0,stone,Nalbandyan St,Yerevan,57.0,2.8
+Center,105000.0,stone,Aram St,Yerevan,98.0,2.8
+Center,105000.0,stone,Saryan St,Yerevan,110.0,3.0
+Center,105000.0,stone,D. Demirchyan St,Yerevan,113.0,2.8
+Center,105000.0,panel,M.Khorenatsi St,Yerevan,115.0,2.8
+Center,105000.0,stone,Hanrapetutyan St,Yerevan,80.0,3.2
+Center,105000.0,stone,Charents St,Yerevan,67.0,3.2
+Center,105000.0,panel,Saryan St,Yerevan,87.0,2.8
+Center,105000.0,stone,Khanjyan St,Yerevan,71.0,3.2
+Center,105000.0,panel,Abovyan St,Yerevan,94.0,2.8
+Center,105000.0,panel,Pushkin St,Yerevan,93.0,3.0
+Center,105000.0,other,Leo St,Yerevan,97.0,2.8
+Center,105000.0,monolit,Argishti St,Yerevan,111.0,3.0
+Center,105000.0,monolit,Argishti St,Yerevan,112.0,3.0
+Center,105000.0,other,Koryun St,Yerevan,105.0,2.8
+Center,105000.0,panel,M.Khorenatsi St,Yerevan,100.0,2.8
+Center,105000.0,stone,Abovyan St,Yerevan,38.0,2.8
+Center,105000.0,stone,Paronyan St,Yerevan,62.0,3.2
+Center,105000.0,panel,Sayat Nova Ave,Yerevan,75.0,2.8
+Center,105000.0,monolit,Argishti St,Yerevan,112.0,3.0
+Center,105000.0,stone,Khanjyan St,Yerevan,80.0,3.0
+Center,60000.0,panel,M.Khorenatsi St,Yerevan,72.0,2.8
+Center,165000.0,stone,Abovyan St,Yerevan,92.0,3.2
+Center,50000.0,panel,NarDos St,Yerevan,72.0,2.8
+Center,99000.0,panel,Khanjyan St,Yerevan,88.0,2.8
+Center,75000.0,panel,E. Qochar St,Yerevan,90.0,2.8
+Center,71000.0,panel,Nalbandyan St,Yerevan,78.0,2.8
+Center,105000.0,monolit,Tsitsernakaberd Highway,Yerevan,116.0,3.0
+Center,65000.0,panel,E. Qochar St,Yerevan,81.0,2.8
+Center,105000.0,stone,Agatangeghos St,Yerevan,100.0,3.0
+Center,105000.0,stone,Abovyan St,Yerevan,45.0,3.2
+Center,105000.0,monolit,Ler. Kamsar St,Yerevan,128.0,3.0
+Center,105000.0,stone,Teryan St,Yerevan,80.0,3.2
+Center,105000.0,panel,Zakyan St,Yerevan,93.0,2.8
+Center,105000.0,stone,Khanjyan St,Yerevan,71.0,3.2
+Center,107000.0,stone,Abovyan St,Yerevan,90.0,2.8
+Center,107000.0,monolit,Nalbandyan St,Yerevan,53.0,2.8
+Center,107000.0,stone,Isahakyan St,Yerevan,93.0,3.2
+Center,106000.0,monolit,Argishti St,Yerevan,105.0,2.8
+Center,107000.0,monolit,M.Khorenatsi St,Yerevan,100.0,3.0
+Center,107000.0,stone,Nalbandyan St,Yerevan,112.0,3.2
+Center,107000.0,stone,Moskovyan St,Yerevan,96.0,3.0
+Center,107000.0,stone,Moskovyan St,Yerevan,86.0,3.0
+Center,107000.0,stone,Abovyan St,Yerevan,119.0,2.8
+Center,107000.0,panel,Sayat Nova Ave,Yerevan,52.0,2.8
+Center,107000.0,stone,A.Manukyan St,Yerevan,72.0,3.0
+Center,107250.0,monolit,Antarayin St,Yerevan,65.0,2.8
+Center,109000.0,monolit,Argishti St,Yerevan,105.0,2.8
+Center,105000.0,monolit,Argishti St,Yerevan,112.0,3.2
+Center,105000.0,stone,Charents St,Yerevan,70.0,3.2
+Center,105000.0,stone,Charents St,Yerevan,70.0,3.0
+Center,105000.0,stone,Moskovyan St,Yerevan,70.0,2.8
+Center,105000.0,stone,NarDos St,Yerevan,90.0,2.8
+Center,105000.0,stone,Charents St,Yerevan,84.0,3.0
+Center,105000.0,monolit,Verin Antarayin,Yerevan,81.0,3.2
+Center,105000.0,stone,Charents St,Yerevan,70.0,2.8
+Center,105000.0,stone,Sayat Nova Ave,Yerevan,86.0,2.8
+Center,105000.0,panel,M.Khorenatsi St,Yerevan,112.0,3.0
+Center,105000.0,stone,Nalbandyan St,Yerevan,65.0,2.8
+Center,105000.0,stone,D. Demirchyan St,Yerevan,85.0,3.2
+Center,105000.0,panel,Mashtots Ave,Yerevan,90.0,2.8
+Center,105000.0,other,Amiryan St,Yerevan,80.0,2.8
+Center,105000.0,stone,Zakyan St,Yerevan,80.0,3.0
+Center,100000.0,stone,Tamanyan St,Yerevan,38.0,3.2
+Center,105000.0,stone,Moskovyan St,Yerevan,96.0,3.2
+Center,100000.0,stone,Teryan St,Yerevan,41.0,3.2
+Center,100000.0,stone,Mashtots Ave,Yerevan,63.0,3.0
+Center,100000.0,stone,Heratsi St,Yerevan,90.0,2.8
+Center,100000.0,monolit,E. Qochar St,Yerevan,65.0,3.0
+Center,100000.0,other,Moskovyan St,Yerevan,75.0,3.0
+Center,100000.0,stone,Tigran Mets Ave,Yerevan,103.0,2.8
+Center,100000.0,other,A.Manukyan St,Yerevan,75.0,2.8
+Center,100000.0,panel,E. Qochar St,Yerevan,112.0,2.8
+Center,100000.0,other,Kajaznuni St,Yerevan,96.0,2.8
+Center,100000.0,panel,Pushkin St,Yerevan,90.0,2.8
+Center,102000.0,panel,Koghbatsi St,Yerevan,87.0,2.8
+Center,101000.0,stone,Nalbandyan St,Yerevan,99.0,3.0
+Center,99000.0,monolit,Argishti St,Yerevan,118.0,3.0
+Center,99000.0,panel,Pushkin St,Yerevan,81.0,2.8
+Center,100000.0,stone,Vardanants St,Yerevan,80.0,3.0
+Center,100000.0,stone,NarDos St,Yerevan,90.0,2.8
+Center,100000.0,monolit,Argishti St,Yerevan,105.0,3.0
+Center,100000.0,stone,Nalbandyan St,Yerevan,86.0,3.2
+Center,100000.0,stone,Saryan St,Yerevan,70.0,3.2
+Center,100000.0,monolit,Sayat Nova Ave,Yerevan,64.0,3.2
+Center,100000.0,stone,Pushkin St,Yerevan,92.0,3.2
+Center,100000.0,panel,Paronyan St,Yerevan,100.0,2.8
+Center,100000.0,stone,Pushkin St,Yerevan,92.0,3.2
+Center,100000.0,panel,Saryan St,Yerevan,95.0,2.8
+Center,100000.0,panel,Paronyan St,Yerevan,100.0,2.8
+Center,100000.0,stone,Abovyan St,Yerevan,60.0,2.8
+Center,100000.0,monolit,Saryan St,Yerevan,102.0,2.8
+Center,110000.0,monolit,Argishti St,Yerevan,105.0,3.2
+Center,110000.0,stone,Koryun St,Yerevan,106.0,3.0
+Center,110000.0,panel,Saryan St,Yerevan,107.0,3.0
+Center,110000.0,panel,Aghayan St,Yerevan,107.0,3.0
+Center,110000.0,monolit,Verin Antarayin,Yerevan,110.0,3.2
+Center,110000.0,monolit,Nalbandyan St,Yerevan,52.0,3.0
+Center,110000.0,monolit,M.Khorenatsi St,Yerevan,98.0,3.0
+Center,110000.0,panel,M.Khorenatsi St,Yerevan,111.0,2.8
+Center,110000.0,other,Khanjyan St,Yerevan,80.0,2.8
+Center,110000.0,other,Rostom St,Yerevan,133.0,3.0
+Center,110000.0,stone,Khanjyan St,Yerevan,80.0,3.0
+Center,120000.0,monolit,Aram St,Yerevan,105.0,3.0
+Center,110000.0,stone,Argishti St,Yerevan,104.0,2.8
+Center,120000.0,panel,Amiryan St,Yerevan,70.0,2.8
+Center,120000.0,stone,D. Demirchyan St,Yerevan,100.0,3.2
+Center,120000.0,monolit,Abovyan St,Yerevan,65.0,3.0
+Center,120000.0,monolit,Mashtots Ave,Yerevan,64.0,3.2
+Center,120000.0,other,Arshakunyats Ave,Yerevan,103.0,2.8
+Center,120000.0,panel,Vardanants St,Yerevan,113.0,2.8
+Center,120000.0,stone,Tumanyan St,Yerevan,70.0,3.0
+Center,120000.0,other,Mashtots Ave,Yerevan,80.0,3.0
+Center,120000.0,monolit,Heratsi St,Yerevan,117.0,3.0
+Center,120000.0,stone,Abovyan St,Yerevan,87.0,3.2
+Center,120000.0,stone,Saryan St,Yerevan,72.0,3.0
+Center,120000.0,monolit,M.Khorenatsi St,Yerevan,97.0,3.0
+Center,120000.0,stone,Leo St,Yerevan,105.0,3.0
+Center,120000.0,stone,Moskovyan St,Yerevan,68.0,2.8
+Center,120000.0,stone,A.Manukyan St,Yerevan,100.0,3.0
+Center,120000.0,other,Hanrapetutyan St,Yerevan,97.0,2.8
+Center,120000.0,monolit,Amiryan St,Yerevan,122.0,3.0
+Center,120000.0,stone,Mashtots Ave,Yerevan,85.0,3.2
+Center,120000.0,monolit,Ler. Kamsar St,Yerevan,80.0,3.0
+Center,120000.0,stone,Vardanants St,Yerevan,84.0,2.8
+Center,120000.0,stone,Charents St,Yerevan,106.0,3.2
+Center,120000.0,stone,Khanjyan St,Yerevan,110.0,2.8
+Center,120000.0,monolit,E. Qochar St,Yerevan,75.0,3.0
+Center,120000.0,monolit,E. Qochar St,Yerevan,75.0,3.0
+Center,120000.0,monolit,Saryan St,Yerevan,81.0,2.8
+Center,120000.0,stone,Mashtots Ave,Yerevan,103.0,3.2
+Center,120000.0,stone,Moskovyan St,Yerevan,54.0,3.2
+Center,120000.0,monolit,Amiryan St,Yerevan,122.0,3.0
+Center,120000.0,stone,Nalbandyan St,Yerevan,92.0,3.2
+Center,120000.0,stone,Amiryan St,Yerevan,101.0,2.8
+Center,120000.0,monolit,Ler. Kamsar St,Yerevan,102.0,3.0
+Center,120000.0,panel,D. Demirchyan St,Yerevan,85.0,2.8
+Center,120000.0,stone,Saryan St,Yerevan,90.0,3.2
+Center,120000.0,stone,Abovyan St,Yerevan,90.0,3.0
+Center,120000.0,monolit,Rostom St,Yerevan,87.0,2.8
+Center,120000.0,monolit,Verin Antarayin,Yerevan,109.0,3.0
+Center,115000.0,stone,Tumanyan St,Yerevan,90.0,2.8
+Center,115000.0,stone,Kor str 1 alley,Yerevan,107.0,2.8
+Center,115000.0,monolit,Mashtots Ave,Yerevan,100.0,3.0
+Center,115000.0,monolit,Verin Antarayin,Yerevan,75.0,3.0
+Center,115000.0,stone,Koryun alley,Yerevan,107.0,2.8
+Center,115000.0,stone,Vardanants St,Yerevan,82.0,3.2
+Center,115000.0,other,Koghbatsi St,Yerevan,78.0,2.8
+Center,115000.0,monolit,Antarayin St,Yerevan,121.0,3.0
+Center,115000.0,stone,Khanjyan St,Yerevan,90.0,3.2
+Center,117000.0,stone,Abovyan St,Yerevan,115.0,2.8
+Center,117000.0,monolit,Baghramyan Ave (Kentron),Yerevan,115.0,3.0
+Center,117000.0,monolit,Moskovyan St,Yerevan,96.0,2.8
+Center,117000.0,other,Sayat Nova Ave,Yerevan,105.0,3.2
+Center,117000.0,stone,Abovyan St,Yerevan,110.0,2.8
+Center,117000.0,panel,Koghbatsi St,Yerevan,75.0,2.8
+Center,117000.0,stone,Abovyan St,Yerevan,65.0,3.2
+Center,117000.0,stone,Moskovyan St,Yerevan,80.0,3.2
+Center,117000.0,monolit,Aram St,Yerevan,60.0,2.8
+Center,127000.0,stone,Sayat Nova Ave,Yerevan,90.0,3.0
+Center,117000.0,stone,Abovyan St,Yerevan,119.0,2.8
+Center,127500.0,monolit,Sayat Nova Ave,Yerevan,91.0,3.0
+Center,128000.0,stone,Nalbandyan St,Yerevan,64.0,3.0
+Center,128000.0,stone,Baghramyan Ave (Kentron),Yerevan,125.0,3.2
+Center,128000.0,monolit,Sayat Nova Ave,Yerevan,86.0,2.8
+Center,128000.0,monolit,Sayat Nova Ave,Yerevan,91.0,3.0
+Center,127000.0,monolit,Yekmalyan St,Yerevan,71.0,3.0
+Center,129000.0,monolit,Aram St,Yerevan,112.0,3.2
+Center,129000.0,stone,A.Manukyan St,Yerevan,100.0,2.8
+Center,128000.0,monolit,NarDos St,Yerevan,125.0,2.8
+Center,129000.0,panel,M.Khorenatsi St,Yerevan,90.0,2.8
+Center,130000.0,stone,Zakyan St,Yerevan,120.0,3.0
+Center,130000.0,stone,Zakyan St,Yerevan,70.0,2.8
+Center,130000.0,stone,D. Demirchyan St,Yerevan,90.0,3.0
+Center,128000.0,monolit,Teryan St,Yerevan,136.0,3.2
+Center,130000.0,stone,Kilikia district,Yerevan,110.0,3.2
+Center,130000.0,monolit,Buzand St,Yerevan,60.0,2.8
+Center,130000.0,monolit,Saryan St,Yerevan,81.0,2.8
+Center,130000.0,panel,Nalbandyan St,Yerevan,81.0,2.8
+Center,130000.0,stone,Heratsi St,Yerevan,100.0,3.2
+Center,130000.0,stone,Teryan St,Yerevan,71.0,2.8
+Center,130000.0,monolit,Aram St,Yerevan,60.0,2.8
+Center,130000.0,stone,Spendiaryan St,Yerevan,80.0,3.2
+Center,130000.0,stone,Bayron St,Yerevan,80.0,3.2
+Center,130000.0,stone,Mashtots Ave,Yerevan,100.0,3.0
+Center,130000.0,panel,Agatangeghos St,Yerevan,93.0,3.0
+Center,130000.0,panel,Ghazar Parpetsi St,Yerevan,75.0,2.8
+Center,130000.0,stone,Tpagrichner St,Yerevan,95.0,3.2
+Center,130000.0,monolit,Rostom St,Yerevan,130.0,3.0
+Center,130000.0,monolit,Buzand St,Yerevan,54.0,3.2
+Center,130000.0,other,Nalbandyan St,Yerevan,126.0,2.8
+Center,130000.0,stone,E. Qochar St,Yerevan,75.0,2.8
+Center,130000.0,stone,Abovyan St,Yerevan,110.0,3.2
+Center,130000.0,monolit,Argishti St,Yerevan,120.0,3.0
+Center,130000.0,stone,Abovyan St,Yerevan,90.0,3.2
+Center,130000.0,monolit,Tigran Mets Ave,Yerevan,105.0,3.0
+Center,130000.0,stone,Teryan St,Yerevan,60.0,2.8
+Center,130000.0,stone,Mashtots Ave,Yerevan,90.0,3.2
+Center,130000.0,stone,Hanrapetutyan St,Yerevan,85.0,2.8
+Center,130000.0,panel,Vardanants St,Yerevan,80.0,2.8
+Center,130000.0,stone,A.Manukyan St,Yerevan,100.0,3.2
+Center,125000.0,monolit,Buzand St,Yerevan,60.0,3.0
+Center,125000.0,stone,Charents St,Yerevan,110.0,2.8
+Center,125000.0,stone,Abovyan St,Yerevan,102.0,3.0
+Center,125000.0,monolit,Aram St,Yerevan,60.0,3.0
+Center,125000.0,monolit,Buzand St,Yerevan,60.0,3.0
+Center,125000.0,panel,Aghayan St,Yerevan,92.0,2.8
+Center,125000.0,monolit,Yekmalyan St,Yerevan,100.0,3.2
+Center,125000.0,stone,Mashtots Ave,Yerevan,71.0,3.2
+Center,125000.0,monolit,Aram St,Yerevan,116.0,3.0
+Center,125000.0,monolit,Amiryan St,Yerevan,90.0,2.8
+Center,125000.0,other,Hanrapetutyan St,Yerevan,100.0,2.8
+Center,125000.0,other,Khanjyan St,Yerevan,110.0,3.0
+Center,125000.0,other,Tumanyan St,Yerevan,112.0,2.8
+Center,125000.0,stone,Khanjyan St,Yerevan,110.0,3.2
+Center,130000.0,panel,Israelyan St,Yerevan,130.0,2.8
+Center,125000.0,stone,Khanjyan St,Yerevan,110.0,3.2
+Center,125000.0,stone,Khanjyan St,Yerevan,110.0,3.0
+Center,130000.0,stone,Leo St,Yerevan,106.0,3.0
+Center,130000.0,stone,Charents St,Yerevan,125.0,3.0
+Center,130000.0,stone,Tumanyan St,Yerevan,82.0,3.0
+Center,130000.0,monolit,Argishti St,Yerevan,103.0,3.0
+Center,130000.0,stone,Teryan St,Yerevan,58.0,2.8
+Center,130000.0,panel,Sayat Nova Ave,Yerevan,101.0,2.8
+Center,130000.0,stone,Sayat Nova Ave,Yerevan,96.0,3.2
+Center,130000.0,stone,Teryan St,Yerevan,60.0,2.8
+Center,130000.0,stone,Pushkin St,Yerevan,75.0,3.0
+Center,132000.0,stone,Leo St,Yerevan,100.0,2.8
+Center,130000.0,panel,Sayat Nova Ave,Yerevan,71.0,2.8
+Center,132000.0,monolit,Amiryan St,Yerevan,132.0,3.0
+Center,130000.0,stone,Sayat Nova Ave,Yerevan,96.0,3.2
+Center,132000.0,monolit,Sayat Nova Ave,Yerevan,77.0,2.8
+Center,85000.0,panel,Baghramyan Ave (Kentron),Yerevan,90.0,2.8
+Center,160000.0,stone,Abovyan St,Yerevan,70.0,2.8
+Center,175000.0,other,Antarayin St,Yerevan,122.0,2.8
+Center,125000.0,panel,Israelyan St,Yerevan,130.0,2.8
+Center,57000.0,stone,Tigran Mets Ave,Yerevan,64.0,2.8
+Center,75000.0,stone,Vardanants St,Yerevan,105.0,2.8
+Center,59000.0,stone,Tigran Mets Ave,Yerevan,70.0,2.8
+Center,140000.0,monolit,M.Khorenatsi St,Yerevan,97.0,3.0
+Center,110000.0,panel,Sayat Nova Ave,Yerevan,75.0,2.8
+Center,135000.0,monolit,Tumanyan St,Yerevan,90.0,2.8
+Center,135000.0,stone,Pushkin St,Yerevan,140.0,3.2
+Center,135000.0,monolit,Yekmalyan St,Yerevan,80.0,3.0
+Center,135000.0,stone,Tumanyan St,Yerevan,62.0,2.8
+Center,60000.0,panel,E. Qochar St,Yerevan,90.0,2.8
+Center,135000.0,stone,Zakyan St,Yerevan,110.0,2.8
+Center,135000.0,other,Tsitsernakaberd Highway,Yerevan,100.0,2.8
+Center,135000.0,panel,Saryan St,Yerevan,120.0,3.2
+Center,135000.0,monolit,Mashtots Ave,Yerevan,90.0,2.8
+Center,135000.0,monolit,Tsitsernakaberd Highway,Yerevan,98.0,3.0
+Center,135000.0,other,Mashtots Ave,Yerevan,90.0,2.8
+Center,135000.0,monolit,Tsitsernakaberd Highway,Yerevan,100.0,2.8
+Center,135000.0,other,Pushkin St,Yerevan,80.0,2.8
+Center,135000.0,stone,Nalbandyan St,Yerevan,140.0,3.0
+Center,135000.0,stone,Tamanyan St,Yerevan,68.0,3.2
+Center,135000.0,monolit,Tsitsernakaberd Highway,Yerevan,100.0,3.0
+Center,135000.0,monolit,Tsitsernakaberd Highway,Yerevan,100.0,2.8
+Center,135000.0,stone,Mashtots Ave,Yerevan,133.0,3.2
+Center,135000.0,monolit,Mashtots Ave,Yerevan,90.0,3.0
+Center,135000.0,stone,Moskovyan St,Yerevan,81.0,3.2
+Center,135000.0,stone,Nalbandyan St,Yerevan,110.0,2.8
+Center,135000.0,monolit,Tsitsernakaberd Highway,Yerevan,100.0,2.8
+Center,135000.0,monolit,Tsitsernakaberd Highway,Yerevan,100.0,3.0
+Center,135000.0,monolit,Tsitsernakaberd Highway,Yerevan,100.0,2.8
+Center,138000.0,stone,Tigran Mets Ave,Yerevan,86.0,3.2
+Center,138000.0,stone,Charents St,Yerevan,123.0,3.2
+Center,138000.0,monolit,D. Demirchyan St,Yerevan,110.0,2.8
+Center,138000.0,stone,Teryan St,Yerevan,65.0,3.0
+Center,137000.0,other,Mashtots Ave,Yerevan,90.0,3.0
+Center,138000.0,stone,A.Manukyan St,Yerevan,100.0,3.0
+Center,139000.0,stone,Ghazar Parpetsi St,Yerevan,120.0,3.2
+Center,140000.0,stone,Moskovyan St,Yerevan,72.0,3.2
+Center,139000.0,monolit,Amiryan St,Yerevan,80.0,3.0
+Center,140000.0,stone,Mashtots Ave,Yerevan,71.0,3.2
+Center,140000.0,panel,Tumanyan St,Yerevan,80.0,2.8
+Center,139000.0,stone,Teryan St,Yerevan,71.0,3.2
+Center,140000.0,panel,Aygestan 10 St,Yerevan,110.0,3.0
+Center,140000.0,stone,Mashtots Ave,Yerevan,95.0,3.2
+Center,140000.0,monolit,Sayat Nova Ave,Yerevan,80.0,3.0
+Center,140000.0,stone,A.Manukyan St,Yerevan,100.0,2.8
+Center,140000.0,stone,Tumanyan St,Yerevan,120.0,2.8
+Center,140000.0,stone,Moskovyan St,Yerevan,46.0,3.0
+Center,130000.0,stone,Leo St,Yerevan,100.0,3.0
+Center,135000.0,monolit,Tigran Mets Ave,Yerevan,107.0,3.0
+Center,135000.0,monolit,Mashtots Ave,Yerevan,90.0,3.0
+Center,110000.0,monolit,Amiryan St,Yerevan,65.0,3.0
+Center,95000.0,stone,Mashtots Ave,Yerevan,76.0,2.8
+Center,85000.0,stone,Vardanants St,Yerevan,96.0,2.8
+Center,56000.0,stone,Vardanants St,Yerevan,36.0,2.8
+Center,79500.0,stone,Vardanants St,Yerevan,60.0,2.8
+Center,100000.0,panel,E. Qochar St,Yerevan,96.0,2.8
+Center,68000.0,panel,E. Qochar St,Yerevan,80.0,2.8
+Center,35000.0,monolit,Vardanants St,Yerevan,43.0,2.8
+Center,250000.0,other,Vardanants St,Yerevan,130.0,2.8
+Center,120000.0,stone,Teryan St,Yerevan,87.0,2.8
+Center,100000.0,stone,Tpagrichner St,Yerevan,80.0,2.8
+Center,76000.0,stone,Hanrapetutyan St,Yerevan,51.0,3.2
+Center,93000.0,stone,Moskovyan St,Yerevan,54.0,3.2
+Center,150000.0,stone,Abovyan St,Yerevan,70.0,3.2
+Center,112000.0,other,Sayat Nova Ave,Yerevan,82.0,2.8
+Center,72000.0,panel,Nalbandyan St,Yerevan,53.0,2.8
+Center,110000.0,stone,Mashtots Ave,Yerevan,102.0,3.2
+Center,71000.0,stone,Baghramyan Ave (Kentron),Yerevan,61.0,3.2
+Center,30000.0,stone,Koryun alley,Yerevan,33.0,3.0
+Center,200000.0,stone,Tamanyan St,Yerevan,72.0,3.0
+Center,77000.0,stone,Mashtots Ave,Yerevan,62.0,3.0
+Center,70000.0,panel,Hin yerevantsi St,Yerevan,46.0,2.8
+Center,50000.0,panel,Kajaznuni St,Yerevan,40.0,2.8
+Center,72000.0,monolit,Tsitsernakaberd Highway,Yerevan,70.0,2.8
+Center,66000.0,stone,Baghramyan Ave (Kentron),Yerevan,53.0,3.0
+Center,115000.0,monolit,Antarayin St,Yerevan,85.0,3.0
+Center,100000.0,stone,Sayat Nova Ave,Yerevan,70.0,2.8
+Center,85000.0,panel,Agatangeghos St,Yerevan,95.0,2.8
+Center,133300.0,monolit,Leo St,Yerevan,86.0,3.2
+Center,75000.0,stone,Khanjyan St,Yerevan,76.0,3.2
+Center,76000.0,panel,E. Qochar St,Yerevan,80.0,3.0
+Center,65000.0,panel,M.Khorenatsi St,Yerevan,72.0,2.8
+Center,43000.0,stone,Tigran Mets Ave,Yerevan,34.0,3.0
+Center,43000.0,monolit,Argishti St,Yerevan,37.0,3.0
+Center,42900.0,panel,Pushkin St,Yerevan,40.0,2.8
+Center,43000.0,panel,Tigran Mets Ave,Yerevan,42.0,2.8
+Center,42500.0,panel,A.Manukyan St,Yerevan,40.0,2.8
+Center,42500.0,panel,Vardanants St,Yerevan,40.0,3.0
+Center,42000.0,stone,M.Khorenatsi St,Yerevan,72.0,3.2
+Center,44000.0,panel,E. Qochar St,Yerevan,51.0,2.8
+Center,43500.0,other,Kajaznuni St,Yerevan,40.0,2.8
+Center,45000.0,panel,Bryusov St,Yerevan,101.0,3.0
+Center,44000.0,panel,Kajaznuni St,Yerevan,70.0,2.8
+Center,44000.0,other,Tigran Mets Ave,Yerevan,43.0,3.0
+Center,145000.0,stone,Hanrapetutyan St,Yerevan,94.0,3.0
+Center,145000.0,monolit,Antarayin St,Yerevan,145.0,3.0
+Center,145000.0,stone,Saryan St,Yerevan,123.0,2.8
+Center,145000.0,monolit,Aram St,Yerevan,111.0,3.2
+Center,145000.0,panel,Nalbandyan St,Yerevan,96.0,2.8
+Center,145000.0,stone,Bayron St,Yerevan,85.0,3.0
+Center,145000.0,stone,M.Khorenatsi St,Yerevan,100.0,3.0
+Center,145000.0,panel,Paronyan St,Yerevan,109.0,2.8
+Center,145000.0,stone,Tumanyan St,Yerevan,80.0,2.8
+Center,145000.0,monolit,Tsitsernakaberd Highway,Yerevan,115.0,2.8
+Center,145000.0,stone,Tumanyan St,Yerevan,93.0,2.8
+Center,145000.0,other,Rostom St,Yerevan,130.0,2.8
+Center,145000.0,monolit,Aram St,Yerevan,111.0,3.0
+Center,148000.0,other,Buzand St,Yerevan,134.0,3.0
+Center,149000.0,monolit,Amiryan St,Yerevan,80.0,3.0
+Center,149000.0,monolit,Aram St,Yerevan,80.0,3.2
+Center,147000.0,monolit,Verin Antarayin,Yerevan,125.0,3.2
+Center,148000.0,stone,Nalbandyan St,Yerevan,114.0,3.8
+Center,149000.0,monolit,Aram St,Yerevan,80.0,3.0
+Center,149000.0,stone,Teryan St,Yerevan,47.0,3.2
+Center,150000.0,monolit,Sayat Nova Ave,Yerevan,95.0,3.0
+Center,149000.0,monolit,Aram St,Yerevan,80.0,3.0
+Center,150000.0,other,Aram St,Yerevan,111.0,3.0
+Center,149000.0,stone,Mashtots Ave,Yerevan,106.0,2.8
+Center,150000.0,stone,Tumanyan St,Yerevan,49.0,3.2
+Center,150000.0,panel,Baghramyan Ave  1 blind end,Yerevan,115.0,2.8
+Center,43000.0,other,Tigran Mets Ave,Yerevan,42.0,2.8
+Center,43000.0,stone,Tpagrichner St,Yerevan,38.0,3.2
+Center,43000.0,stone,Tpagrichner St,Yerevan,40.0,2.8
+Center,90000.0,panel,M.Khorenatsi St,Yerevan,74.0,2.8
+Center,64000.0,monolit,Amiryan St,Yerevan,60.0,3.0
+Center,95000.0,panel,Moskovyan St,Yerevan,76.0,2.8
+Center,62000.0,monolit,Argishti St,Yerevan,57.0,3.0
+Center,84000.0,stone,Mashtots Ave,Yerevan,68.0,3.2
+Center,85000.0,monolit,Buzand St,Yerevan,53.0,3.0
+Center,155000.0,stone,Bayron St,Yerevan,95.0,3.0
+Center,69000.0,panel,Tumanyan St,Yerevan,42.0,2.8
+Center,48000.0,panel,Kajaznuni St,Yerevan,52.0,2.8
+Center,150000.0,stone,Saryan St,Yerevan,93.0,3.0
+Center,95000.0,stone,Nalbandyan St,Yerevan,78.0,3.2
+Center,160000.0,monolit,Argishti St,Yerevan,112.0,3.0
+Center,155000.0,stone,Sayat Nova Ave,Yerevan,106.0,3.0
+Center,95000.0,other,Sayat Nova Ave,Yerevan,63.0,3.0
+Center,70000.0,monolit,Tsitsernakaberd Highway,Yerevan,60.0,3.0
+Center,68000.0,stone,Hanrapetutyan St,Yerevan,62.0,3.0
+Center,98000.0,monolit,Tsitsernakaberd Highway,Yerevan,116.0,3.2
+Center,120000.0,stone,Mashtots Ave,Yerevan,75.0,3.2
+Center,46000.0,panel,Tumanyan St,Yerevan,40.0,2.8
+Center,110000.0,stone,Tumanyan St,Yerevan,45.0,3.2
+Center,92000.0,panel,Koghbatsi St,Yerevan,95.0,2.8
+Center,127000.0,panel,Koghbatsi St,Yerevan,100.0,2.8
+Center,150000.0,stone,Tumanyan St,Yerevan,105.0,3.2
+Center,90000.0,stone,Khanjyan St,Yerevan,71.0,3.0
+Center,72000.0,panel,Tumanyan St,Yerevan,54.0,2.8
+Center,78000.0,stone,Tpagrichner St,Yerevan,70.0,2.8
+Center,120000.0,panel,Pushkin St,Yerevan,72.0,2.8
+Center,155000.0,stone,Koghbatsi St,Yerevan,100.0,2.8
+Center,123000.0,panel,Hanrapetutyan St,Yerevan,89.0,2.8
+Center,120000.0,monolit,Paronyan St,Yerevan,101.0,3.0
+Center,105000.0,monolit,Verin Antarayin,Yerevan,81.0,2.8
+Center,135000.0,monolit,Amiryan St,Yerevan,90.0,3.0
+Center,78000.0,stone,Khanjyan St,Yerevan,76.0,3.2
+Center,95000.0,stone,Nalbandyan St,Yerevan,86.0,3.0
+Center,74000.0,panel,Hin yerevantsi St,Yerevan,50.0,2.8
+Center,118000.0,stone,Nalbandyan St,Yerevan,80.0,3.0
+Center,93000.0,panel,Pushkin St,Yerevan,77.0,3.0
+Center,85000.0,stone,Paronyan St,Yerevan,74.0,3.2
+Center,73000.0,panel,M.Khorenatsi St,Yerevan,70.0,3.0
+Center,140000.0,stone,Sayat Nova Ave,Yerevan,96.0,3.0
+Center,125000.0,stone,Isahakyan St,Yerevan,60.0,3.2
+Center,75000.0,stone,Vardanants St,Yerevan,80.0,3.2
+Center,41800.0,panel,Pushkin St,Yerevan,40.0,2.8
+Center,41800.0,stone,D. Demirchyan St,Yerevan,48.0,2.8
+Center,64000.0,panel,E. Qochar St,Yerevan,68.0,2.8
+Center,41000.0,stone,Nalbandyan St,Yerevan,40.0,2.8
+Center,170000.0,stone,Antarayin St,Yerevan,110.0,3.0
+Center,41000.0,panel,Kajaznuni St,Yerevan,42.0,2.8
+Center,79000.0,other,Tsitsernakaberd Highway,Yerevan,75.0,3.0
+Center,120000.0,monolit,Mashtots Ave,Yerevan,60.0,3.0
+Center,128000.0,panel,M.Khorenatsi St,Yerevan,87.0,2.8
+Center,250000.0,monolit,Verin Antarayin,Yerevan,148.0,3.0
+Center,125000.0,other,Koghbatsi St,Yerevan,110.0,2.8
+Center,70000.0,panel,E. Qochar St,Yerevan,83.0,2.8
+Center,52000.0,panel,Tsaturian St,Yerevan,67.0,2.8
+Center,125000.0,other,Mashtots Ave,Yerevan,66.0,2.8
+Center,120000.0,panel,Pushkin St,Yerevan,106.0,2.8
+Center,120000.0,other,Nalbandyan St,Yerevan,90.0,2.8
+Center,115000.0,monolit,Buzand St,Yerevan,59.0,3.0
+Center,75000.0,panel,E. Qochar St,Yerevan,90.0,2.8
+Center,39000.0,monolit,Argishti St,Yerevan,36.0,3.0
+Center,39000.0,panel,D. Demirchyan St,Yerevan,45.0,2.8
+Center,138000.0,stone,Nalbandyan St,Yerevan,127.0,2.8
+Center,95000.0,monolit,Rostom St,Yerevan,76.0,3.0
+Center,137000.0,monolit,Tsitsernakaberd Highway,Yerevan,100.0,2.8
+Center,105000.0,stone,Sayat Nova Ave,Yerevan,72.0,3.0
+Center,37000.0,panel,Tigran Mets Ave,Yerevan,42.0,2.8
+Center,150000.0,stone,Teryan St,Yerevan,60.0,3.0
+Center,48000.0,panel,Mashtots Ave,Yerevan,41.0,2.8
+Center,95000.0,monolit,Argishti St,Yerevan,105.0,2.8
+Center,48000.0,other,NarDos St,Yerevan,64.0,2.8
+Center,38000.0,panel,Koghbatsi St,Yerevan,40.0,2.8
+Center,38000.0,other,Argishti St,Yerevan,40.0,3.0
+Center,38000.0,panel,Koghbatsi St,Yerevan,40.0,2.8
+Center,38000.0,panel,D. Demirchyan St,Yerevan,44.0,2.8
+Center,35000.0,stone,Tigran Mets Ave,Yerevan,57.0,2.8
+Center,36000.0,stone,Tigran Mets Ave,Yerevan,43.0,3.2
+Center,36000.0,stone,Tigran Mets Ave,Yerevan,90.0,3.2
+Center,35900.0,panel,Tigran Mets Ave,Yerevan,47.0,2.8
+Center,149000.0,monolit,Northern Ave,Yerevan,70.0,3.0
+Center,36000.0,monolit,Argishti St,Yerevan,36.0,3.2
+Center,155000.0,monolit,Northern Ave,Yerevan,130.0,3.0
+Center,105000.0,stone,Nalbandyan St,Yerevan,75.0,2.8
+Center,85000.0,stone,Vardanants alley,Yerevan,83.0,3.0
+Center,275000.0,stone,Buzand St,Yerevan,134.0,3.0
+Center,250000.0,monolit,Vardanants St,Yerevan,92.0,3.0
+Center,170000.0,stone,Mashtots Ave,Yerevan,88.0,3.2
+Center,105000.0,stone,Hanrapetutyan St,Yerevan,80.0,2.8
+Center,127000.0,stone,Tumanyan St,Yerevan,106.0,3.2
+Center,125000.0,panel,Agatangeghos St,Yerevan,93.0,2.8
+Center,115000.0,stone,Tpagrichner St,Yerevan,98.0,2.8
+Center,220000.0,monolit,Teryan St,Yerevan,137.0,3.0
+Center,215000.0,monolit,Sayat Nova Ave,Yerevan,120.0,3.0
+Center,160000.0,stone,Hanrapetutyan St,Yerevan,91.0,3.0
+Center,75000.0,stone,Khanjyan St,Yerevan,76.0,3.2
+Center,230000.0,stone,Teryan St,Yerevan,98.0,3.2
+Center,80000.0,stone,Charents St,Yerevan,86.0,3.0
+Center,150000.0,monolit,Saryan St,Yerevan,80.0,2.8
+Center,90000.0,stone,Bayron St,Yerevan,54.0,2.8
+Center,130000.0,stone,Bayron St,Yerevan,80.0,2.8
+Center,78000.0,other,Yekmalyan St,Yerevan,40.0,3.0
+Center,95000.0,stone,Charents St,Yerevan,106.0,3.0
+Center,26000.0,stone,G.Lusavorich St,Yerevan,32.0,2.6
+Center,85000.0,stone,Zakyan St,Yerevan,67.0,2.6
+Center,135000.0,other,Tsitsernakaberd Highway,Yerevan,100.0,2.8
+Center,235000.0,monolit,Mashtots Ave,Yerevan,138.0,3.0
+Center,50000.0,monolit,Sayat Nova Ave,Yerevan,33.0,3.0
+Center,90000.0,stone,Heratsi St,Yerevan,115.0,3.2
+Center,117000.0,monolit,Mashtots Ave,Yerevan,63.0,3.0
+Center,170000.0,monolit,Aram St,Yerevan,100.0,3.0
+Center,150000.0,stone,Tumanyan St,Yerevan,90.0,3.2
+Center,103000.0,stone,Nalbandyan St,Yerevan,64.0,3.0
+Center,52000.0,stone,Abovyan St,Yerevan,40.0,2.6
+Center,165000.0,stone,Tumanyan St,Yerevan,141.0,2.8
+Center,185000.0,monolit,Aram St,Yerevan,115.0,3.0
+Center,185000.0,stone,Sayat Nova Ave,Yerevan,120.0,3.0
+Center,185000.0,monolit,Vardanants St,Yerevan,91.0,3.0
+Center,185000.0,stone,Mashtots Ave,Yerevan,143.0,2.8
+Center,185000.0,stone,Mashtots Ave,Yerevan,110.0,3.2
+Center,185000.0,other,A.Manukyan St,Yerevan,145.0,3.0
+Center,185000.0,stone,Pushkin St,Yerevan,145.0,3.0
+Center,187000.0,stone,Sayat Nova Ave,Yerevan,120.0,3.0
+Center,188500.0,monolit,Tumanyan 1 passage,Yerevan,145.0,2.8
+Center,185000.0,monolit,Tumanyan St,Yerevan,132.0,3.2
+Center,188000.0,monolit,Leo St,Yerevan,121.0,3.2
+Center,185000.0,monolit,Teryan St,Yerevan,137.0,3.2
+Center,189000.0,monolit,Aram St,Yerevan,135.0,3.0
+Center,189000.0,monolit,Amiryan St,Yerevan,95.0,3.0
+Center,190000.0,stone,Koghbatsi St,Yerevan,130.0,3.2
+Center,190000.0,monolit,Aram St,Yerevan,136.0,3.2
+Center,190000.0,stone,Sayat Nova Ave,Yerevan,87.0,3.0
+Center,190000.0,panel,Sayat Nova Ave,Yerevan,100.0,2.8
+Center,190000.0,stone,Paronyan St,Yerevan,128.0,3.2
+Center,190000.0,other,Mashtots Ave,Yerevan,88.0,2.8
+Center,190000.0,monolit,Yekmalyan St,Yerevan,135.0,3.0
+Center,194000.0,monolit,Leo St,Yerevan,125.0,3.2
+Center,195000.0,other,Aram St,Yerevan,92.0,2.8
+Center,193000.0,stone,Tamanyan St,Yerevan,75.0,3.2
+Center,195000.0,stone,Tumanyan St,Yerevan,146.0,3.0
+Center,195000.0,stone,Sayat Nova Ave,Yerevan,120.0,2.8
+Center,195000.0,monolit,Sayat Nova Ave,Yerevan,119.0,3.0
+Center,195000.0,monolit,Sayat Nova Ave,Yerevan,119.0,3.0
+Center,195000.0,stone,Baghramyan Ave (Kentron),Yerevan,93.0,3.2
+Center,195000.0,monolit,Mashtots Ave,Yerevan,104.0,2.8
+Center,195000.0,monolit,Sayat Nova Ave,Yerevan,113.0,3.0
+Center,198900.0,monolit,D. Demirchyan St,Yerevan,117.0,3.2
+Center,199999.0,monolit,Aram St,Yerevan,83.0,3.0
+Center,200000.0,monolit,Antarayin St,Yerevan,115.0,2.8
+Center,200000.0,stone,Hanrapetutyan St,Yerevan,112.0,3.2
+Center,199000.0,stone,Amiryan St,Yerevan,118.0,3.2
+Center,200000.0,other,Aram St,Yerevan,102.0,2.8
+Center,199999.0,stone,Tumanyan St,Yerevan,146.0,2.8
+Center,88000.0,stone,Zakyan St,Yerevan,107.0,2.6
+Center,158000.0,monolit,Buzand St,Yerevan,73.0,3.0
+Center,71500.0,monolit,Tsitsernakaberd Highway,Yerevan,66.0,2.8
+Center,140000.0,stone,Mashtots Ave,Yerevan,135.0,3.0
+Center,80000.0,stone,Charents St,Yerevan,86.0,3.0
+Center,72000.0,panel,Tumanyan St,Yerevan,57.0,2.8
+Center,86000.0,stone,Zakyan St,Yerevan,54.0,3.0
+Center,50000.0,stone,Abovyan St,Yerevan,42.0,2.6
+Center,120000.0,panel,Pushkin St,Yerevan,90.0,2.8
+Center,110000.0,monolit,Nalbandyan St,Yerevan,78.0,2.8
+Center,90000.0,panel,Zakyan St,Yerevan,70.0,2.8
+Center,125000.0,other,Buzand St,Yerevan,60.0,2.8
+Center,200000.0,other,Hin yerevantsi St,Yerevan,75.0,2.8
+Center,68000.0,panel,Koghbatsi St,Yerevan,50.0,2.8
+Center,108000.0,other,Koghbatsi St,Yerevan,90.0,3.2
+Center,70000.0,monolit,Charents St,Yerevan,55.0,2.8
+Center,225000.0,other,Aram St,Yerevan,117.0,3.0
+Center,46000.0,panel,Tigran Mets Ave,Yerevan,44.0,2.8
+Center,150000.0,monolit,Saryan St,Yerevan,123.0,2.8
+Center,185000.0,monolit,D. Demirchyan St,Yerevan,135.0,2.8
+Center,127000.0,monolit,M.Khorenatsi St,Yerevan,100.0,2.8
+Center,110000.0,stone,Khanjyan St,Yerevan,80.0,3.2
+Center,45000.0,monolit,Argishti St,Yerevan,37.0,3.0
+Center,72000.0,panel,Koghbatsi St,Yerevan,72.0,2.8
+Center,175000.0,stone,Hanrapetutyan St,Yerevan,138.0,3.0
+Center,120000.0,stone,Mashtots Ave,Yerevan,72.0,3.2
+Center,90000.0,stone,Zakyan St,Yerevan,100.0,3.2
+Center,43000.0,panel,Heratsi St,Yerevan,43.0,2.8
+Center,60000.0,panel,Tigran Mets Ave,Yerevan,43.0,3.0
+Center,220000.0,panel,Teryan St,Yerevan,100.0,2.8
+Center,200000.0,monolit,Mher Mkrtchyan St,Yerevan,110.0,3.0
+Center,160000.0,stone,Abovyan St,Yerevan,104.0,2.6
+Center,120000.0,monolit,Aram St,Yerevan,63.0,3.0
+Center,65000.0,panel,Tumanyan St,Yerevan,46.0,2.8
+Center,69500.0,stone,Hanrapetutyan St,Yerevan,60.0,2.6
+Center,65900.0,panel,E. Qochar St,Yerevan,98.0,2.8
+Center,55900.0,stone,Arshakunyats Ave,Yerevan,75.0,2.8
+Center,39900.0,stone,Heratsi St,Yerevan,48.0,2.8
+Center,47900.0,other,Tigran Mets Ave,Yerevan,75.0,2.6
+Center,170000.0,other,Vardanants St,Yerevan,90.0,2.8
+Center,75000.0,other,Rostom St,Yerevan,78.0,2.8
+Center,85000.0,other,Rostom St,Yerevan,107.0,2.8
+Center,88000.0,stone,Zakyan St,Yerevan,108.0,2.8
+Center,180000.0,stone,Sayat Nova Ave,Yerevan,92.0,3.2
+Center,34000.0,panel,E. Qochar St,Yerevan,40.0,2.8
+Center,39000.0,stone,M.Khorenatsi St,Yerevan,46.0,2.8
+Center,180000.0,monolit,Mashtots Ave,Yerevan,88.0,3.0
+Center,180000.0,stone,Nalbandyan St,Yerevan,117.0,2.8
+Center,180000.0,stone,Abovyan St,Yerevan,120.0,3.2
+Center,180000.0,monolit,Aram St,Yerevan,93.0,3.2
+Center,180000.0,stone,Abovyan St,Yerevan,145.0,3.2
+Center,180000.0,monolit,Koghbatsi St,Yerevan,107.0,3.0
+Center,180000.0,stone,Mashtots Ave,Yerevan,102.0,3.0
+Center,180000.0,monolit,Antarayin St,Yerevan,129.0,3.2
+Center,180000.0,other,Nalbandyan St,Yerevan,136.0,3.0
+Center,180000.0,stone,Charents St,Yerevan,100.0,2.8
+Center,180000.0,monolit,Tsitsernakaberd Highway,Yerevan,120.0,2.8
+Center,180000.0,monolit,Charents St,Yerevan,125.0,2.8
+Center,180000.0,monolit,Charents St,Yerevan,125.0,3.0
+Center,180000.0,monolit,Charents St,Yerevan,125.0,2.8
+Center,180000.0,monolit,Buzand St,Yerevan,97.0,3.0
+Center,180000.0,monolit,Charents St,Yerevan,125.0,3.0
+Center,182000.0,other,Yekmalyan St,Yerevan,145.0,3.0
+Center,182000.0,stone,Mashtots Ave,Yerevan,113.0,3.2
+Center,35000.0,monolit,Vardanants St,Yerevan,42.0,2.8
+Center,72000.0,other,Tsitsernakaberd Highway,Yerevan,67.0,3.0
+Center,250000.0,monolit,Yekmalyan St,Yerevan,119.0,3.0
+Center,110000.0,stone,Sayat Nova Ave,Yerevan,90.0,3.2
+Center,110000.0,monolit,Argishti St,Yerevan,112.0,3.0
+Center,133000.0,monolit,Amiryan St,Yerevan,78.0,3.0
+Center,80000.0,other,NarDos St,Yerevan,89.0,2.8
+Center,87000.0,stone,Nalbandyan St,Yerevan,64.0,2.8
+Center,64000.0,panel,Aygestan 10 St,Yerevan,62.0,2.8
+Center,95000.0,monolit,Pushkin St,Yerevan,98.0,3.0
+Center,190000.0,stone,Charents St,Yerevan,146.0,3.0
+Center,90000.0,stone,Abovyan St,Yerevan,80.0,2.8
+Center,83000.0,panel,Bryusov St,Yerevan,82.0,2.8
+Center,190000.0,other,Abovyan St,Yerevan,128.0,2.8
+Center,190000.0,monolit,Pushkin St,Yerevan,110.0,2.8
+Center,190000.0,monolit,Aram St,Yerevan,140.0,3.0
+Center,190000.0,monolit,Aram St,Yerevan,138.0,2.8
+Center,190000.0,monolit,Aram St,Yerevan,115.0,3.2
+Center,190000.0,monolit,Amiryan St,Yerevan,95.0,3.0
+Center,190000.0,other,Yekmalyan St,Yerevan,135.0,3.0
+Center,190000.0,stone,Sayat Nova Ave,Yerevan,115.0,3.2
+Center,190000.0,monolit,Buzand St,Yerevan,128.0,3.0
+Center,190000.0,other,Sayat Nova Ave,Yerevan,119.0,2.8
+Center,190000.0,monolit,Charents St,Yerevan,125.0,3.0
+Center,190000.0,other,Sayat Nova Ave,Yerevan,98.0,2.8
+Center,190000.0,monolit,Tsitsernakaberd Highway,Yerevan,120.0,3.0
+Center,190000.0,monolit,Verin Antarayin,Yerevan,130.0,3.0
+Center,190000.0,monolit,Aram St,Yerevan,115.0,3.0
+Center,190000.0,monolit,Charents St,Yerevan,124.0,3.0
+Center,190000.0,monolit,Yekmalyan St,Yerevan,135.0,3.0
+Center,190000.0,stone,Mashtots Ave,Yerevan,135.0,2.8
+Center,191000.0,monolit,Sayat Nova Ave,Yerevan,120.0,2.8
+Center,179000.0,stone,Sayat Nova Ave,Yerevan,115.0,3.0
+Center,180000.0,other,Ler. Kamsar St,Yerevan,102.0,3.0
+Center,180000.0,stone,Saryan St,Yerevan,143.0,3.0
+Center,180000.0,stone,Saryan St,Yerevan,143.0,2.8
+Center,180000.0,monolit,Saryan St,Yerevan,124.0,2.8
+Center,180000.0,stone,Mashtots Ave,Yerevan,102.0,3.0
+Center,180000.0,other,Aram St,Yerevan,93.0,2.8
+Center,180000.0,monolit,Aram St,Yerevan,115.0,3.0
+Center,180000.0,panel,Bryusov St,Yerevan,100.0,3.0
+Center,180000.0,stone,Tumanyan St,Yerevan,85.0,3.2
+Center,180000.0,stone,Leo St,Yerevan,89.0,3.0
+Center,180000.0,stone,Tigran Mets Ave,Yerevan,130.0,3.2
+Center,180000.0,monolit,Aram St,Yerevan,80.0,2.8
+Center,180000.0,stone,Saryan St,Yerevan,110.0,2.8
+Center,180000.0,monolit,Aram St,Yerevan,65.0,3.2
+Center,180000.0,monolit,Nalbandyan St,Yerevan,136.0,3.0
+Center,180000.0,monolit,Aram St,Yerevan,100.0,3.0
+Center,180000.0,stone,Baghramyan Ave (Kentron),Yerevan,130.0,3.2
+Center,180000.0,monolit,Aram St,Yerevan,115.0,3.0
+Center,180000.0,monolit,Aram St,Yerevan,115.0,3.2
+Center,180000.0,monolit,Sayat Nova Ave,Yerevan,90.0,2.8
+Center,180000.0,stone,D. Demirchyan St,Yerevan,132.0,2.8
+Center,180000.0,monolit,Vardanants St,Yerevan,91.0,3.2
+Center,200000.0,other,Charents St,Yerevan,125.0,3.0
+Center,76000.0,panel,E. Qochar St,Yerevan,80.0,2.8
+Center,97000.0,stone,Abovyan St,Yerevan,37.0,3.2
+Center,145000.0,stone,Abovyan St,Yerevan,107.0,3.0
+Center,125000.0,stone,Sayat Nova Ave,Yerevan,110.0,3.2
+Center,185000.0,other,Nalbandyan St,Yerevan,136.0,3.0
+Center,135000.0,monolit,Tsitsernakaberd Highway,Yerevan,100.0,3.0
+Center,200000.0,monolit,Teryan St,Yerevan,136.0,3.0
+Center,230000.0,stone,Teryan St,Yerevan,98.0,3.0
+Center,200000.0,monolit,Aram St,Yerevan,135.0,3.0
+Center,95000.0,monolit,Verin Antarayin,Yerevan,81.0,3.0
+Center,95000.0,panel,Hanrapetutyan St,Yerevan,92.0,2.8
+Center,87000.0,other,Mashtots Ave,Yerevan,84.0,3.2
+Center,210000.0,monolit,M.Khorenatsi St,Yerevan,115.0,2.8
+Center,210000.0,stone,Nalbandyan St,Yerevan,140.0,3.2
+Center,210000.0,monolit,Aram St,Yerevan,135.0,3.0
+Center,210000.0,stone,Tamanyan St,Yerevan,72.0,3.0
+Center,210000.0,stone,Baghramyan Ave (Kentron),Yerevan,114.0,3.2
+Center,210000.0,monolit,Antarayin St,Yerevan,133.0,3.0
+Center,210000.0,other,Pushkin St,Yerevan,108.0,3.0
+Center,210000.0,monolit,Aram St,Yerevan,135.0,3.0
+Center,210000.0,monolit,Aram St,Yerevan,135.0,3.0
+Center,210000.0,stone,Mashtots Ave,Yerevan,118.0,3.0
+Center,210000.0,monolit,Abovyan St,Yerevan,106.0,2.8
+Center,210000.0,monolit,Verin Antarayin,Yerevan,105.0,2.8
+Center,210000.0,stone,Moskovyan St,Yerevan,80.0,2.8
+Center,210000.0,monolit,Saryan St,Yerevan,124.0,3.0
+Center,210000.0,stone,Abovyan St,Yerevan,100.0,3.2
+Center,210000.0,stone,Moskovyan St,Yerevan,80.0,3.2
+Center,31000.0,panel,Tigran Mets Ave,Yerevan,41.0,2.8
+Center,43000.0,panel,Zavaryan St,Yerevan,70.0,2.8
+Center,110000.0,stone,NarDos St,Yerevan,90.0,3.0
+Center,82000.0,monolit,Heratsi St,Yerevan,94.0,2.8
+Center,105000.0,stone,Vardanants St,Yerevan,78.0,2.8
+Center,140000.0,stone,Nalbandyan St,Yerevan,114.0,3.0
+Center,250000.0,other,Northern Ave,Yerevan,132.0,2.8
+Center,110000.0,other,Verin Antarayin,Yerevan,90.0,2.8
+Center,216000.0,stone,Baghramyan Ave (Kentron),Yerevan,114.0,3.2
+Center,60000.0,stone,Hanrapetutyan St,Yerevan,47.0,2.8
+Center,59000.0,stone,Nalbandyan St,Yerevan,43.0,2.8
+Center,110000.0,stone,Zakyan St,Yerevan,80.0,2.8
+Center,50500.0,stone,Tigran Mets Ave,Yerevan,63.0,2.8
+Center,82000.0,panel,D. Demirchyan St,Yerevan,90.0,2.8
+Center,85000.0,monolit,Amiryan St,Yerevan,75.0,2.8
+Center,97000.0,stone,Sayat Nova Ave,Yerevan,57.0,3.0
+Center,150000.0,panel,Hin yerevantsi St,Yerevan,68.0,3.0
+Center,83000.0,stone,Abovyan St,Yerevan,39.0,2.8
+Center,130000.0,stone,Bayron St,Yerevan,78.0,3.2
+Center,135000.0,stone,Abovyan St,Yerevan,107.0,3.0
+Center,100000.0,stone,Abovyan St,Yerevan,39.0,2.8
+Center,190000.0,stone,Abovyan St,Yerevan,81.0,3.0
+Center,90000.0,other,Paronyan St,Yerevan,70.0,3.2
+Center,110000.0,stone,Paronyan St,Yerevan,76.0,2.8
+Center,300000.0,monolit,Aram St,Yerevan,136.0,3.0
+Center,115000.0,stone,Saryan St,Yerevan,95.0,3.2
+Center,210000.0,monolit,Antarayin St,Yerevan,130.0,3.0
+Center,132000.0,monolit,Sayat Nova Ave,Yerevan,80.0,3.0
+Center,48000.0,panel,Kajaznuni St,Yerevan,44.0,2.8
+Center,87000.0,stone,Khanjyan St,Yerevan,70.0,2.8
+Center,175000.0,stone,Tamanyan St,Yerevan,71.0,3.2
+Center,85000.0,stone,Mashtots Ave,Yerevan,96.0,3.2
+Center,85000.0,stone,Mashtots Ave,Yerevan,68.0,3.0
+Center,64000.0,stone,Mashtots Ave,Yerevan,31.0,3.0
+Center,85000.0,stone,Israelyan St,Yerevan,70.0,3.2
+Center,140000.0,monolit,Koghbatsi St,Yerevan,88.0,2.8
+Center,99000.0,panel,Koghbatsi St,Yerevan,92.0,2.8
+Center,161000.0,monolit,Aram St,Yerevan,115.0,3.0
+Center,180000.0,monolit,Buzand St,Yerevan,90.0,3.0
+Center,237000.0,monolit,Buzand St,Yerevan,132.0,3.0
+Center,209000.0,monolit,Abovyan St,Yerevan,136.0,3.0
+Center,185000.0,stone,Tamanyan St,Yerevan,70.0,3.2
+Center,75000.0,panel,Tigran Mets Ave,Yerevan,86.0,2.8
+Center,79000.0,monolit,Tsitsernakaberd Highway,Yerevan,86.0,3.0
+Center,88000.0,panel,Bryusov St,Yerevan,96.0,2.8
+Center,65000.0,panel,Paronyan St,Yerevan,70.0,2.8
+Center,210000.0,monolit,Buzand St,Yerevan,103.0,3.0
+Center,150000.0,stone,Tumanyan St,Yerevan,70.0,2.8
+Center,41000.0,panel,Aygestan 11 St,Yerevan,44.0,2.8
+Center,75000.0,other,Amiryan St,Yerevan,67.0,2.8
+Center,125000.0,stone,Abovyan St,Yerevan,87.0,3.2
+Center,65000.0,panel,Paronyan St,Yerevan,70.0,2.8
+Center,150000.0,stone,Mashtots Ave,Yerevan,65.0,3.0
+Center,85000.0,panel,Mashtots Ave,Yerevan,52.0,2.8
+Center,140000.0,stone,Mashtots Ave,Yerevan,133.0,3.0
+Center,120000.0,monolit,Nalbandyan St,Yerevan,72.0,3.0
+Center,350000.0,monolit,Northern Ave,Yerevan,145.0,3.0
+Center,67000.0,other,Hin yerevantsi St,Yerevan,63.0,2.8
+Center,66000.0,panel,Koghbatsi St,Yerevan,47.0,2.8
+Center,85000.0,stone,Charents St,Yerevan,86.0,3.0
+Center,120000.0,stone,Moskovyan St,Yerevan,80.0,2.8
+Center,85000.0,other,Aygestan 9 St,Yerevan,75.0,2.8
+Center,100000.0,stone,Tpagrichner St,Yerevan,91.0,3.2
+Center,99000.0,panel,Baghramyan Ave  1 blind end,Yerevan,86.0,2.8
+Center,115000.0,stone,Moskovyan St,Yerevan,92.0,3.2
+Center,53000.0,monolit,Argishti St,Yerevan,55.0,3.0
+Center,125000.0,stone,Tumanyan St,Yerevan,65.0,3.0
+Center,53000.0,monolit,Argishti St,Yerevan,55.0,3.0
+Center,85000.0,stone,D. Demirchyan St,Yerevan,88.0,3.2
+Center,63000.0,panel,Tumanyan St,Yerevan,63.0,2.8
+Center,75000.0,monolit,Tsitsernakaberd Highway,Yerevan,72.0,3.0
+Center,72000.0,stone,NarDos St,Yerevan,75.0,2.6
+Center,60000.0,panel,Kajaznuni St,Yerevan,80.0,2.8
+Center,110000.0,stone,Sayat Nova Ave,Yerevan,59.0,3.0
+Center,100000.0,panel,Pushkin St,Yerevan,89.0,2.8
+Center,43000.0,panel,Argishti St,Yerevan,35.0,3.0
+Center,130000.0,stone,Nalbandyan St,Yerevan,117.0,2.8
+Center,110000.0,stone,Nalbandyan St,Yerevan,69.0,3.2
+Center,105000.0,stone,Tairov St,Yerevan,72.0,2.8
+Center,75000.0,panel,Tumanyan St,Yerevan,47.0,2.8
+Center,54000.0,panel,NarDos St,Yerevan,68.0,2.8
+Center,91800.0,panel,Sayat Nova Ave,Yerevan,65.0,2.8
+Center,82000.0,monolit,Yekmalyan St,Yerevan,39.0,3.0
+Center,153000.0,stone,Nalbandyan St,Yerevan,92.0,3.2
+Center,115000.0,stone,Nalbandyan St,Yerevan,96.0,2.8
+Center,204000.0,stone,Saryan St,Yerevan,140.0,2.8
+Center,110000.0,monolit,Ler. Kamsar St,Yerevan,90.0,3.0
+Center,97000.0,panel,Saryan St,Yerevan,72.0,2.8
+Center,155000.0,stone,Sayat Nova Ave,Yerevan,106.0,3.0
+Center,75000.0,panel,Kajaznuni St,Yerevan,82.0,2.8
+Center,120000.0,panel,Tumanyan St,Yerevan,63.0,2.8
+Center,220000.0,other,Teryan St,Yerevan,98.0,2.8
+Center,90000.0,panel,Saryan St,Yerevan,90.0,2.8
+Center,195000.0,monolit,Charents St,Yerevan,124.0,3.0
+Center,170000.0,panel,Sayat Nova Ave,Yerevan,80.0,2.8
+Center,74000.0,stone,Hanrapetutyan St,Yerevan,60.0,2.8
+Center,95000.0,panel,Hanrapetutyan St,Yerevan,97.0,2.8
+Center,240000.0,monolit,Yekmalyan St,Yerevan,119.0,3.0
+Center,53500.0,stone,Teryan St,Yerevan,40.0,2.8
+Center,220000.0,stone,Mashtots Ave,Yerevan,100.0,2.8
+Center,82000.0,other,Tsitsernakaberd Highway,Yerevan,65.0,2.8
+Center,185000.0,other,Aram St,Yerevan,115.0,3.0
+Center,95000.0,stone,Tigran Mets Ave,Yerevan,84.0,3.2
+Center,180000.0,other,Deghatan St,Yerevan,100.0,3.0
+Center,180000.0,monolit,Mashtots Ave,Yerevan,83.0,3.0
+Center,170000.0,stone,Saryan St,Yerevan,110.0,3.2
+Center,85000.0,stone,Tpagrichner St,Yerevan,80.0,3.2
+Center,150000.0,stone,Abovyan St,Yerevan,83.0,2.8
+Center,300000.0,monolit,Aram St,Yerevan,141.0,3.0
+Center,72000.0,panel,E. Qochar St,Yerevan,94.0,2.8
+Center,351000.0,other,Vardanants St,Yerevan,135.0,2.8
+Center,160000.0,other,Khanjyan St,Yerevan,81.0,2.8
+Center,85000.0,stone,A.Petrosyan St,Yerevan,68.0,2.8
+Center,74000.0,monolit,Rostom St,Yerevan,78.0,3.0
+Center,36000.0,panel,NarDos St,Yerevan,40.0,2.8
+Center,68500.0,panel,E. Qochar St,Yerevan,78.0,2.8
+Center,250000.0,other,Vardanants St,Yerevan,130.0,2.8
+Center,75000.0,stone,Vardanants St,Yerevan,90.0,2.8
+Center,107000.0,monolit,Mashtots Ave,Yerevan,69.0,3.0
+Center,75000.0,panel,Kajaznuni St,Yerevan,81.0,2.8
+Center,250000.0,stone,Mashtots Ave,Yerevan,135.0,3.2
+Center,265000.0,monolit,Vardanants St,Yerevan,130.0,3.0
+Center,135000.0,stone,Abovyan St,Yerevan,80.0,2.8
+Center,63000.0,panel,M.Khorenatsi St,Yerevan,94.0,2.8
+Center,115000.0,monolit,Saryan St,Yerevan,100.0,2.8
+Center,75000.0,panel,G. Qochar St,Yerevan,95.0,2.8
+Center,55000.0,panel,Tigran Mets Ave,Yerevan,75.0,2.8
+Center,37000.0,monolit,Isakov Ave,Yerevan,43.0,2.8
+Center,62000.0,other,E. Qochar St,Yerevan,75.0,2.8
+Center,54000.0,stone,Tigran Mets Ave,Yerevan,53.0,3.2
+Center,118000.0,monolit,Mashtots Ave,Yerevan,64.0,3.0
+Center,160000.0,stone,Abovyan St,Yerevan,70.0,3.0
+Center,73000.0,stone,Paronyan St,Yerevan,82.0,3.8
+Center,210000.0,stone,Pushkin St,Yerevan,140.0,3.2
+Center,88000.0,stone,Tumanyan St,Yerevan,70.0,3.0
+Center,67000.0,panel,Koghbatsi St,Yerevan,40.0,2.8
+Center,115000.0,stone,Nalbandyan St,Yerevan,80.0,2.8
+Center,190000.0,stone,Mashtots Ave,Yerevan,102.0,3.2
+Center,83000.0,stone,Vardanants St,Yerevan,83.0,3.2
+Center,160000.0,monolit,Buzand St,Yerevan,80.0,3.0
+Center,200000.0,other,Charents St,Yerevan,124.0,2.8
+Center,125000.0,stone,Charents St,Yerevan,106.0,3.0
+Center,150000.0,stone,M.Khorenatsi St,Yerevan,97.0,3.2
+Center,52000.0,stone,Tigran Mets Ave,Yerevan,75.0,2.8
+Center,295000.0,other,Nalbandyan St,Yerevan,135.0,2.8
+Center,200000.0,stone,Tumanyan St,Yerevan,80.0,2.8
+Center,115000.0,other,Pushkin St,Yerevan,85.0,2.8
+Center,78000.0,stone,Paronyan St,Yerevan,85.0,3.2
+Center,115000.0,other,Pushkin St,Yerevan,85.0,2.8
+Center,140000.0,panel,Tumanyan St,Yerevan,91.0,2.8
+Center,140000.0,monolit,Tumanyan St,Yerevan,91.0,2.8
+Center,58000.0,panel,Koghbatsi St,Yerevan,39.0,2.8
+Center,125000.0,panel,Sayat Nova Ave,Yerevan,96.0,2.8
+Center,90000.0,stone,Chaykovski St,Yerevan,84.0,3.2
+Center,140000.0,monolit,Tsitsernakaberd Highway,Yerevan,101.0,3.0
+Center,48000.0,panel,D. Demirchyan St,Yerevan,45.0,3.0
+Center,150000.0,stone,Isahakyan St,Yerevan,75.0,2.8
+Center,50000.0,panel,M.Khorenatsi St,Yerevan,67.0,2.8
+Center,30000.0,panel,Tsovakal Isakov Ave,Yerevan,51.0,2.8
+Center,49500.0,monolit,Vardanants St,Yerevan,41.0,2.8
+Center,67000.0,panel,NarDos St,Yerevan,67.0,3.0
+Center,68000.0,panel,Ghazar Parpetsi St,Yerevan,40.0,2.8
+Center,190000.0,monolit,Mashtots Ave,Yerevan,104.0,3.2
+Center,180000.0,stone,Baghramyan Ave (Kentron),Yerevan,60.0,3.0
+Center,430000.0,monolit,Northern Ave,Yerevan,127.0,3.0

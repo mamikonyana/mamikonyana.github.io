@@ -11,43 +11,22 @@ app = Flask(__name__)
 
 @app.route('/')
 def index():
-    projects = [
-      {
-        'title': 'Machine Learning Course in Yerevan',
-        'description': 'Machine Leraning Course, to make people ready to work in the industry doing ML.',
-        'url': 'ml_afternoon/',
-      },
-      {
-        'title': 'Hygir',
-        'description': 'Help people write in Armenian',
-        'url': 'http://hygir.com',
-      }
-    ]
-    overview_dict = yaml.load(open('knowledge/overview.yml', 'r'))
-    profiles = overview_dict['Social Profiles']
-    interests = overview_dict['Interests']
-    return render_template('index.html',
-                           interests=interests,
-                           profiles=profiles,
-                           projects=projects)
+    return render_template('index.html')
 
 
 @app.route('/reading/')
 def reading():
-    books_dict = yaml.load(open('knowledge/books.yml', 'r'))
-    reading = books_dict['Reading']
+    books_dict = yaml.safe_load(open('knowledge/books.yml', 'r'))
     recomendations = books_dict['Recommend']
-    still_reading = books_dict['Still Reading']
     return render_template('reading.html',
                            title='Reading',
-                           block_to_books={'Currently Reading': reading,
-                                           'Still Reading': still_reading,
-                                           'I recommend': recomendations})
+                           year_only=True,
+                           block_to_books={'I recommend': recomendations})
 
 
 @app.route('/reading_history/')
 def reading_history():
-    books_dict = yaml.load(open('knowledge/books.yml', 'r'))
+    books_dict = yaml.safe_load(open('knowledge/books.yml', 'r'))
     all_books = books_dict['Reading History']
     return render_template('reading.html',
                            title='Books I Have Read',
@@ -71,7 +50,7 @@ def ml_afternoon():
         if _file.endswith('.html'):
             without_ext = os.path.splitext(_file)[0]
             name = string.capwords(re.sub('_', ' ', without_ext))
-            name = re.sub('(\d+) ', r'\1. ', name)
+            name = re.sub(r'(\d+) ', r'\1. ', name)
             if name.endswith('.slides'):
                 slides[name] = '../ml_afternoon/{}/'.format(without_ext)
             elif name.lower().startswith('homework'):
@@ -97,7 +76,7 @@ def ml_evening():
         if _file.endswith('.html'):
             without_ext = os.path.splitext(_file)[0]
             name = string.capwords(re.sub('_', ' ', without_ext))
-            name = re.sub('(\d+) ', r'\1. ', name)
+            name = re.sub(r'(\d+) ', r'\1. ', name)
             if name.endswith('.slides'):
                 slides[name] = '../ml_evening/{}/'.format(without_ext)
             elif name.lower().startswith('homework'):

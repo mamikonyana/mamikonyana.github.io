@@ -1,10 +1,3 @@
-Reading:
-  - title: The Brief History of Time
-  - title: Flappers and Philosophers
-    date: 2016.12-2017.01
-"Still Reading":
-  - title: Cities in Flight
-  - title: The Science Fiction Hall of Fame, Volume Two A
 In Hibernation:
   - title: Արշակ Արքա, Դրաստամատ Ներքինի
     authors:
@@ -12,14 +5,19 @@ In Hibernation:
   - title: The Society of Mind
     authors:
       - Marvin Minsky
-    isbn-13: 978-0671657130
   - title: How to Read a Book
     url: http://en.wikipedia.org/wiki/How_to_Read_a_Book
-    isbn-13: 978-0671212094
     authors:
       - Mortimer Adler
       - Charles Van Doren
 Recommend:
+  - title: Imperial Radch trilogy
+    url: https://en.wikipedia.org/wiki/Imperial_Radch
+    date: 2017
+    authors:
+      - Ann Leckie
+    comments:
+      - Distributed systems in space, with all the failure modes explored.
   - title: Foundation Trilogy
     url: http://en.wikipedia.org/wiki/Foundation_series
     authors:
@@ -34,20 +32,13 @@ Recommend:
     comments:
       - I wanted to read this book for a while and it was worth reading. It's a very intriguing story and thought provoking. It's not an easy read, but well worth the effor. The ending is probably not the great (the very last part) but the story is very interesting and as I said though provoking.
   - title: Black Dog of Fate
+    url: https://www.amazon.com/dp/0465010199
     authors:
       - Peter Balakian
-    isbn-13: 978-0465007042
     date: 2016.04  
     comments:
       - If you are not an Armenian this could be a good way to understand feelings of Armenians about Armenian genocide! It has a very nice personal touch from the author that explains how he feels also give you some historical context of what actually happened, and why it's hard for an Armenian to tell you what happened.
       - If you are Armennian, it's equally good. Book describes how the authorsfeel and I could related to a lot of his feeling and he put a lot of feelings into words which I really liked.
-  - title: The Science Fiction Hall of Fame, Volume One, 1929–1964
-    authors:
-      - Various Authors
-    url: https://en.wikipedia.org/wiki/The_Science_Fiction_Hall_of_Fame,_Volume_One,_1929%E2%80%931964
-    data: 2016.02-04
-    comments:
-      - Great collection, a very nice exploration and introduction to various great artists.
   - title: Short Stories
     comments:
       - “The Wall of Darkness” by Arthur C. Clarke
@@ -65,8 +56,7 @@ Recommend:
     date: 2018.09
     url: https://ru.wikipedia.org/wiki/%D0%9F%D0%B8%D0%BA%D0%BD%D0%B8%D0%BA_%D0%BD%D0%B0_%D0%BE%D0%B1%D0%BE%D1%87%D0%B8%D0%BD%D0%B5
     comments:
-      - I liked, thoThe Little Book of Hygge: Danish Secrets to Happy Living 
-      ught provoking. The premise is really great. The storyline was good, ending could have made more sense.
+      - I liked, thought provoking. The premise is really great. The storyline was good, ending could have made more sense.
   - title: Метро 2033 (Metro 2033)
     url: https://ru.wikipedia.org/wiki/%D0%9C%D0%B5%D1%82%D1%80%D0%BE_2033
     date: 2018.08
@@ -105,7 +95,7 @@ Recommend:
     date: 2018
     comments:
       - I liked it a lot. The Matrix has borrowed quite a lot from this book that came out a year before the movie.
-  - title: Thinking Strategically: The Competitive Edge in Business, Politics, and Everyday Life 
+  - title: "Thinking Strategically: The Competitive Edge in Business, Politics, and Everyday Life"
     date: 2018.04
   - title: Ambassador Morgenthau's Story
     url: https://en.wikipedia.org/wiki/Ambassador_Morgenthau%27s_Story
@@ -114,13 +104,13 @@ Recommend:
       - My 2018's Genocide themed book.
       - Very informative about how politics were done prior and during the WW1 in Europe.
       - Is a story about genocide with more focus on the political situation, but last chapters are pretty brutal, and in terse worlds describes how the Genocide was done.
-  - title: Getting Things Done: The Art of Stress-Free Productivity [audiobook]
-  - title: The Little Book of Hygge: Danish Secrets to Happy Living 
+  - title: "Getting Things Done: The Art of Stress-Free Productivity [audiobook]"
+  - title: "The Little Book of Hygge: Danish Secrets to Happy Living"
     date: 2018.03
     comments:
       - Very optimistic, gives examples, but does not give solutions.
       - Made me think, probably a good idea to read diverse books.
-  - title: A Man for All Markets: From Las Vegas to Wall Street, How I Beat the Dealer and the Market
+  - title: "A Man for All Markets: From Las Vegas to Wall Street, How I Beat the Dealer and the Market"
     date: 2018.02
   - title: Slan
     url: https://en.wikipedia.org/wiki/Slan
@@ -128,7 +118,7 @@ Recommend:
       - About mutants and their prosecution..
   - title: The Three-Body Problem (Remembrance of Earth's Past) 
     date: 2017
-  - title: The Manager's Path: A Guide for Tech Leaders Navigating Growth and Change
+  - title: "The Manager's Path: A Guide for Tech Leaders Navigating Growth and Change"
     date: 2017
   - title: The Gods Themselves
     date: 2017
@@ -200,8 +190,6 @@ Recommend:
     comments:
       - Really recomend! It raises all the interesting questions about distinctions between androids and humans and how to classify one and another. Together with an interesting story that goes with it, creating culture just to be different from androids because we do things to be different. This goes along how people behave themselves too.
   - title: I Am Zlatan Ibrahimovic
-    isbn-13: 978-0241966839
-    isbn-10: 0241966833
     authors:
       - Zlatan Ibrahimovic
       - David Lagercrantz
@@ -225,13 +213,13 @@ Recommend:
     authors:
       - Various Authors
     url: https://en.wikipedia.org/wiki/The_Science_Fiction_Hall_of_Fame,_Volume_One,_1929%E2%80%931964
-    data: 2016.02-04
+    date: 2016.02-04
     comments:
       - Great collection, a very nice exploration and introduction to various great artists.
   - title: Black Dog of Fate
+    url: https://www.amazon.com/dp/0465010199
     authors:
       - Peter Balakian
-    isbn-13: 978-0465007042
     date: 2016.04  
     comments:
       - If you are not an Armenian this could be a good way to understand feelings of Armenians about Armenian genocide! It has a very nice personal touch from the author that explains how he feels also give you some historical context of what actually happened, and why it's hard for an Armenian to tell you what happened.
@@ -406,12 +394,10 @@ Recommend:
     comments:
       - Very well written book, I liked it. It is Fiction but it seems so real that you think you are reading a history book about some person. It makes you think about the values in life, and what is necessary for oneself to live. Very entertaining and I'd recommend, the only downside is that it's a pretty dark novel.
   - title: The Game
-    isbn-13: 978-1847672377
     authors:
       - Neil Strauss
     date: 2015.06
   - title: "The World's Religions (Plus)"
-    isbn-13: 978-0061660184
     authors:
       - Huston Smith
     date: 2015.05
